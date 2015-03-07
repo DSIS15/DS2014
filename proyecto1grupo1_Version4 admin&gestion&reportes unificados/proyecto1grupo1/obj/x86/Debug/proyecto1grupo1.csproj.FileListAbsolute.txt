@@ -1,0 +1,137 @@
+c:\users\owner\documents\visual studio 2010\Projects\proyecto1grupo1\proyecto1grupo1\bin\Debug\proyecto1grupo1.exe
+c:\users\owner\documents\visual studio 2010\Projects\proyecto1grupo1\proyecto1grupo1\bin\Debug\proyecto1grupo1.pdb
+c:\users\owner\documents\visual studio 2010\Projects\proyecto1grupo1\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.Properties.Resources.resources
+c:\users\owner\documents\visual studio 2010\Projects\proyecto1grupo1\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.csproj.GenerateResource.Cache
+c:\users\owner\documents\visual studio 2010\Projects\proyecto1grupo1\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.exe
+c:\users\owner\documents\visual studio 2010\Projects\proyecto1grupo1\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.pdb
+C:\Users\OWNER\documents\visual studio 2010\Projects\proyecto1grupo1\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.csprojResolveAssemblyReference.cache
+C:\Users\OWNER\documents\visual studio 2010\Projects\proyecto1grupo1\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.wfPantallaTurnos.resources
+C:\Users\OWNER\documents\visual studio 2010\Projects\proyecto1grupo1\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.wfMenuTurnos.resources
+C:\Users\OWNER\documents\visual studio 2010\Projects\proyecto1grupo1\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.wfInicioSesion.resources
+C:\Users\OWNER\documents\visual studio 2010\Projects\proyecto1grupo1\proyecto1grupo1\bin\Debug\MySql.Data.dll
+C:\Users\Jessica\Documents\UMG\8vo semestre\Diseño de sistemas\PROYECTO ESTANDARIZADO\proyecto1grupo1_Version2_Login\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.exe
+C:\Users\Jessica\Documents\UMG\8vo semestre\Diseño de sistemas\PROYECTO ESTANDARIZADO\proyecto1grupo1_Version2_Login\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.pdb
+C:\Users\Jessica\Documents\UMG\8vo semestre\Diseño de sistemas\PROYECTO ESTANDARIZADO\proyecto1grupo1_Version2_Login\proyecto1grupo1\bin\Debug\proyecto1grupo1.exe
+C:\Users\Jessica\Documents\UMG\8vo semestre\Diseño de sistemas\PROYECTO ESTANDARIZADO\proyecto1grupo1_Version2_Login\proyecto1grupo1\bin\Debug\proyecto1grupo1.pdb
+C:\Users\Jessica\Documents\UMG\8vo semestre\Diseño de sistemas\PROYECTO ESTANDARIZADO\proyecto1grupo1_Version2_Login\proyecto1grupo1\bin\Debug\MySql.Data.dll
+C:\Users\Jessica\Documents\UMG\8vo semestre\Diseño de sistemas\PROYECTO ESTANDARIZADO\proyecto1grupo1_Version2_Login\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.csprojResolveAssemblyReference.cache
+C:\Users\Jessica\Documents\UMG\8vo semestre\Diseño de sistemas\PROYECTO ESTANDARIZADO\proyecto1grupo1_Version2_Login\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.wfPantallaTurnos.resources
+C:\Users\Jessica\Documents\UMG\8vo semestre\Diseño de sistemas\PROYECTO ESTANDARIZADO\proyecto1grupo1_Version2_Login\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.wfMenuTurnos.resources
+C:\Users\Jessica\Documents\UMG\8vo semestre\Diseño de sistemas\PROYECTO ESTANDARIZADO\proyecto1grupo1_Version2_Login\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.wfInicioSesion.resources
+C:\Users\Jessica\Documents\UMG\8vo semestre\Diseño de sistemas\PROYECTO ESTANDARIZADO\proyecto1grupo1_Version2_Login\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.Properties.Resources.resources
+C:\Users\Jessica\Documents\UMG\8vo semestre\Diseño de sistemas\PROYECTO ESTANDARIZADO\proyecto1grupo1_Version2_Login\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.csproj.GenerateResource.Cache
+C:\Users\Jessica\Documents\UMG\8vo semestre\Diseño de sistemas\Turnos\proyecto1grupo1_Version2.1_Login Estandarizado\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.exe
+C:\Users\Jessica\Documents\UMG\8vo semestre\Diseño de sistemas\Turnos\proyecto1grupo1_Version2.1_Login Estandarizado\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.pdb
+C:\Users\Jessica\Desktop\proyecto1grupo1_Version2.1_Login Estandarizado\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.exe
+C:\Users\Jessica\Desktop\proyecto1grupo1_Version2.1_Login Estandarizado\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.pdb
+C:\Users\Jessica\Desktop\proyecto1grupo1_Version2.1_Login Estandarizado\proyecto1grupo1\bin\Debug\proyecto1grupo1.exe
+C:\Users\Jessica\Desktop\proyecto1grupo1_Version2.1_Login Estandarizado\proyecto1grupo1\bin\Debug\proyecto1grupo1.pdb
+C:\Users\Jessica\Desktop\proyecto1grupo1_Version2.1_Login Estandarizado\proyecto1grupo1\bin\Debug\MySql.Data.dll
+C:\Users\Jessica\Desktop\proyecto1grupo1_Version2.1_Login Estandarizado\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.csprojResolveAssemblyReference.cache
+C:\Users\Jessica\Desktop\proyecto1grupo1_Version2.1_Login Estandarizado\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.wfPantallaTurnos.resources
+C:\Users\Jessica\Desktop\proyecto1grupo1_Version2.1_Login Estandarizado\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.wfMenuTurnos.resources
+C:\Users\Jessica\Desktop\proyecto1grupo1_Version2.1_Login Estandarizado\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.wfInicioSesion.resources
+C:\Users\Jessica\Desktop\proyecto1grupo1_Version2.1_Login Estandarizado\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.Properties.Resources.resources
+C:\Users\Jessica\Desktop\proyecto1grupo1_Version2.1_Login Estandarizado\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.csproj.GenerateResource.Cache
+C:\Users\Orochi\Desktop\Turnos\Turnos\proyecto1grupo1_Version2.1_Login Estandarizado\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.exe
+C:\Users\Orochi\Desktop\Turnos\Turnos\proyecto1grupo1_Version2.1_Login Estandarizado\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.pdb
+C:\Users\Orochi\Desktop\Turnos\Turnos\proyecto1grupo1_Version2.1_Login Estandarizado\proyecto1grupo1\bin\Debug\proyecto1grupo1.exe
+C:\Users\Orochi\Desktop\Turnos\Turnos\proyecto1grupo1_Version2.1_Login Estandarizado\proyecto1grupo1\bin\Debug\proyecto1grupo1.pdb
+C:\Users\Orochi\Desktop\Turnos\Turnos\proyecto1grupo1_Version2.1_Login Estandarizado\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.csprojResolveAssemblyReference.cache
+C:\Users\Orochi\Desktop\Turnos\Turnos\proyecto1grupo1_Version2.1_Login Estandarizado\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.wfPantallaTurnos.resources
+C:\Users\Orochi\Desktop\Turnos\Turnos\proyecto1grupo1_Version2.1_Login Estandarizado\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.wfMenuTurnos.resources
+C:\Users\Orochi\Desktop\Turnos\Turnos\proyecto1grupo1_Version2.1_Login Estandarizado\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.wfInicioSesion.resources
+C:\Users\Orochi\Desktop\Turnos\Turnos\proyecto1grupo1_Version2.1_Login Estandarizado\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.Properties.Resources.resources
+C:\Users\Orochi\Desktop\Turnos\Turnos\proyecto1grupo1_Version2.1_Login Estandarizado\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.csproj.GenerateResource.Cache
+C:\Users\Orochi\Desktop\proyecto1grupo1_Version2.1_Login Estandarizado\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.exe
+C:\Users\Orochi\Desktop\proyecto1grupo1_Version2.1_Login Estandarizado\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.pdb
+C:\Users\Orochi\Desktop\proyecto1grupo1_Version2.1_Login Estandarizado\proyecto1grupo1\bin\Debug\proyecto1grupo1.exe
+C:\Users\Orochi\Desktop\proyecto1grupo1_Version2.1_Login Estandarizado\proyecto1grupo1\bin\Debug\proyecto1grupo1.pdb
+C:\Users\Orochi\Desktop\proyecto1grupo1_Version2.1_Login Estandarizado\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.csprojResolveAssemblyReference.cache
+C:\Users\Orochi\Desktop\proyecto1grupo1_Version2.1_Login Estandarizado\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.wfPantallaTurnos.resources
+C:\Users\Orochi\Desktop\proyecto1grupo1_Version2.1_Login Estandarizado\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.wfMenuTurnos.resources
+C:\Users\Orochi\Desktop\proyecto1grupo1_Version2.1_Login Estandarizado\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.wfInicioSesion.resources
+C:\Users\Orochi\Desktop\proyecto1grupo1_Version2.1_Login Estandarizado\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.Properties.Resources.resources
+C:\Users\Orochi\Desktop\proyecto1grupo1_Version2.1_Login Estandarizado\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.wfTerminal.resources
+C:\Users\Orochi\Desktop\proyecto1grupo1_Version2.1_Login Estandarizado\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.csproj.GenerateResource.Cache
+C:\Users\Orochi\Desktop\proyecto1grupo1_Version2.1_Login Estandarizado\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.wfAcercade.resources
+C:\Users\Orochi\Desktop\proyecto1grupo1_Version2.1_Login Estandarizado\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.wfOpciones.resources
+C:\Users\Orochi\Desktop\proyecto1grupo1_Version2.1_Login Estandarizado\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.wfAgregarItem.resources
+C:\Users\Orochi\Desktop\proyecto1grupo1_Version2.2_Login Estandarizado\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.exe
+C:\Users\Orochi\Desktop\proyecto1grupo1_Version2.2_Login Estandarizado\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.pdb
+C:\Users\Orochi\Desktop\proyecto1grupo1_Version2.2_Login Estandarizado\proyecto1grupo1\bin\Debug\proyecto1grupo1.exe
+C:\Users\Orochi\Desktop\proyecto1grupo1_Version2.2_Login Estandarizado\proyecto1grupo1\bin\Debug\proyecto1grupo1.pdb
+C:\Users\Orochi\Desktop\proyecto1grupo1_Version2.2_Login Estandarizado\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.csprojResolveAssemblyReference.cache
+C:\Users\Orochi\Desktop\proyecto1grupo1_Version2.2_Login Estandarizado\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.wfAcercade.resources
+C:\Users\Orochi\Desktop\proyecto1grupo1_Version2.2_Login Estandarizado\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.wfAgregarItem.resources
+C:\Users\Orochi\Desktop\proyecto1grupo1_Version2.2_Login Estandarizado\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.wfOpciones.resources
+C:\Users\Orochi\Desktop\proyecto1grupo1_Version2.2_Login Estandarizado\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.wfPantallaTurnos.resources
+C:\Users\Orochi\Desktop\proyecto1grupo1_Version2.2_Login Estandarizado\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.wfMenuTurnos.resources
+C:\Users\Orochi\Desktop\proyecto1grupo1_Version2.2_Login Estandarizado\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.wfInicioSesion.resources
+C:\Users\Orochi\Desktop\proyecto1grupo1_Version2.2_Login Estandarizado\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.Properties.Resources.resources
+C:\Users\Orochi\Desktop\proyecto1grupo1_Version2.2_Login Estandarizado\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.wfTerminal.resources
+C:\Users\Orochi\Desktop\proyecto1grupo1_Version2.2_Login Estandarizado\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.csproj.GenerateResource.Cache
+C:\Users\Orochi\Desktop\proyecto1grupo1_Version3.1\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.exe
+C:\Users\Orochi\Desktop\proyecto1grupo1_Version3.1\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.pdb
+C:\Users\Orochi\Desktop\proyecto1grupo1_Version3.1\proyecto1grupo1\bin\Debug\proyecto1grupo1.exe
+C:\Users\Orochi\Desktop\proyecto1grupo1_Version3.1\proyecto1grupo1\bin\Debug\proyecto1grupo1.pdb
+C:\Users\Orochi\Desktop\proyecto1grupo1_Version3.1\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.csprojResolveAssemblyReference.cache
+C:\Users\Orochi\Desktop\proyecto1grupo1_Version3.1\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.wfAcercade.resources
+C:\Users\Orochi\Desktop\proyecto1grupo1_Version3.1\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.wfAgregarItem.resources
+C:\Users\Orochi\Desktop\proyecto1grupo1_Version3.1\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.wfOpciones.resources
+C:\Users\Orochi\Desktop\proyecto1grupo1_Version3.1\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.wfPantallaTurnos.resources
+C:\Users\Orochi\Desktop\proyecto1grupo1_Version3.1\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.wfMenuTurnos.resources
+C:\Users\Orochi\Desktop\proyecto1grupo1_Version3.1\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.wfInicioSesion.resources
+C:\Users\Orochi\Desktop\proyecto1grupo1_Version3.1\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.Properties.Resources.resources
+C:\Users\Orochi\Desktop\proyecto1grupo1_Version3.1\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.wfTerminal.resources
+C:\Users\Orochi\Desktop\proyecto1grupo1_Version3.1\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.csproj.GenerateResource.Cache
+C:\Users\Jessica\Desktop\proyecto1grupo1_Version3.1 Jaime\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.exe
+C:\Users\Jessica\Desktop\proyecto1grupo1_Version3.1 Jaime\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.pdb
+C:\Users\Jessica\Desktop\proyecto1grupo1_Version3.1 Jaime\proyecto1grupo1\bin\Debug\proyecto1grupo1.exe
+C:\Users\Jessica\Desktop\proyecto1grupo1_Version3.1 Jaime\proyecto1grupo1\bin\Debug\proyecto1grupo1.pdb
+C:\Users\Jessica\Desktop\proyecto1grupo1_Version3.1 Jaime\proyecto1grupo1\bin\Debug\Gestor de Usuarios.exe
+C:\Users\Jessica\Desktop\proyecto1grupo1_Version3.1 Jaime\proyecto1grupo1\bin\Debug\MySql.Data.dll
+C:\Users\Jessica\Desktop\proyecto1grupo1_Version3.1 Jaime\proyecto1grupo1\bin\Debug\Gestor de Usuarios.pdb
+C:\Users\Jessica\Desktop\proyecto1grupo1_Version3.1 Jaime\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.csprojResolveAssemblyReference.cache
+C:\Users\Jessica\Desktop\proyecto1grupo1_Version3.1 Jaime\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.wfAcercade.resources
+C:\Users\Jessica\Desktop\proyecto1grupo1_Version3.1 Jaime\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.wfAgregarItem.resources
+C:\Users\Jessica\Desktop\proyecto1grupo1_Version3.1 Jaime\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.wfOpciones.resources
+C:\Users\Jessica\Desktop\proyecto1grupo1_Version3.1 Jaime\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.wfPantallaTurnos.resources
+C:\Users\Jessica\Desktop\proyecto1grupo1_Version3.1 Jaime\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.wfInicioSesion.resources
+C:\Users\Jessica\Desktop\proyecto1grupo1_Version3.1 Jaime\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.Properties.Resources.resources
+C:\Users\Jessica\Desktop\proyecto1grupo1_Version3.1 Jaime\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.wfTerminal.resources
+C:\Users\Jessica\Desktop\proyecto1grupo1_Version3.1 Jaime\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.csproj.GenerateResource.Cache
+C:\Users\Jessica\Desktop\proyecto1grupo1_Version3.1 unido estandarizado\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.exe
+C:\Users\Jessica\Desktop\proyecto1grupo1_Version3.1 unido estandarizado\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.pdb
+C:\Users\Jessica\Desktop\proyecto1grupo1_Version3.2 admin&gestion unificados\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.exe
+C:\Users\Jessica\Desktop\proyecto1grupo1_Version3.2 admin&gestion unificados\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.pdb
+C:\Users\Jessica\Desktop\proyecto1grupo1_Version3.2 admin&gestion unificados\proyecto1grupo1\bin\Debug\proyecto1grupo1.exe
+C:\Users\Jessica\Desktop\proyecto1grupo1_Version3.2 admin&gestion unificados\proyecto1grupo1\bin\Debug\proyecto1grupo1.pdb
+C:\Users\Jessica\Desktop\proyecto1grupo1_Version3.2 admin&gestion unificados\proyecto1grupo1\bin\Debug\Gestor de Usuarios.exe
+C:\Users\Jessica\Desktop\proyecto1grupo1_Version3.2 admin&gestion unificados\proyecto1grupo1\bin\Debug\MySql.Data.dll
+C:\Users\Jessica\Desktop\proyecto1grupo1_Version3.2 admin&gestion unificados\proyecto1grupo1\bin\Debug\Gestor de Usuarios.pdb
+C:\Users\Jessica\Desktop\proyecto1grupo1_Version3.2 admin&gestion unificados\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.csprojResolveAssemblyReference.cache
+C:\Users\Jessica\Desktop\proyecto1grupo1_Version3.2 admin&gestion unificados\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.wfAcercade.resources
+C:\Users\Jessica\Desktop\proyecto1grupo1_Version3.2 admin&gestion unificados\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.wfAgregarItem.resources
+C:\Users\Jessica\Desktop\proyecto1grupo1_Version3.2 admin&gestion unificados\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.wfOpciones.resources
+C:\Users\Jessica\Desktop\proyecto1grupo1_Version3.2 admin&gestion unificados\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.wfPantallaTurnos.resources
+C:\Users\Jessica\Desktop\proyecto1grupo1_Version3.2 admin&gestion unificados\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.wfInicioSesion.resources
+C:\Users\Jessica\Desktop\proyecto1grupo1_Version3.2 admin&gestion unificados\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.Properties.Resources.resources
+C:\Users\Jessica\Desktop\proyecto1grupo1_Version3.2 admin&gestion unificados\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.wfTerminal.resources
+C:\Users\Jessica\Desktop\proyecto1grupo1_Version3.2 admin&gestion unificados\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.csproj.GenerateResource.Cache
+C:\Users\Jessica\Desktop\proyecto1grupo1_Version3.2 admin&gestion&reportes unificados - copia - copia\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.exe
+C:\Users\Jessica\Desktop\proyecto1grupo1_Version3.2 admin&gestion&reportes unificados - copia - copia\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.pdb
+C:\Users\Jessica\Desktop\proyecto1grupo1_Version3.2 admin&gestion&reportes unificados - copia - copia\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.csprojResolveAssemblyReference.cache
+C:\Users\Jessica\Desktop\proyecto1grupo1_Version3.2 admin&gestion&reportes unificados - copia - copia\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.wfAcercade.resources
+C:\Users\Jessica\Desktop\proyecto1grupo1_Version3.2 admin&gestion&reportes unificados - copia - copia\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.wfAgregarItem.resources
+C:\Users\Jessica\Desktop\proyecto1grupo1_Version3.2 admin&gestion&reportes unificados - copia - copia\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.wfOpciones.resources
+C:\Users\Jessica\Desktop\proyecto1grupo1_Version3.2 admin&gestion&reportes unificados - copia - copia\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.wfPantallaTurnos.resources
+C:\Users\Jessica\Desktop\proyecto1grupo1_Version3.2 admin&gestion&reportes unificados - copia - copia\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.wfInicioSesion.resources
+C:\Users\Jessica\Desktop\proyecto1grupo1_Version3.2 admin&gestion&reportes unificados - copia - copia\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.Properties.Resources.resources
+C:\Users\Jessica\Desktop\proyecto1grupo1_Version3.2 admin&gestion&reportes unificados - copia - copia\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.wfTerminal.resources
+C:\Users\Jessica\Desktop\proyecto1grupo1_Version3.2 admin&gestion&reportes unificados - copia - copia\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.csproj.GenerateResource.Cache
+C:\Users\Jessica\Desktop\proyecto1grupo1_Version3.2 admin&gestion&reportes unificados - copia - copia\proyecto1grupo1\bin\Debug\proyecto1grupo1.exe
+C:\Users\Jessica\Desktop\proyecto1grupo1_Version3.2 admin&gestion&reportes unificados - copia - copia\proyecto1grupo1\bin\Debug\proyecto1grupo1.pdb
+C:\Users\Jessica\Desktop\proyecto1grupo1_Version3.2 admin&gestion&reportes unificados - copia - copia\proyecto1grupo1\bin\Debug\Gestor de Usuarios.exe
+C:\Users\Jessica\Desktop\proyecto1grupo1_Version3.2 admin&gestion&reportes unificados - copia - copia\proyecto1grupo1\bin\Debug\MySql.Data.dll
+C:\Users\Jessica\Desktop\proyecto1grupo1_Version3.2 admin&gestion&reportes unificados - copia - copia\proyecto1grupo1\bin\Debug\Gestor de Usuarios.pdb
