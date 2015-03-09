@@ -1,0 +1,112 @@
+c:\users\andrea\documents\visual studio 2013\Projects\Inventario\Inventario\bin\Debug\Inventario.dll
+c:\users\andrea\documents\visual studio 2013\Projects\Inventario\Inventario\bin\Debug\Inventario.pdb
+c:\users\andrea\documents\visual studio 2013\Projects\Inventario\Inventario\bin\Debug\Navegador.pdb
+c:\users\andrea\documents\visual studio 2013\Projects\Inventario\Inventario\bin\Debug\ODBCconnector.pdb
+c:\users\andrea\documents\visual studio 2013\Projects\Inventario\Inventario\obj\Debug\Inventario.csprojResolveAssemblyReference.cache
+c:\users\andrea\documents\visual studio 2013\Projects\Inventario\Inventario\obj\Debug\Inventario.wfBodega.resources
+c:\users\andrea\documents\visual studio 2013\Projects\Inventario\Inventario\obj\Debug\Inventario.wfCatalogoProducto.resources
+c:\users\andrea\documents\visual studio 2013\Projects\Inventario\Inventario\obj\Debug\Inventario.wfDocumentos.resources
+c:\users\andrea\documents\visual studio 2013\Projects\Inventario\Inventario\obj\Debug\Inventario.wfSucursal.resources
+c:\users\andrea\documents\visual studio 2013\Projects\Inventario\Inventario\obj\Debug\Inventario.csproj.GenerateResource.Cache
+c:\users\andrea\documents\visual studio 2013\Projects\Inventario\Inventario\obj\Debug\Inventario.dll
+c:\users\andrea\documents\visual studio 2013\Projects\Inventario\Inventario\obj\Debug\Inventario.pdb
+C:\Users\Jennifer\Desktop\Proyectos\Inventario\Inventario\obj\Debug\Inventario.csprojResolveAssemblyReference.cache
+C:\Users\Jennifer\Desktop\Proyectos\Inventario\Inventario\obj\Debug\Inventario.wfBodega.resources
+C:\Users\Jennifer\Desktop\Proyectos\Inventario\Inventario\obj\Debug\Inventario.wfCatalogoProducto.resources
+C:\Users\Jennifer\Desktop\Proyectos\Inventario\Inventario\obj\Debug\Inventario.wfDocumentos.resources
+C:\Users\Jennifer\Desktop\Proyectos\Inventario\Inventario\obj\Debug\Inventario.wfSucursal.resources
+C:\Users\Jennifer\Desktop\Proyectos\Inventario\Inventario\obj\Debug\Inventario.csproj.GenerateResource.Cache
+C:\Users\Jennifer\Desktop\Proyectos\Inventario\Inventario\obj\Debug\Inventario.dll
+C:\Users\Jennifer\Desktop\Proyectos\Inventario\Inventario\bin\Debug\Inventario.dll
+C:\Users\Jennifer\Desktop\Proyectos\Inventario\Inventario\bin\Debug\Inventario.pdb
+C:\Users\Jennifer\Desktop\Proyectos\Inventario\Inventario\bin\Debug\Navegador.pdb
+C:\Users\Jennifer\Desktop\Proyectos\Inventario\Inventario\bin\Debug\ODBCconnector.pdb
+C:\Users\Jennifer\Desktop\Proyectos\Inventario\Inventario\obj\Debug\Inventario.pdb
+C:\Users\Andrea\Documents\U\8ciclo\DiseñoDeSistemas\HotelSanCarlos\Proyectos\Proyectos\Inventario\Inventario\bin\Debug\Inventario.dll
+C:\Users\Andrea\Documents\U\8ciclo\DiseñoDeSistemas\HotelSanCarlos\Proyectos\Proyectos\Inventario\Inventario\bin\Debug\Inventario.pdb
+C:\Users\Andrea\Documents\U\8ciclo\DiseñoDeSistemas\HotelSanCarlos\Proyectos\Proyectos\Inventario\Inventario\bin\Debug\Navegador.pdb
+C:\Users\Andrea\Documents\U\8ciclo\DiseñoDeSistemas\HotelSanCarlos\Proyectos\Proyectos\Inventario\Inventario\bin\Debug\ODBCconnector.pdb
+C:\Users\Andrea\Documents\U\8ciclo\DiseñoDeSistemas\HotelSanCarlos\Proyectos\Proyectos\Inventario\Inventario\obj\Debug\Inventario.csprojResolveAssemblyReference.cache
+C:\Users\Andrea\Documents\U\8ciclo\DiseñoDeSistemas\HotelSanCarlos\Proyectos\Proyectos\Inventario\Inventario\obj\Debug\Inventario.wfBodega.resources
+C:\Users\Andrea\Documents\U\8ciclo\DiseñoDeSistemas\HotelSanCarlos\Proyectos\Proyectos\Inventario\Inventario\obj\Debug\Inventario.wfCatalogoProducto.resources
+C:\Users\Andrea\Documents\U\8ciclo\DiseñoDeSistemas\HotelSanCarlos\Proyectos\Proyectos\Inventario\Inventario\obj\Debug\Inventario.wfDocumentos.resources
+C:\Users\Andrea\Documents\U\8ciclo\DiseñoDeSistemas\HotelSanCarlos\Proyectos\Proyectos\Inventario\Inventario\obj\Debug\Inventario.wfSucursal.resources
+C:\Users\Andrea\Documents\U\8ciclo\DiseñoDeSistemas\HotelSanCarlos\Proyectos\Proyectos\Inventario\Inventario\obj\Debug\Inventario.csproj.GenerateResource.Cache
+C:\Users\Andrea\Documents\U\8ciclo\DiseñoDeSistemas\HotelSanCarlos\Proyectos\Proyectos\Inventario\Inventario\obj\Debug\Inventario.dll
+C:\Users\Andrea\Documents\U\8ciclo\DiseñoDeSistemas\HotelSanCarlos\Proyectos\Proyectos\Inventario\Inventario\obj\Debug\Inventario.pdb
+C:\Users\Andrea\Documents\U\8ciclo\DiseñoDeSistemas\HotelSanCarlos\Proyectos\Proyectos\Inventario\Inventario\bin\Debug\Facturacion.dll
+C:\Users\Andrea\Documents\U\8ciclo\DiseñoDeSistemas\HotelSanCarlos\Proyectos\Proyectos\Inventario\Inventario\bin\Debug\Hoteleria.dll
+C:\Users\Andrea\Documents\U\8ciclo\DiseñoDeSistemas\HotelSanCarlos\Proyectos\Proyectos\Inventario\Inventario\bin\Debug\Facturacion.pdb
+C:\Users\Andrea\Documents\U\8ciclo\DiseñoDeSistemas\HotelSanCarlos\Proyectos\Proyectos\Inventario\Inventario\bin\Debug\Hoteleria.pdb
+C:\Users\Adavi\Desktop\Proyectos\Inventario\Inventario\bin\Debug\Inventario.dll
+C:\Users\Adavi\Desktop\Proyectos\Inventario\Inventario\bin\Debug\Inventario.pdb
+C:\Users\Adavi\Desktop\Proyectos\Inventario\Inventario\bin\Debug\Facturacion.dll
+C:\Users\Adavi\Desktop\Proyectos\Inventario\Inventario\bin\Debug\Hoteleria.dll
+C:\Users\Adavi\Desktop\Proyectos\Inventario\Inventario\bin\Debug\Facturacion.pdb
+C:\Users\Adavi\Desktop\Proyectos\Inventario\Inventario\bin\Debug\Navegador.pdb
+C:\Users\Adavi\Desktop\Proyectos\Inventario\Inventario\bin\Debug\ODBCconnector.pdb
+C:\Users\Adavi\Desktop\Proyectos\Inventario\Inventario\bin\Debug\Hoteleria.pdb
+C:\Users\Adavi\Desktop\Proyectos\Inventario\Inventario\obj\Debug\Inventario.csprojResolveAssemblyReference.cache
+C:\Users\Adavi\Desktop\Proyectos\Inventario\Inventario\obj\Debug\Inventario.wfBodega.resources
+C:\Users\Adavi\Desktop\Proyectos\Inventario\Inventario\obj\Debug\Inventario.wfCatalogoProducto.resources
+C:\Users\Adavi\Desktop\Proyectos\Inventario\Inventario\obj\Debug\Inventario.wfDocumentos.resources
+C:\Users\Adavi\Desktop\Proyectos\Inventario\Inventario\obj\Debug\Inventario.wfSucursal.resources
+C:\Users\Adavi\Desktop\Proyectos\Inventario\Inventario\obj\Debug\Inventario.csproj.GenerateResource.Cache
+C:\Users\Adavi\Desktop\Proyectos\Inventario\Inventario\obj\Debug\Inventario.dll
+C:\Users\Adavi\Desktop\Proyectos\Inventario\Inventario\obj\Debug\Inventario.pdb
+C:\Users\marlon\Desktop\Proyectos\Inventario\Inventario\bin\Debug\Inventario.dll
+C:\Users\marlon\Desktop\Proyectos\Inventario\Inventario\bin\Debug\Inventario.pdb
+C:\Users\marlon\Desktop\Proyectos\Inventario\Inventario\bin\Debug\Facturacion.dll
+C:\Users\marlon\Desktop\Proyectos\Inventario\Inventario\bin\Debug\Hoteleria.dll
+C:\Users\marlon\Desktop\Proyectos\Inventario\Inventario\bin\Debug\Facturacion.pdb
+C:\Users\marlon\Desktop\Proyectos\Inventario\Inventario\bin\Debug\Navegador.pdb
+C:\Users\marlon\Desktop\Proyectos\Inventario\Inventario\bin\Debug\ODBCconnector.pdb
+C:\Users\marlon\Desktop\Proyectos\Inventario\Inventario\bin\Debug\Hoteleria.pdb
+C:\Users\marlon\Desktop\Proyectos\Inventario\Inventario\obj\Debug\Inventario.csprojResolveAssemblyReference.cache
+C:\Users\marlon\Desktop\Proyectos\Inventario\Inventario\obj\Debug\Inventario.wfBodega.resources
+C:\Users\marlon\Desktop\Proyectos\Inventario\Inventario\obj\Debug\Inventario.wfCatalogoProducto.resources
+C:\Users\marlon\Desktop\Proyectos\Inventario\Inventario\obj\Debug\Inventario.wfDocumentos.resources
+C:\Users\marlon\Desktop\Proyectos\Inventario\Inventario\obj\Debug\Inventario.wfSucursal.resources
+C:\Users\marlon\Desktop\Proyectos\Inventario\Inventario\obj\Debug\Inventario.csproj.GenerateResource.Cache
+C:\Users\marlon\Desktop\Proyectos\Inventario\Inventario\obj\Debug\Inventario.dll
+C:\Users\marlon\Desktop\Proyectos\Inventario\Inventario\obj\Debug\Inventario.pdb
+C:\Users\Jennifer\Desktop\Proyectos\Inventario\Inventario\bin\Debug\Facturacion.dll
+C:\Users\Jennifer\Desktop\Proyectos\Inventario\Inventario\bin\Debug\Hoteleria.dll
+C:\Users\Jennifer\Desktop\Proyectos\Inventario\Inventario\bin\Debug\Facturacion.pdb
+C:\Users\Jennifer\Desktop\Proyectos\Inventario\Inventario\bin\Debug\Hoteleria.pdb
+C:\Users\alumno\Desktop\Proyectos\Inventario\Inventario\bin\Debug\Inventario.dll
+C:\Users\alumno\Desktop\Proyectos\Inventario\Inventario\bin\Debug\Inventario.pdb
+C:\Users\alumno\Desktop\Proyectos\Inventario\Inventario\bin\Debug\Facturacion.dll
+C:\Users\alumno\Desktop\Proyectos\Inventario\Inventario\bin\Debug\Hoteleria.dll
+C:\Users\alumno\Desktop\Proyectos\Inventario\Inventario\bin\Debug\Facturacion.pdb
+C:\Users\alumno\Desktop\Proyectos\Inventario\Inventario\bin\Debug\Navegador.pdb
+C:\Users\alumno\Desktop\Proyectos\Inventario\Inventario\bin\Debug\ODBCconnector.pdb
+C:\Users\alumno\Desktop\Proyectos\Inventario\Inventario\bin\Debug\Hoteleria.pdb
+C:\Users\alumno\Desktop\Proyectos\Inventario\Inventario\obj\Debug\Inventario.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Proyectos\Inventario\Inventario\obj\Debug\Inventario.wfBodega.resources
+C:\Users\alumno\Desktop\Proyectos\Inventario\Inventario\obj\Debug\Inventario.wfCatalogoProducto.resources
+C:\Users\alumno\Desktop\Proyectos\Inventario\Inventario\obj\Debug\Inventario.wfDocumentos.resources
+C:\Users\alumno\Desktop\Proyectos\Inventario\Inventario\obj\Debug\Inventario.wfSucursal.resources
+C:\Users\alumno\Desktop\Proyectos\Inventario\Inventario\obj\Debug\Inventario.csproj.GenerateResource.Cache
+C:\Users\alumno\Desktop\Proyectos\Inventario\Inventario\obj\Debug\Inventario.dll
+C:\Users\alumno\Desktop\Proyectos\Inventario\Inventario\obj\Debug\Inventario.pdb
+C:\Users\Adavi\Desktop\Proyectos\Inventario\Inventario\bin\Debug\Reporteador.dll
+C:\Users\Adavi\Desktop\Proyectos\Inventario\Inventario\bin\Debug\Reporteador.pdb
+C:\Users\Andrea\Desktop\Proyectos\Inventario\Inventario\bin\Debug\Inventario.dll
+C:\Users\Andrea\Desktop\Proyectos\Inventario\Inventario\bin\Debug\Inventario.pdb
+C:\Users\Andrea\Desktop\Proyectos\Inventario\Inventario\bin\Debug\Facturacion.dll
+C:\Users\Andrea\Desktop\Proyectos\Inventario\Inventario\bin\Debug\Reporteador.dll
+C:\Users\Andrea\Desktop\Proyectos\Inventario\Inventario\bin\Debug\Hoteleria.dll
+C:\Users\Andrea\Desktop\Proyectos\Inventario\Inventario\bin\Debug\Facturacion.pdb
+C:\Users\Andrea\Desktop\Proyectos\Inventario\Inventario\bin\Debug\Navegador.pdb
+C:\Users\Andrea\Desktop\Proyectos\Inventario\Inventario\bin\Debug\ODBCconnector.pdb
+C:\Users\Andrea\Desktop\Proyectos\Inventario\Inventario\bin\Debug\Reporteador.pdb
+C:\Users\Andrea\Desktop\Proyectos\Inventario\Inventario\bin\Debug\Hoteleria.pdb
+C:\Users\Andrea\Desktop\Proyectos\Inventario\Inventario\obj\Debug\Inventario.csprojResolveAssemblyReference.cache
+C:\Users\Andrea\Desktop\Proyectos\Inventario\Inventario\obj\Debug\Inventario.wfBodega.resources
+C:\Users\Andrea\Desktop\Proyectos\Inventario\Inventario\obj\Debug\Inventario.wfCatalogoProducto.resources
+C:\Users\Andrea\Desktop\Proyectos\Inventario\Inventario\obj\Debug\Inventario.wfDocumentos.resources
+C:\Users\Andrea\Desktop\Proyectos\Inventario\Inventario\obj\Debug\Inventario.wfSucursal.resources
+C:\Users\Andrea\Desktop\Proyectos\Inventario\Inventario\obj\Debug\Inventario.csproj.GenerateResource.Cache
+C:\Users\Andrea\Desktop\Proyectos\Inventario\Inventario\obj\Debug\Inventario.dll
+C:\Users\Andrea\Desktop\Proyectos\Inventario\Inventario\obj\Debug\Inventario.pdb

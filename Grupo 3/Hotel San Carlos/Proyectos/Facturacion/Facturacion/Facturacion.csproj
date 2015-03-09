@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{96E59BC6-8D74-4075-A408-9D7823ABC2EF}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Facturacion</RootNamespace>
+    <AssemblyName>Facturacion</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Hoteleria">
+      <HintPath>..\..\Hoteleria\Hoteleria\bin\Debug\Hoteleria.dll</HintPath>
+    </Reference>
+    <Reference Include="Inventario">
+      <HintPath>..\..\Inventario\Inventario\bin\Debug\Inventario.dll</HintPath>
+    </Reference>
+    <Reference Include="Navegador, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Navegador.dll</HintPath>
+    </Reference>
+    <Reference Include="ODBCconnector, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\ODBCconnector.dll</HintPath>
+    </Reference>
+    <Reference Include="Reporteador">
+      <HintPath>..\..\Reporteador\Reporteador\bin\Debug\Reporteador.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="csDatos.cs" />
+    <Compile Include="csEntidades.cs" />
+    <Compile Include="csNegocio.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="wfEmpresa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="wfEmpresa.Designer.cs">
+      <DependentUpon>wfEmpresa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="wfFactura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="wfFactura.Designer.cs">
+      <DependentUpon>wfFactura.cs</DependentUpon>
+    </Compile>
+    <Compile Include="wfImpuesto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="wfImpuesto.Designer.cs">
+      <DependentUpon>wfImpuesto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="wfSerie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="wfSerie.Designer.cs">
+      <DependentUpon>wfSerie.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="wfEmpresa.resx">
+      <DependentUpon>wfEmpresa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wfFactura.resx">
+      <DependentUpon>wfFactura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wfImpuesto.resx">
+      <DependentUpon>wfImpuesto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wfSerie.resx">
+      <DependentUpon>wfSerie.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

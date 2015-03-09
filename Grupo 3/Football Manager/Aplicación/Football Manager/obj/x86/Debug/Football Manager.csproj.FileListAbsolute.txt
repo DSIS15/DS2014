@@ -1,0 +1,629 @@
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Football Manager\Football Manager\obj\x86\Debug\Football Manager.csprojResolveAssemblyReference.cache
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.Properties.Resources.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfMenuPrincipal.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Football Manager\Football Manager\obj\x86\Debug\Football Manager.csproj.GenerateResource.Cache
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfAcercaDe.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Football Manager\Football Manager\bin\Debug\Football Manager.exe
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Football Manager\Football Manager\bin\Debug\Football Manager.pdb
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Football Manager\Football Manager\obj\x86\Debug\Football Manager.exe
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Football Manager\Football Manager\obj\x86\Debug\Football Manager.pdb
+Z:\Documents\UMG\DS\Campeonato\Football Manager\Football Manager\obj\x86\Debug\Football Manager.exe
+Z:\Documents\UMG\DS\Campeonato\Football Manager\Football Manager\obj\x86\Debug\Football Manager.pdb
+Z:\Documents\UMG\DS\Campeonato\Football Manager\Football Manager\bin\Debug\Football Manager.exe
+Z:\Documents\UMG\DS\Campeonato\Football Manager\Football Manager\bin\Debug\Football Manager.pdb
+Z:\Documents\UMG\DS\Campeonato\Football Manager\Football Manager\obj\x86\Debug\Football Manager.csprojResolveAssemblyReference.cache
+Z:\Documents\UMG\DS\Campeonato\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.Properties.Resources.resources
+Z:\Documents\UMG\DS\Campeonato\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfAcercaDe.resources
+Z:\Documents\UMG\DS\Campeonato\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfMenuPrincipal.resources
+Z:\Documents\UMG\DS\Campeonato\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfVisorEventos.resources
+Z:\Documents\UMG\DS\Campeonato\Football Manager\Football Manager\obj\x86\Debug\Football Manager.csproj.GenerateResource.Cache
+Z:\Documents\UMG\DS\Campeonato\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfUsuarios.resources
+Z:\Documents\UMG\DS\Campeonato\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfActividadPartido.resources
+Z:\Documents\UMG\DS\Campeonato\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfPartido.resources
+Z:\Documents\UMG\DS\Campeonato\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfReferee.resources
+Z:\Documents\UMG\DS\Campeonato\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfequipo.resources
+Z:\Documents\UMG\DS\Campeonato\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfPersona.resources
+Z:\Documents\UMG\DS\Campeonato\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfPlantilla.resources
+C:\Users\Adavi\Documents\Visual Studio 2010\Projects\Football Manager\Football Manager\obj\x86\Debug\Football Manager.exe
+C:\Users\Adavi\Documents\Visual Studio 2010\Projects\Football Manager\Football Manager\obj\x86\Debug\Football Manager.pdb
+C:\Users\Adavi\Documents\Visual Studio 2010\Projects\Football Manager\Football Manager\bin\Debug\Football Manager.exe
+C:\Users\Adavi\Documents\Visual Studio 2010\Projects\Football Manager\Football Manager\bin\Debug\Football Manager.pdb
+C:\Users\Adavi\Documents\Visual Studio 2010\Projects\Football Manager\Football Manager\obj\x86\Debug\Football Manager.csprojResolveAssemblyReference.cache
+C:\Users\Adavi\Documents\Visual Studio 2010\Projects\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfNuevoCampeonato.resources
+C:\Users\Adavi\Documents\Visual Studio 2010\Projects\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.Properties.Resources.resources
+C:\Users\Adavi\Documents\Visual Studio 2010\Projects\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfAcercaDe.resources
+C:\Users\Adavi\Documents\Visual Studio 2010\Projects\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfMenuPrincipal.resources
+C:\Users\Adavi\Documents\Visual Studio 2010\Projects\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfUsuarios.resources
+C:\Users\Adavi\Documents\Visual Studio 2010\Projects\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfVisorEventos.resources
+C:\Users\Adavi\Documents\Visual Studio 2010\Projects\Football Manager\Football Manager\obj\x86\Debug\Football Manager.csproj.GenerateResource.Cache
+C:\Users\Adavi\Documents\Visual Studio 2010\Projects\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfIniciarSesion.resources
+C:\Users\Adavi\Documents\Visual Studio 2010\Projects\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfEstadoCampeonato.resources
+Z:\Documents\UMG\DS\Campeonato\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfActividad.resources
+Z:\Documents\UMG\DS\Campeonato\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfEstadoCampeonato.resources
+Z:\Documents\UMG\DS\Campeonato\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfIniciarSesion.resources
+Z:\Documents\UMG\DS\Campeonato\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfNuevoCampeonato.resources
+Z:\Documents\UMG\DS\Campeonato\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfPerfiles.resources
+Z:\Documents\UMG\DS\Campeonato\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfReporte.resources
+Z:\Documents\UMG\DS\Campeonato\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfSeleccionEquipos.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Final\Football Manager\Football Manager\obj\x86\Debug\Football Manager.exe
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Final\Football Manager\Football Manager\obj\x86\Debug\Football Manager.pdb
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Final\Football Manager\Football Manager\bin\Debug\Football Manager.exe
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Final\Football Manager\Football Manager\bin\Debug\Football Manager.pdb
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Final\Football Manager\Football Manager\obj\x86\Debug\Football Manager.csprojResolveAssemblyReference.cache
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Final\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfActividad.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Final\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfEstadoCampeonato.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Final\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfIniciarSesion.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Final\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfNuevoCampeonato.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Final\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfPerfiles.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Final\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfPersona.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Final\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.Properties.Resources.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Final\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfAcercaDe.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Final\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfActividadPartido.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Final\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfEquipo.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Final\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfMenuPrincipal.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Final\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfPartido.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Final\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfPlantilla.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Final\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfReferee.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Final\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfReporte.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Final\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfSeleccionEquipos.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Final\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfUsuarios.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Final\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfVisorEventos.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Final\Football Manager\Football Manager\obj\x86\Debug\Football Manager.csproj.GenerateResource.Cache
+C:\Users\FamGutierrez\Desktop\Football Manager\Football Manager\obj\x86\Debug\Football Manager.exe
+C:\Users\FamGutierrez\Desktop\Football Manager\Football Manager\obj\x86\Debug\Football Manager.pdb
+C:\Users\Adavi\Downloads\Football Manager\Football Manager\obj\x86\Debug\Football Manager.exe
+C:\Users\Adavi\Downloads\Football Manager\Football Manager\obj\x86\Debug\Football Manager.pdb
+C:\Users\Adavi\Documents\Visual Studio 2010\Projects\Football Manager\Football Manager\bin\Debug\Football Manager.exe.config
+C:\Users\Adavi\Documents\Visual Studio 2010\Projects\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfNuevaPersona.resources
+C:\Users\Adavi\Documents\Visual Studio 2010\Projects\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfNuevoEquipo.resources
+C:\Users\Adavi\Documents\Visual Studio 2010\Projects\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfFichaPartido.resources
+C:\Users\Adavi\Documents\Visual Studio 2010\Projects\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfReportePersonal.resources
+C:\Users\Adavi\Documents\Visual Studio 2010\Projects\Football Manager\Football Manager\bin\Debug\Dll Football Manager.pdb
+C:\Users\Adavi\Documents\Visual Studio 2010\Projects\Football Manager\Football Manager\bin\Debug\DLL Football Manager.dll
+C:\Users\Adavi\Documents\Visual Studio 2010\Projects\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfCanchas.resources
+C:\Users\Adavi\Documents\Visual Studio 2010\Projects\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfEmpleados.resources
+C:\Users\Adavi\Documents\Visual Studio 2010\Projects\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfJugadores.resources
+C:\Users\Adavi\Documents\Visual Studio 2010\Projects\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfNiveles.resources
+C:\Users\Adavi\Documents\Visual Studio 2010\Projects\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfNuevoEmpleado.resources
+C:\Users\Adavi\Documents\Visual Studio 2010\Projects\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfNuevoJugador.resources
+C:\Users\Adavi\Documents\Visual Studio 2010\Projects\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfTipoEmpleado.resources
+C:\Users\Adavi\Documents\Visual Studio 2010\Projects\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfDetalleJugador.resources
+C:\Users\Danny\Contacts\Desktop\Github\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\bin\Debug\Football Manager.exe.config
+C:\Users\Danny\Contacts\Desktop\Github\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football Manager.exe
+C:\Users\Danny\Contacts\Desktop\Github\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football Manager.pdb
+C:\Users\Danny\Contacts\Desktop\Github\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\bin\Debug\Football Manager.exe
+C:\Users\Danny\Contacts\Desktop\Github\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\bin\Debug\Football Manager.pdb
+C:\Users\Danny\Contacts\Desktop\Github\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\bin\Debug\DLL Football Manager.dll
+C:\Users\Danny\Contacts\Desktop\Github\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\bin\Debug\DLL Football Manager.pdb
+C:\Users\Danny\Contacts\Desktop\Github\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football Manager.csprojResolveAssemblyReference.cache
+C:\Users\Danny\Contacts\Desktop\Github\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfCanchas.resources
+C:\Users\Danny\Contacts\Desktop\Github\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfEmpleados.resources
+C:\Users\Danny\Contacts\Desktop\Github\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfEstadoCampeonato.resources
+C:\Users\Danny\Contacts\Desktop\Github\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfIniciarSesion.resources
+C:\Users\Danny\Contacts\Desktop\Github\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfJugadores.resources
+C:\Users\Danny\Contacts\Desktop\Github\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfNiveles.resources
+C:\Users\Danny\Contacts\Desktop\Github\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfNuevoCampeonato.resources
+C:\Users\Danny\Contacts\Desktop\Github\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfNuevoJugador.resources
+C:\Users\Danny\Contacts\Desktop\Github\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfTipoEmpleado.resources
+C:\Users\Danny\Contacts\Desktop\Github\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfNuevaPersona.resources
+C:\Users\Danny\Contacts\Desktop\Github\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.Properties.Resources.resources
+C:\Users\Danny\Contacts\Desktop\Github\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfAcercaDe.resources
+C:\Users\Danny\Contacts\Desktop\Github\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfNuevoEquipo.resources
+C:\Users\Danny\Contacts\Desktop\Github\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfMenuPrincipal.resources
+C:\Users\Danny\Contacts\Desktop\Github\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfFichaPartido.resources
+C:\Users\Danny\Contacts\Desktop\Github\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfDetalleJugador.resources
+C:\Users\Danny\Contacts\Desktop\Github\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfReportePersonal.resources
+C:\Users\Danny\Contacts\Desktop\Github\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfUsuarios.resources
+C:\Users\Danny\Contacts\Desktop\Github\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfVisorEventos.resources
+C:\Users\Danny\Contacts\Desktop\Github\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football Manager.csproj.GenerateResource.Cache
+C:\Users\Danny\Contacts\Desktop\Github\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfNuevoEmpleado.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\bin\Debug\Football Manager.exe.config
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football Manager.exe
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football Manager.pdb
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\bin\Debug\Football Manager.exe
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\bin\Debug\Football Manager.pdb
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\bin\Debug\DLL Football Manager.dll
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\bin\Debug\DLL Football Manager.pdb
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football Manager.csprojResolveAssemblyReference.cache
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfCanchas.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfEmpleados.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfEstadoCampeonato.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfIniciarSesion.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfJugadores.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfNiveles.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfNuevoCampeonato.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfNuevoEmpleado.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfNuevoJugador.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfTipoEmpleado.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfNuevaPersona.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.Properties.Resources.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfAcercaDe.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfNuevoEquipo.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfMenuPrincipal.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfFichaPartido.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfDetalleJugador.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfReportePersonal.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfUsuarios.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfVisorEventos.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football Manager.csproj.GenerateResource.Cache
+C:\Users\Andrea\Desktop\Proyecto Temporal\Football Manager\Football Manager\bin\Debug\Football Manager.exe.config
+C:\Users\Andrea\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football Manager.exe
+C:\Users\Andrea\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football Manager.pdb
+C:\Users\Andrea\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football Manager.csprojResolveAssemblyReference.cache
+C:\Users\Andrea\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfCanchas.resources
+C:\Users\Andrea\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfEmpleados.resources
+C:\Users\Andrea\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfEstadoCampeonato.resources
+C:\Users\Andrea\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfIniciarSesion.resources
+C:\Users\Andrea\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfJugadores.resources
+C:\Users\Andrea\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfNiveles.resources
+C:\Users\Andrea\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfNuevoCampeonato.resources
+C:\Users\Andrea\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfNuevoEmpleado.resources
+C:\Users\Andrea\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfNuevoJugador.resources
+C:\Users\Andrea\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfTipoEmpleado.resources
+C:\Users\Andrea\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.Properties.Resources.resources
+C:\Users\Andrea\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfAcercaDe.resources
+C:\Users\Andrea\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfNuevoEquipo.resources
+C:\Users\Andrea\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfMenuPrincipal.resources
+C:\Users\Andrea\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfFichaPartido.resources
+C:\Users\Andrea\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfDetalleJugador.resources
+C:\Users\Andrea\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfUsuarios.resources
+C:\Users\Andrea\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfVisorEventos.resources
+C:\Users\Andrea\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football Manager.csproj.GenerateResource.Cache
+C:\Users\Andrea\Desktop\Proyecto Temporal\Football Manager\Football Manager\bin\Debug\Football Manager.exe
+C:\Users\Andrea\Desktop\Proyecto Temporal\Football Manager\Football Manager\bin\Debug\Football Manager.pdb
+C:\Users\Andrea\Desktop\Proyecto Temporal\Football Manager\Football Manager\bin\Debug\DLL Football Manager.dll
+C:\Users\Andrea\Desktop\Proyecto Temporal\Football Manager\Football Manager\bin\Debug\DLL Football Manager.pdb
+F:\ARCHIVOS A REEMPLAZAR\Proyecto Temporal\Football Manager\Football Manager\bin\Debug\Football Manager.exe.config
+F:\ARCHIVOS A REEMPLAZAR\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football Manager.exe
+F:\ARCHIVOS A REEMPLAZAR\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football Manager.pdb
+F:\ARCHIVOS A REEMPLAZAR\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football Manager.csprojResolveAssemblyReference.cache
+F:\ARCHIVOS A REEMPLAZAR\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfCanchas.resources
+F:\ARCHIVOS A REEMPLAZAR\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfEmpleados.resources
+F:\ARCHIVOS A REEMPLAZAR\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfEstadoCampeonato.resources
+F:\ARCHIVOS A REEMPLAZAR\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfIniciarSesion.resources
+F:\ARCHIVOS A REEMPLAZAR\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfJugadores.resources
+F:\ARCHIVOS A REEMPLAZAR\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfNiveles.resources
+F:\ARCHIVOS A REEMPLAZAR\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfNuevoCampeonato.resources
+F:\ARCHIVOS A REEMPLAZAR\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfNuevoEmpleado.resources
+F:\ARCHIVOS A REEMPLAZAR\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfNuevoJugador.resources
+F:\ARCHIVOS A REEMPLAZAR\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfTipoEmpleado.resources
+F:\ARCHIVOS A REEMPLAZAR\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.Properties.Resources.resources
+F:\ARCHIVOS A REEMPLAZAR\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfAcercaDe.resources
+F:\ARCHIVOS A REEMPLAZAR\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfNuevoEquipo.resources
+F:\ARCHIVOS A REEMPLAZAR\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfMenuPrincipal.resources
+F:\ARCHIVOS A REEMPLAZAR\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfFichaPartido.resources
+F:\ARCHIVOS A REEMPLAZAR\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfDetalleJugador.resources
+F:\ARCHIVOS A REEMPLAZAR\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfUsuarios.resources
+F:\ARCHIVOS A REEMPLAZAR\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfVisorEventos.resources
+F:\ARCHIVOS A REEMPLAZAR\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football Manager.csproj.GenerateResource.Cache
+C:\Users\Jennifer\Desktop\Football Manager\Football Manager\bin\Debug\Football Manager.exe.config
+C:\Users\Jennifer\Desktop\Football Manager\Football Manager\obj\x86\Debug\Football Manager.exe
+C:\Users\Jennifer\Desktop\Football Manager\Football Manager\obj\x86\Debug\Football Manager.pdb
+C:\Users\Jennifer\Desktop\Football Manager\Football Manager\obj\x86\Debug\Football Manager.csprojResolveAssemblyReference.cache
+C:\Users\Jennifer\Desktop\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfCanchas.resources
+C:\Users\Jennifer\Desktop\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfEmpleados.resources
+C:\Users\Jennifer\Desktop\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfEstadoCampeonato.resources
+C:\Users\Jennifer\Desktop\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfIniciarSesion.resources
+C:\Users\Jennifer\Desktop\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfJugadores.resources
+C:\Users\Jennifer\Desktop\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfNiveles.resources
+C:\Users\Jennifer\Desktop\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfNuevoCampeonato.resources
+C:\Users\Jennifer\Desktop\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfNuevoEmpleado.resources
+C:\Users\Jennifer\Desktop\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfNuevoJugador.resources
+C:\Users\Jennifer\Desktop\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfTipoEmpleado.resources
+C:\Users\Jennifer\Desktop\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.Properties.Resources.resources
+C:\Users\Jennifer\Desktop\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfAcercaDe.resources
+C:\Users\Jennifer\Desktop\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfNuevoEquipo.resources
+C:\Users\Jennifer\Desktop\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfMenuPrincipal.resources
+C:\Users\Jennifer\Desktop\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfFichaPartido.resources
+C:\Users\Jennifer\Desktop\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfDetalleJugador.resources
+C:\Users\Jennifer\Desktop\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfUsuarios.resources
+C:\Users\Jennifer\Desktop\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfVisorEventos.resources
+C:\Users\Jennifer\Desktop\Football Manager\Football Manager\obj\x86\Debug\Football Manager.csproj.GenerateResource.Cache
+C:\Users\Jennifer\Desktop\Football Manager\Football Manager\bin\Debug\Football Manager.exe
+C:\Users\Jennifer\Desktop\Football Manager\Football Manager\bin\Debug\Football Manager.pdb
+C:\Users\Jennifer\Desktop\Football Manager\Football Manager\bin\Debug\DLL Football Manager.pdb
+C:\Users\Marlon\Desktop\Proyecto Temporal\Football Manager\Football Manager\bin\Debug\Football Manager.exe.config
+C:\Users\Marlon\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football Manager.exe
+C:\Users\Marlon\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football Manager.pdb
+C:\Users\Marlon\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football Manager.csprojResolveAssemblyReference.cache
+C:\Users\Marlon\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfCanchas.resources
+C:\Users\Marlon\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfEmpleados.resources
+C:\Users\Marlon\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfEstadoCampeonato.resources
+C:\Users\Marlon\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfIniciarSesion.resources
+C:\Users\Marlon\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfJugadores.resources
+C:\Users\Marlon\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfNiveles.resources
+C:\Users\Marlon\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfNuevoCampeonato.resources
+C:\Users\Marlon\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfNuevoEmpleado.resources
+C:\Users\Marlon\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfNuevoJugador.resources
+C:\Users\Marlon\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfTipoEmpleado.resources
+C:\Users\Marlon\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.Properties.Resources.resources
+C:\Users\Marlon\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfAcercaDe.resources
+C:\Users\Marlon\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfNuevoEquipo.resources
+C:\Users\Marlon\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfMenuPrincipal.resources
+C:\Users\Marlon\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfFichaPartido.resources
+C:\Users\Marlon\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfDetalleJugador.resources
+C:\Users\Marlon\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfUsuarios.resources
+C:\Users\Marlon\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfVisorEventos.resources
+C:\Users\Marlon\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football Manager.csproj.GenerateResource.Cache
+C:\Users\Marlon\Desktop\Proyecto Temporal\Football Manager\Football Manager\bin\Debug\Football Manager.exe
+C:\Users\Marlon\Desktop\Proyecto Temporal\Football Manager\Football Manager\bin\Debug\Football Manager.pdb
+C:\Users\Marlon\Desktop\Proyecto Temporal\Football Manager\Football Manager\bin\Debug\DLL Football Manager.dll
+C:\Users\Marlon\Desktop\Proyecto Temporal\Football Manager\Football Manager\bin\Debug\DLL Football Manager.pdb
+C:\Users\Adavi\Desktop\Proyecto Temporal\Football Manager\Football Manager\bin\Debug\Football Manager.exe.config
+C:\Users\Adavi\Desktop\Proyecto Temporal\Football Manager\Football Manager\bin\Debug\Football Manager.exe
+C:\Users\Adavi\Desktop\Proyecto Temporal\Football Manager\Football Manager\bin\Debug\Football Manager.pdb
+C:\Users\Adavi\Desktop\Proyecto Temporal\Football Manager\Football Manager\bin\Debug\DLL Football Manager.dll
+C:\Users\Adavi\Desktop\Proyecto Temporal\Football Manager\Football Manager\bin\Debug\DLL Football Manager.pdb
+C:\Users\Adavi\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfCanchas.resources
+C:\Users\Adavi\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfEmpleados.resources
+C:\Users\Adavi\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfEstadisticas.resources
+C:\Users\Adavi\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfEstadoCampeonato.resources
+C:\Users\Adavi\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfIniciarSesion.resources
+C:\Users\Adavi\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfJugadores.resources
+C:\Users\Adavi\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfNiveles.resources
+C:\Users\Adavi\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfNuevoCampeonato.resources
+C:\Users\Adavi\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfNuevoEmpleado.resources
+C:\Users\Adavi\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfNuevoJugador.resources
+C:\Users\Adavi\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfTipoEmpleado.resources
+C:\Users\Adavi\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.Properties.Resources.resources
+C:\Users\Adavi\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfAcercaDe.resources
+C:\Users\Adavi\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfNuevoEquipo.resources
+C:\Users\Adavi\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfMenuPrincipal.resources
+C:\Users\Adavi\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfFichaPartido.resources
+C:\Users\Adavi\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfDetalleJugador.resources
+C:\Users\Adavi\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfUsuarios.resources
+C:\Users\Adavi\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfVisorEventos.resources
+C:\Users\Adavi\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football Manager.csproj.GenerateResource.Cache
+C:\Users\Adavi\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football Manager.exe
+C:\Users\Adavi\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football Manager.pdb
+C:\Users\Adavi\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football Manager.csprojResolveAssemblyReference.cache
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\bin\Debug\Football Manager.exe.config
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football Manager.exe
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football Manager.pdb
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\bin\Debug\Football Manager.exe
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\bin\Debug\Football Manager.pdb
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\bin\Debug\DLL Football Manager.dll
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\bin\Debug\DLL Football Manager.pdb
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football Manager.csprojResolveAssemblyReference.cache
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfCanchas.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfEmpleados.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfEstadisticas.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfEstadoCampeonato.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfIniciarSesion.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfJugadores.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfNiveles.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfNuevoCampeonato.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfNuevoEmpleado.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfNuevoJugador.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfTipoEmpleado.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.Properties.Resources.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfAcercaDe.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfNuevoEquipo.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfMenuPrincipal.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfFichaPartido.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfDetalleJugador.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfUsuarios.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfVisorEventos.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football Manager.csproj.GenerateResource.Cache
+C:\Users\Marlon\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfEstadisticas.resources
+C:\Users\Marlon\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\RdlCompile.cache
+C:\Users\Marlon\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\RdlCompile.compiled
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Proyecto\Proyecto Temporal\Football Manager\Football Manager\bin\Debug\Football Manager.exe.config
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football Manager.exe
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football Manager.pdb
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Proyecto\Proyecto Temporal\Football Manager\Football Manager\bin\Debug\Football Manager.exe
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Proyecto\Proyecto Temporal\Football Manager\Football Manager\bin\Debug\Football Manager.pdb
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Proyecto\Proyecto Temporal\Football Manager\Football Manager\bin\Debug\DLL Football Manager.dll
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Proyecto\Proyecto Temporal\Football Manager\Football Manager\bin\Debug\DLL Football Manager.pdb
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football Manager.csprojResolveAssemblyReference.cache
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfCanchas.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfEmpleados.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfEstadisticas.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfEstadoCampeonato.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfIniciarSesion.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfJugadores.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfNiveles.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfNuevoCampeonato.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfNuevoEmpleado.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfNuevoJugador.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfTipoEmpleado.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.Properties.Resources.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfAcercaDe.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfNuevoEquipo.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfMenuPrincipal.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfFichaPartido.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfDetalleJugador.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfUsuarios.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfVisorEventos.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football Manager.csproj.GenerateResource.Cache
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\RdlCompile.cache
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\RdlCompile.compiled
+C:\Users\FamGutierrez\Documents\GitHub\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\bin\Debug\Football Manager.exe.config
+C:\Users\FamGutierrez\Documents\GitHub\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football Manager.exe
+C:\Users\FamGutierrez\Documents\GitHub\Campeonato\Proyecto\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football Manager.pdb
+\\psf\Home\Desktop\Proyecto Temporal\Football Manager\Football Manager\bin\Debug\Football Manager.exe.config
+\\psf\Home\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football Manager.exe
+\\psf\Home\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football Manager.pdb
+\\psf\Home\Desktop\Proyecto Temporal\Football Manager\Football Manager\bin\Debug\Football Manager.exe
+\\psf\Home\Desktop\Proyecto Temporal\Football Manager\Football Manager\bin\Debug\Football Manager.pdb
+\\psf\Home\Desktop\Proyecto Temporal\Football Manager\Football Manager\bin\Debug\DLL Football Manager.dll
+\\psf\Home\Desktop\Proyecto Temporal\Football Manager\Football Manager\bin\Debug\DLL Football Manager.pdb
+\\psf\Home\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football Manager.csprojResolveAssemblyReference.cache
+\\psf\Home\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfCanchas.resources
+\\psf\Home\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfEmpleados.resources
+\\psf\Home\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfEstadisticas.resources
+\\psf\Home\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfEstadoCampeonato.resources
+\\psf\Home\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfIniciarSesion.resources
+\\psf\Home\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfJugadores.resources
+\\psf\Home\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfNiveles.resources
+\\psf\Home\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfNuevoCampeonato.resources
+\\psf\Home\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfNuevoEmpleado.resources
+\\psf\Home\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfNuevoJugador.resources
+\\psf\Home\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfTipoEmpleado.resources
+\\psf\Home\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.Properties.Resources.resources
+\\psf\Home\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfAcercaDe.resources
+\\psf\Home\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfNuevoEquipo.resources
+\\psf\Home\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfMenuPrincipal.resources
+\\psf\Home\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfFichaPartido.resources
+\\psf\Home\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfDetalleJugador.resources
+\\psf\Home\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfUsuarios.resources
+\\psf\Home\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfVisorEventos.resources
+\\psf\Home\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football Manager.csproj.GenerateResource.Cache
+\\psf\Home\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\RdlCompile.cache
+\\psf\Home\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Adavi\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\RdlCompile.cache
+C:\Users\Adavi\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Jennifer\Desktop\Proyecto Temporal\Football Manager\Football Manager\bin\Debug\Football Manager.exe.config
+C:\Users\Jennifer\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football Manager.exe
+C:\Users\Jennifer\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football Manager.pdb
+C:\Users\Jennifer\Desktop\Proyecto Temporal\Football Manager\Football Manager\bin\Debug\Football Manager.exe
+C:\Users\Jennifer\Desktop\Proyecto Temporal\Football Manager\Football Manager\bin\Debug\Football Manager.pdb
+C:\Users\Jennifer\Desktop\Proyecto Temporal\Football Manager\Football Manager\bin\Debug\DLL Football Manager.dll
+C:\Users\Jennifer\Desktop\Proyecto Temporal\Football Manager\Football Manager\bin\Debug\DLL Football Manager.pdb
+C:\Users\Jennifer\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football Manager.csprojResolveAssemblyReference.cache
+C:\Users\Jennifer\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfCanchas.resources
+C:\Users\Jennifer\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfEmpleados.resources
+C:\Users\Jennifer\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfEstadisticas.resources
+C:\Users\Jennifer\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfEstadoCampeonato.resources
+C:\Users\Jennifer\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfIniciarSesion.resources
+C:\Users\Jennifer\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfJugadores.resources
+C:\Users\Jennifer\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfNiveles.resources
+C:\Users\Jennifer\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfNuevoCampeonato.resources
+C:\Users\Jennifer\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfNuevoEmpleado.resources
+C:\Users\Jennifer\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfNuevoJugador.resources
+C:\Users\Jennifer\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfTipoEmpleado.resources
+C:\Users\Jennifer\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.Properties.Resources.resources
+C:\Users\Jennifer\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfAcercaDe.resources
+C:\Users\Jennifer\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfNuevoEquipo.resources
+C:\Users\Jennifer\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfMenuPrincipal.resources
+C:\Users\Jennifer\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfFichaPartido.resources
+C:\Users\Jennifer\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfDetalleJugador.resources
+C:\Users\Jennifer\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfUsuarios.resources
+C:\Users\Jennifer\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfVisorEventos.resources
+C:\Users\Jennifer\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football Manager.csproj.GenerateResource.Cache
+C:\Users\Jennifer\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\RdlCompile.cache
+C:\Users\Jennifer\Desktop\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Adavi\Downloads\Proyecto Temporal\Football Manager\Football Manager\bin\Debug\Football Manager.exe.config
+C:\Users\Adavi\Downloads\Proyecto Temporal\Football Manager\Football Manager\bin\Debug\Football Manager.exe
+C:\Users\Adavi\Downloads\Proyecto Temporal\Football Manager\Football Manager\bin\Debug\Football Manager.pdb
+C:\Users\Adavi\Downloads\Proyecto Temporal\Football Manager\Football Manager\bin\Debug\DLL Football Manager.dll
+C:\Users\Adavi\Downloads\Proyecto Temporal\Football Manager\Football Manager\bin\Debug\DLL Football Manager.pdb
+C:\Users\Adavi\Downloads\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football Manager.csprojResolveAssemblyReference.cache
+C:\Users\Adavi\Downloads\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfCanchas.resources
+C:\Users\Adavi\Downloads\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfEmpleados.resources
+C:\Users\Adavi\Downloads\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfEstadisticas.resources
+C:\Users\Adavi\Downloads\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfEstadoCampeonato.resources
+C:\Users\Adavi\Downloads\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfIniciarSesion.resources
+C:\Users\Adavi\Downloads\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfJugadores.resources
+C:\Users\Adavi\Downloads\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfNiveles.resources
+C:\Users\Adavi\Downloads\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfNuevoCampeonato.resources
+C:\Users\Adavi\Downloads\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfNuevoEmpleado.resources
+C:\Users\Adavi\Downloads\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfNuevoJugador.resources
+C:\Users\Adavi\Downloads\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfTipoEmpleado.resources
+C:\Users\Adavi\Downloads\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.Properties.Resources.resources
+C:\Users\Adavi\Downloads\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfAcercaDe.resources
+C:\Users\Adavi\Downloads\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfNuevoEquipo.resources
+C:\Users\Adavi\Downloads\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfMenuPrincipal.resources
+C:\Users\Adavi\Downloads\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfFichaPartido.resources
+C:\Users\Adavi\Downloads\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfDetalleJugador.resources
+C:\Users\Adavi\Downloads\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfUsuarios.resources
+C:\Users\Adavi\Downloads\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football_Manager.wfVisorEventos.resources
+C:\Users\Adavi\Downloads\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football Manager.csproj.GenerateResource.Cache
+C:\Users\Adavi\Downloads\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\RdlCompile.cache
+C:\Users\Adavi\Downloads\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Adavi\Downloads\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football Manager.exe
+C:\Users\Adavi\Downloads\Proyecto Temporal\Football Manager\Football Manager\obj\x86\Debug\Football Manager.pdb
+C:\Users\Adavi\Desktop\FootballManager\Aplicacion\Football Manager\bin\Debug\Football Manager.exe.config
+C:\Users\Adavi\Desktop\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football Manager.exe
+C:\Users\Adavi\Desktop\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football Manager.pdb
+C:\Users\Adavi\Desktop\FootballManager\Aplicacion\Football Manager\bin\Debug\Football Manager.exe
+C:\Users\Adavi\Desktop\FootballManager\Aplicacion\Football Manager\bin\Debug\Football Manager.pdb
+C:\Users\Adavi\Desktop\FootballManager\Aplicacion\Football Manager\bin\Debug\DLL Football Manager.pdb
+C:\Users\Adavi\Desktop\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football Manager.csprojResolveAssemblyReference.cache
+C:\Users\Adavi\Desktop\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfCanchas.resources
+C:\Users\Adavi\Desktop\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfEmpleados.resources
+C:\Users\Adavi\Desktop\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfEstadisticas.resources
+C:\Users\Adavi\Desktop\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfEstadoCampeonato.resources
+C:\Users\Adavi\Desktop\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfIniciarSesion.resources
+C:\Users\Adavi\Desktop\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfJugadores.resources
+C:\Users\Adavi\Desktop\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfNuevoCampeonato.resources
+C:\Users\Adavi\Desktop\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfNuevoEmpleado.resources
+C:\Users\Adavi\Desktop\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfNuevoJugador.resources
+C:\Users\Adavi\Desktop\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfTipoEmpleado.resources
+C:\Users\Adavi\Desktop\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.Properties.Resources.resources
+C:\Users\Adavi\Desktop\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfAcercaDe.resources
+C:\Users\Adavi\Desktop\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfNuevoEquipo.resources
+C:\Users\Adavi\Desktop\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfMenuPrincipal.resources
+C:\Users\Adavi\Desktop\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfFichaPartido.resources
+C:\Users\Adavi\Desktop\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfDetalleJugador.resources
+C:\Users\Adavi\Desktop\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfUsuarios.resources
+C:\Users\Adavi\Desktop\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfVisorEventos.resources
+C:\Users\Adavi\Desktop\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football Manager.csproj.GenerateResource.Cache
+C:\Users\Adavi\Desktop\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\RdlCompile.cache
+C:\Users\Adavi\Desktop\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Danny\Contacts\Desktop\Proyecto\FootballManager\Aplicacion\Football Manager\bin\Debug\Football Manager.exe.config
+C:\Users\Danny\Contacts\Desktop\Proyecto\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football Manager.exe
+C:\Users\Danny\Contacts\Desktop\Proyecto\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football Manager.pdb
+C:\Users\Danny\Contacts\Desktop\Proyecto\FootballManager\Aplicacion\Football Manager\bin\Debug\Football Manager.exe
+C:\Users\Danny\Contacts\Desktop\Proyecto\FootballManager\Aplicacion\Football Manager\bin\Debug\Football Manager.pdb
+C:\Users\Danny\Contacts\Desktop\Proyecto\FootballManager\Aplicacion\Football Manager\bin\Debug\DLL Football Manager.pdb
+C:\Users\Danny\Contacts\Desktop\Proyecto\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football Manager.csprojResolveAssemblyReference.cache
+C:\Users\Danny\Contacts\Desktop\Proyecto\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfCanchas.resources
+C:\Users\Danny\Contacts\Desktop\Proyecto\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfEmpleados.resources
+C:\Users\Danny\Contacts\Desktop\Proyecto\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfEstadisticas.resources
+C:\Users\Danny\Contacts\Desktop\Proyecto\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfEstadoCampeonato.resources
+C:\Users\Danny\Contacts\Desktop\Proyecto\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfIniciarSesion.resources
+C:\Users\Danny\Contacts\Desktop\Proyecto\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfJugadores.resources
+C:\Users\Danny\Contacts\Desktop\Proyecto\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfNiveles.resources
+C:\Users\Danny\Contacts\Desktop\Proyecto\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfNuevoCampeonato.resources
+C:\Users\Danny\Contacts\Desktop\Proyecto\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfNuevoEmpleado.resources
+C:\Users\Danny\Contacts\Desktop\Proyecto\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfNuevoJugador.resources
+C:\Users\Danny\Contacts\Desktop\Proyecto\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfTipoEmpleado.resources
+C:\Users\Danny\Contacts\Desktop\Proyecto\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.Properties.Resources.resources
+C:\Users\Danny\Contacts\Desktop\Proyecto\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfAcercaDe.resources
+C:\Users\Danny\Contacts\Desktop\Proyecto\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfNuevoEquipo.resources
+C:\Users\Danny\Contacts\Desktop\Proyecto\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfMenuPrincipal.resources
+C:\Users\Danny\Contacts\Desktop\Proyecto\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfFichaPartido.resources
+C:\Users\Danny\Contacts\Desktop\Proyecto\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfDetalleJugador.resources
+C:\Users\Danny\Contacts\Desktop\Proyecto\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfUsuarios.resources
+C:\Users\Danny\Contacts\Desktop\Proyecto\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfVisorEventos.resources
+C:\Users\Danny\Contacts\Desktop\Proyecto\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football Manager.csproj.GenerateResource.Cache
+C:\Users\Danny\Contacts\Desktop\Proyecto\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\RdlCompile.cache
+C:\Users\Danny\Contacts\Desktop\Proyecto\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Jennifer\Documents\GitHub\Campeonato\Proyecto\FootballManager\Aplicacion\Football Manager\bin\Debug\Football Manager.exe.config
+C:\Users\Jennifer\Documents\GitHub\Campeonato\Proyecto\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football Manager.exe
+C:\Users\Jennifer\Documents\GitHub\Campeonato\Proyecto\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football Manager.pdb
+C:\Users\Jennifer\Documents\GitHub\Campeonato\Proyecto\FootballManager\Aplicacion\Football Manager\bin\Debug\Football Manager.exe
+C:\Users\Jennifer\Documents\GitHub\Campeonato\Proyecto\FootballManager\Aplicacion\Football Manager\bin\Debug\Football Manager.pdb
+C:\Users\Jennifer\Documents\GitHub\Campeonato\Proyecto\FootballManager\Aplicacion\Football Manager\bin\Debug\DLL Football Manager.pdb
+C:\Users\Jennifer\Documents\GitHub\Campeonato\Proyecto\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football Manager.csprojResolveAssemblyReference.cache
+C:\Users\Jennifer\Documents\GitHub\Campeonato\Proyecto\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfCanchas.resources
+C:\Users\Jennifer\Documents\GitHub\Campeonato\Proyecto\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfEmpleados.resources
+C:\Users\Jennifer\Documents\GitHub\Campeonato\Proyecto\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfEstadisticas.resources
+C:\Users\Jennifer\Documents\GitHub\Campeonato\Proyecto\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfEstadoCampeonato.resources
+C:\Users\Jennifer\Documents\GitHub\Campeonato\Proyecto\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfIniciarSesion.resources
+C:\Users\Jennifer\Documents\GitHub\Campeonato\Proyecto\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfJugadores.resources
+C:\Users\Jennifer\Documents\GitHub\Campeonato\Proyecto\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfNuevoCampeonato.resources
+C:\Users\Jennifer\Documents\GitHub\Campeonato\Proyecto\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfNuevoEmpleado.resources
+C:\Users\Jennifer\Documents\GitHub\Campeonato\Proyecto\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfNuevoJugador.resources
+C:\Users\Jennifer\Documents\GitHub\Campeonato\Proyecto\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfTipoEmpleado.resources
+C:\Users\Jennifer\Documents\GitHub\Campeonato\Proyecto\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.Properties.Resources.resources
+C:\Users\Jennifer\Documents\GitHub\Campeonato\Proyecto\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfAcercaDe.resources
+C:\Users\Jennifer\Documents\GitHub\Campeonato\Proyecto\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfNuevoEquipo.resources
+C:\Users\Jennifer\Documents\GitHub\Campeonato\Proyecto\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfMenuPrincipal.resources
+C:\Users\Jennifer\Documents\GitHub\Campeonato\Proyecto\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfFichaPartido.resources
+C:\Users\Jennifer\Documents\GitHub\Campeonato\Proyecto\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfDetalleJugador.resources
+C:\Users\Jennifer\Documents\GitHub\Campeonato\Proyecto\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfUsuarios.resources
+C:\Users\Jennifer\Documents\GitHub\Campeonato\Proyecto\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfVisorEventos.resources
+C:\Users\Jennifer\Documents\GitHub\Campeonato\Proyecto\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football Manager.csproj.GenerateResource.Cache
+C:\Users\Jennifer\Documents\GitHub\Campeonato\Proyecto\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\RdlCompile.cache
+C:\Users\Jennifer\Documents\GitHub\Campeonato\Proyecto\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Danny\Contacts\Desktop\FootballManager\Aplicacion\Football Manager\bin\Debug\Football Manager.exe.config
+C:\Users\Danny\Contacts\Desktop\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football Manager.exe
+C:\Users\Danny\Contacts\Desktop\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football Manager.pdb
+C:\Users\Danny\Contacts\Desktop\FootballManager\Aplicacion\Football Manager\bin\Debug\Football Manager.exe
+C:\Users\Danny\Contacts\Desktop\FootballManager\Aplicacion\Football Manager\bin\Debug\Football Manager.pdb
+C:\Users\Danny\Contacts\Desktop\FootballManager\Aplicacion\Football Manager\bin\Debug\DLL Football Manager.pdb
+C:\Users\Danny\Contacts\Desktop\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football Manager.csprojResolveAssemblyReference.cache
+C:\Users\Danny\Contacts\Desktop\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfCanchas.resources
+C:\Users\Danny\Contacts\Desktop\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfEmpleados.resources
+C:\Users\Danny\Contacts\Desktop\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfEstadisticas.resources
+C:\Users\Danny\Contacts\Desktop\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfEstadoCampeonato.resources
+C:\Users\Danny\Contacts\Desktop\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfIniciarSesion.resources
+C:\Users\Danny\Contacts\Desktop\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfJugadores.resources
+C:\Users\Danny\Contacts\Desktop\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfNuevoCampeonato.resources
+C:\Users\Danny\Contacts\Desktop\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfNuevoEmpleado.resources
+C:\Users\Danny\Contacts\Desktop\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfNuevoJugador.resources
+C:\Users\Danny\Contacts\Desktop\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfTipoEmpleado.resources
+C:\Users\Danny\Contacts\Desktop\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.Properties.Resources.resources
+C:\Users\Danny\Contacts\Desktop\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfAcercaDe.resources
+C:\Users\Danny\Contacts\Desktop\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfNuevoEquipo.resources
+C:\Users\Danny\Contacts\Desktop\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfMenuPrincipal.resources
+C:\Users\Danny\Contacts\Desktop\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfFichaPartido.resources
+C:\Users\Danny\Contacts\Desktop\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfDetalleJugador.resources
+C:\Users\Danny\Contacts\Desktop\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfUsuarios.resources
+C:\Users\Danny\Contacts\Desktop\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfVisorEventos.resources
+C:\Users\Danny\Contacts\Desktop\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football Manager.csproj.GenerateResource.Cache
+C:\Users\Danny\Contacts\Desktop\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\RdlCompile.cache
+C:\Users\Danny\Contacts\Desktop\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Marlon Aldana\Desktop\FootballManager\Aplicacion\Football Manager\bin\Debug\Football Manager.exe.config
+C:\Users\Marlon Aldana\Desktop\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football Manager.exe
+C:\Users\Marlon Aldana\Desktop\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football Manager.pdb
+C:\Users\Marlon Aldana\Desktop\FootballManager\Aplicacion\Football Manager\bin\Debug\Football Manager.exe
+C:\Users\Marlon Aldana\Desktop\FootballManager\Aplicacion\Football Manager\bin\Debug\Football Manager.pdb
+C:\Users\Marlon Aldana\Desktop\FootballManager\Aplicacion\Football Manager\bin\Debug\DLL Football Manager.pdb
+C:\Users\Marlon Aldana\Desktop\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football Manager.csprojResolveAssemblyReference.cache
+C:\Users\Marlon Aldana\Desktop\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfCanchas.resources
+C:\Users\Marlon Aldana\Desktop\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfEmpleados.resources
+C:\Users\Marlon Aldana\Desktop\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfEstadisticas.resources
+C:\Users\Marlon Aldana\Desktop\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfEstadoCampeonato.resources
+C:\Users\Marlon Aldana\Desktop\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfIniciarSesion.resources
+C:\Users\Marlon Aldana\Desktop\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfJugadores.resources
+C:\Users\Marlon Aldana\Desktop\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfNuevoCampeonato.resources
+C:\Users\Marlon Aldana\Desktop\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfNuevoEmpleado.resources
+C:\Users\Marlon Aldana\Desktop\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfNuevoJugador.resources
+C:\Users\Marlon Aldana\Desktop\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfTipoEmpleado.resources
+C:\Users\Marlon Aldana\Desktop\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.Properties.Resources.resources
+C:\Users\Marlon Aldana\Desktop\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfAcercaDe.resources
+C:\Users\Marlon Aldana\Desktop\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfNuevoEquipo.resources
+C:\Users\Marlon Aldana\Desktop\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfMenuPrincipal.resources
+C:\Users\Marlon Aldana\Desktop\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfFichaPartido.resources
+C:\Users\Marlon Aldana\Desktop\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfDetalleJugador.resources
+C:\Users\Marlon Aldana\Desktop\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfUsuarios.resources
+C:\Users\Marlon Aldana\Desktop\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfVisorEventos.resources
+C:\Users\Marlon Aldana\Desktop\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football Manager.csproj.GenerateResource.Cache
+C:\Users\Marlon Aldana\Desktop\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\RdlCompile.cache
+C:\Users\Marlon Aldana\Desktop\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Adavi\Desktop\Proyecto\FootballManager\Aplicacion\Football Manager\bin\Debug\Football Manager.exe.config
+C:\Users\Adavi\Desktop\Proyecto\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football Manager.exe
+C:\Users\Adavi\Desktop\Proyecto\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football Manager.pdb
+C:\Users\Adavi\Desktop\Proyecto\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football Manager.csprojResolveAssemblyReference.cache
+C:\Users\Adavi\Desktop\Proyecto\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfCanchas.resources
+C:\Users\Adavi\Desktop\Proyecto\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfEmpleados.resources
+C:\Users\Adavi\Desktop\Proyecto\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfEstadisticas.resources
+C:\Users\Adavi\Desktop\Proyecto\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfEstadoCampeonato.resources
+C:\Users\Adavi\Desktop\Proyecto\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfIniciarSesion.resources
+C:\Users\Adavi\Desktop\Proyecto\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfJugadores.resources
+C:\Users\Adavi\Desktop\Proyecto\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfNuevoCampeonato.resources
+C:\Users\Adavi\Desktop\Proyecto\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfNuevoEmpleado.resources
+C:\Users\Adavi\Desktop\Proyecto\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfNuevoJugador.resources
+C:\Users\Adavi\Desktop\Proyecto\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfTipoEmpleado.resources
+C:\Users\Adavi\Desktop\Proyecto\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.Properties.Resources.resources
+C:\Users\Adavi\Desktop\Proyecto\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfAcercaDe.resources
+C:\Users\Adavi\Desktop\Proyecto\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfNuevoEquipo.resources
+C:\Users\Adavi\Desktop\Proyecto\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfMenuPrincipal.resources
+C:\Users\Adavi\Desktop\Proyecto\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfFichaPartido.resources
+C:\Users\Adavi\Desktop\Proyecto\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfDetalleJugador.resources
+C:\Users\Adavi\Desktop\Proyecto\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfUsuarios.resources
+C:\Users\Adavi\Desktop\Proyecto\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football_Manager.wfVisorEventos.resources
+C:\Users\Adavi\Desktop\Proyecto\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\Football Manager.csproj.GenerateResource.Cache
+C:\Users\Adavi\Desktop\Proyecto\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\RdlCompile.cache
+C:\Users\Adavi\Desktop\Proyecto\FootballManager\Aplicacion\Football Manager\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Adavi\Desktop\Proyecto\FootballManager\Aplicacion\Football Manager\bin\Debug\Football Manager.exe
+C:\Users\Adavi\Desktop\Proyecto\FootballManager\Aplicacion\Football Manager\bin\Debug\Football Manager.pdb
+C:\Users\Adavi\Desktop\Proyecto\FootballManager\Aplicacion\Football Manager\bin\Debug\DLL Football Manager.pdb
+C:\Users\Adavi\Documents\UMG\Diseño de Sistemas\Football Manager\Aplicación\Football Manager\bin\Debug\Football Manager.exe.config
+C:\Users\Adavi\Documents\UMG\Diseño de Sistemas\Football Manager\Aplicación\Football Manager\obj\x86\Debug\Football Manager.exe
+C:\Users\Adavi\Documents\UMG\Diseño de Sistemas\Football Manager\Aplicación\Football Manager\obj\x86\Debug\Football Manager.pdb
+C:\Users\Adavi\Documents\UMG\Diseño de Sistemas\Football Manager\Aplicación\Football Manager\obj\x86\Debug\Football Manager.csprojResolveAssemblyReference.cache
+C:\Users\Adavi\Documents\UMG\Diseño de Sistemas\Football Manager\Aplicación\Football Manager\obj\x86\Debug\Football_Manager.wfCanchas.resources
+C:\Users\Adavi\Documents\UMG\Diseño de Sistemas\Football Manager\Aplicación\Football Manager\obj\x86\Debug\Football_Manager.wfEmpleados.resources
+C:\Users\Adavi\Documents\UMG\Diseño de Sistemas\Football Manager\Aplicación\Football Manager\obj\x86\Debug\Football_Manager.wfEstadisticas.resources
+C:\Users\Adavi\Documents\UMG\Diseño de Sistemas\Football Manager\Aplicación\Football Manager\obj\x86\Debug\Football_Manager.wfEstadoCampeonato.resources
+C:\Users\Adavi\Documents\UMG\Diseño de Sistemas\Football Manager\Aplicación\Football Manager\obj\x86\Debug\Football_Manager.wfIniciarSesion.resources
+C:\Users\Adavi\Documents\UMG\Diseño de Sistemas\Football Manager\Aplicación\Football Manager\obj\x86\Debug\Football_Manager.wfJugadores.resources
+C:\Users\Adavi\Documents\UMG\Diseño de Sistemas\Football Manager\Aplicación\Football Manager\obj\x86\Debug\Football_Manager.wfNuevoCampeonato.resources
+C:\Users\Adavi\Documents\UMG\Diseño de Sistemas\Football Manager\Aplicación\Football Manager\obj\x86\Debug\Football_Manager.wfNuevoEmpleado.resources
+C:\Users\Adavi\Documents\UMG\Diseño de Sistemas\Football Manager\Aplicación\Football Manager\obj\x86\Debug\Football_Manager.wfNuevoJugador.resources
+C:\Users\Adavi\Documents\UMG\Diseño de Sistemas\Football Manager\Aplicación\Football Manager\obj\x86\Debug\Football_Manager.wfTipoEmpleado.resources
+C:\Users\Adavi\Documents\UMG\Diseño de Sistemas\Football Manager\Aplicación\Football Manager\obj\x86\Debug\Football_Manager.Properties.Resources.resources
+C:\Users\Adavi\Documents\UMG\Diseño de Sistemas\Football Manager\Aplicación\Football Manager\obj\x86\Debug\Football_Manager.wfAcercaDe.resources
+C:\Users\Adavi\Documents\UMG\Diseño de Sistemas\Football Manager\Aplicación\Football Manager\obj\x86\Debug\Football_Manager.wfNuevoEquipo.resources
+C:\Users\Adavi\Documents\UMG\Diseño de Sistemas\Football Manager\Aplicación\Football Manager\obj\x86\Debug\Football_Manager.wfMenuPrincipal.resources
+C:\Users\Adavi\Documents\UMG\Diseño de Sistemas\Football Manager\Aplicación\Football Manager\obj\x86\Debug\Football_Manager.wfFichaPartido.resources
+C:\Users\Adavi\Documents\UMG\Diseño de Sistemas\Football Manager\Aplicación\Football Manager\obj\x86\Debug\Football_Manager.wfDetalleJugador.resources
+C:\Users\Adavi\Documents\UMG\Diseño de Sistemas\Football Manager\Aplicación\Football Manager\obj\x86\Debug\Football_Manager.wfUsuarios.resources
+C:\Users\Adavi\Documents\UMG\Diseño de Sistemas\Football Manager\Aplicación\Football Manager\obj\x86\Debug\Football_Manager.wfVisorEventos.resources
+C:\Users\Adavi\Documents\UMG\Diseño de Sistemas\Football Manager\Aplicación\Football Manager\obj\x86\Debug\Football Manager.csproj.GenerateResource.Cache
+C:\Users\Adavi\Documents\UMG\Diseño de Sistemas\Football Manager\Aplicación\Football Manager\obj\x86\Debug\RdlCompile.cache
+C:\Users\Adavi\Documents\UMG\Diseño de Sistemas\Football Manager\Aplicación\Football Manager\obj\x86\Debug\RdlCompile.compiled

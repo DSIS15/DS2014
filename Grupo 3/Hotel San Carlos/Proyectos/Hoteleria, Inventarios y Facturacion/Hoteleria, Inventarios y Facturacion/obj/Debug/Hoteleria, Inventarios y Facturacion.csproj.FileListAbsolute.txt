@@ -1,0 +1,10 @@
+c:\users\adavi\documents\visual studio 2013\Projects\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Hoteleria, Inventarios y Facturacion.exe.config
+c:\users\adavi\documents\visual studio 2013\Projects\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Hoteleria, Inventarios y Facturacion.exe
+c:\users\adavi\documents\visual studio 2013\Projects\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Hoteleria, Inventarios y Facturacion.pdb
+c:\users\adavi\documents\visual studio 2013\Projects\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\obj\Debug\Hoteleria, Inventarios y Facturacion.csprojResolveAssemblyReference.cache
+c:\users\adavi\documents\visual studio 2013\Projects\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\obj\Debug\Hoteleria__Inventarios_y_Facturacion.Form1.resources
+c:\users\adavi\documents\visual studio 2013\Projects\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\obj\Debug\Hoteleria__Inventarios_y_Facturacion.Properties.Resources.resources
+c:\users\adavi\documents\visual studio 2013\Projects\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\obj\Debug\Hoteleria__Inventarios_y_Facturacion.wfAcercaDe.resources
+c:\users\adavi\documents\visual studio 2013\Projects\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\obj\Debug\Hoteleria, Inventarios y Facturacion.csproj.GenerateResource.Cache
+c:\users\adavi\documents\visual studio 2013\Projects\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\obj\Debug\Hoteleria, Inventarios y Facturacion.exe
+c:\users\adavi\documents\visual studio 2013\Projects\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\obj\Debug\Hoteleria, Inventarios y Facturacion.pdb

@@ -1,0 +1,140 @@
+c:\users\famgutierrez\documents\visual studio 2013\Projects\Facturacion\Facturacion\bin\Debug\Facturacion.dll
+c:\users\famgutierrez\documents\visual studio 2013\Projects\Facturacion\Facturacion\bin\Debug\Facturacion.pdb
+c:\users\famgutierrez\documents\visual studio 2013\Projects\Facturacion\Facturacion\bin\Debug\Navegador.pdb
+c:\users\famgutierrez\documents\visual studio 2013\Projects\Facturacion\Facturacion\bin\Debug\ODBCconnector.pdb
+c:\users\famgutierrez\documents\visual studio 2013\Projects\Facturacion\Facturacion\obj\Debug\Facturacion.csprojResolveAssemblyReference.cache
+c:\users\famgutierrez\documents\visual studio 2013\Projects\Facturacion\Facturacion\obj\Debug\Facturacion.wfEmpresa.resources
+c:\users\famgutierrez\documents\visual studio 2013\Projects\Facturacion\Facturacion\obj\Debug\Facturacion.wfFactura.resources
+c:\users\famgutierrez\documents\visual studio 2013\Projects\Facturacion\Facturacion\obj\Debug\Facturacion.wfImpuesto.resources
+c:\users\famgutierrez\documents\visual studio 2013\Projects\Facturacion\Facturacion\obj\Debug\Facturacion.wfSerie.resources
+c:\users\famgutierrez\documents\visual studio 2013\Projects\Facturacion\Facturacion\obj\Debug\Facturacion.csproj.GenerateResource.Cache
+c:\users\famgutierrez\documents\visual studio 2013\Projects\Facturacion\Facturacion\obj\Debug\Facturacion.dll
+c:\users\famgutierrez\documents\visual studio 2013\Projects\Facturacion\Facturacion\obj\Debug\Facturacion.pdb
+C:\Users\DANNY\Desktop\Facturacion\Facturacion\obj\Debug\Facturacion.csprojResolveAssemblyReference.cache
+C:\Users\DANNY\Desktop\Facturacion\Facturacion\obj\Debug\Facturacion.wfEmpresa.resources
+C:\Users\DANNY\Desktop\Facturacion\Facturacion\obj\Debug\Facturacion.wfFactura.resources
+C:\Users\DANNY\Desktop\Facturacion\Facturacion\obj\Debug\Facturacion.wfImpuesto.resources
+C:\Users\DANNY\Desktop\Facturacion\Facturacion\obj\Debug\Facturacion.wfSerie.resources
+C:\Users\DANNY\Desktop\Facturacion\Facturacion\obj\Debug\Facturacion.csproj.GenerateResource.Cache
+C:\Users\DANNY\Desktop\Facturacion\Facturacion\obj\Debug\Facturacion.dll
+C:\Users\DANNY\Desktop\Facturacion\Facturacion\bin\Debug\Facturacion.dll
+C:\Users\DANNY\Desktop\Facturacion\Facturacion\bin\Debug\Facturacion.pdb
+C:\Users\DANNY\Desktop\Facturacion\Facturacion\bin\Debug\Navegador.pdb
+C:\Users\DANNY\Desktop\Facturacion\Facturacion\bin\Debug\ODBCconnector.pdb
+C:\Users\DANNY\Desktop\Facturacion\Facturacion\obj\Debug\Facturacion.pdb
+C:\Users\FamGutierrez\Documents\Visual Studio 2013\Projects\Proyectos\Facturacion\Facturacion\obj\Debug\Facturacion.csprojResolveAssemblyReference.cache
+C:\Users\FamGutierrez\Documents\Visual Studio 2013\Projects\Proyectos\Facturacion\Facturacion\obj\Debug\Facturacion.wfEmpresa.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2013\Projects\Proyectos\Facturacion\Facturacion\obj\Debug\Facturacion.wfFactura.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2013\Projects\Proyectos\Facturacion\Facturacion\obj\Debug\Facturacion.wfImpuesto.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2013\Projects\Proyectos\Facturacion\Facturacion\obj\Debug\Facturacion.wfSerie.resources
+C:\Users\FamGutierrez\Documents\Visual Studio 2013\Projects\Proyectos\Facturacion\Facturacion\obj\Debug\Facturacion.csproj.GenerateResource.Cache
+C:\Users\FamGutierrez\Documents\Visual Studio 2013\Projects\Proyectos\Facturacion\Facturacion\obj\Debug\Facturacion.dll
+C:\Users\FamGutierrez\Documents\Visual Studio 2013\Projects\Proyectos\Facturacion\Facturacion\bin\Debug\Facturacion.dll
+C:\Users\FamGutierrez\Documents\Visual Studio 2013\Projects\Proyectos\Facturacion\Facturacion\bin\Debug\Facturacion.pdb
+C:\Users\FamGutierrez\Documents\Visual Studio 2013\Projects\Proyectos\Facturacion\Facturacion\bin\Debug\Navegador.pdb
+C:\Users\FamGutierrez\Documents\Visual Studio 2013\Projects\Proyectos\Facturacion\Facturacion\bin\Debug\ODBCconnector.pdb
+C:\Users\FamGutierrez\Documents\Visual Studio 2013\Projects\Proyectos\Facturacion\Facturacion\obj\Debug\Facturacion.pdb
+C:\Users\FamGutierrez\Documents\Visual Studio 2013\Projects\Proyectos\Facturacion\Facturacion\bin\Debug\Hoteleria.dll
+C:\Users\FamGutierrez\Documents\Visual Studio 2013\Projects\Proyectos\Facturacion\Facturacion\bin\Debug\Hoteleria.pdb
+C:\Users\FamGutierrez\Documents\Visual Studio 2013\Projects\Proyectos\Facturacion\Facturacion\bin\Debug\Inventario.dll
+C:\Users\FamGutierrez\Documents\Visual Studio 2013\Projects\Proyectos\Facturacion\Facturacion\bin\Debug\Inventario.pdb
+C:\Users\marlon\Desktop\Proyectos\Facturacion\Facturacion\bin\Debug\Facturacion.dll
+C:\Users\marlon\Desktop\Proyectos\Facturacion\Facturacion\bin\Debug\Facturacion.pdb
+C:\Users\marlon\Desktop\Proyectos\Facturacion\Facturacion\bin\Debug\Hoteleria.dll
+C:\Users\marlon\Desktop\Proyectos\Facturacion\Facturacion\bin\Debug\Inventario.dll
+C:\Users\marlon\Desktop\Proyectos\Facturacion\Facturacion\bin\Debug\Hoteleria.pdb
+C:\Users\marlon\Desktop\Proyectos\Facturacion\Facturacion\bin\Debug\Inventario.pdb
+C:\Users\marlon\Desktop\Proyectos\Facturacion\Facturacion\bin\Debug\Navegador.pdb
+C:\Users\marlon\Desktop\Proyectos\Facturacion\Facturacion\bin\Debug\ODBCconnector.pdb
+C:\Users\marlon\Desktop\Proyectos\Facturacion\Facturacion\obj\Debug\Facturacion.csprojResolveAssemblyReference.cache
+C:\Users\marlon\Desktop\Proyectos\Facturacion\Facturacion\obj\Debug\Facturacion.wfEmpresa.resources
+C:\Users\marlon\Desktop\Proyectos\Facturacion\Facturacion\obj\Debug\Facturacion.wfFactura.resources
+C:\Users\marlon\Desktop\Proyectos\Facturacion\Facturacion\obj\Debug\Facturacion.wfImpuesto.resources
+C:\Users\marlon\Desktop\Proyectos\Facturacion\Facturacion\obj\Debug\Facturacion.wfSerie.resources
+C:\Users\marlon\Desktop\Proyectos\Facturacion\Facturacion\obj\Debug\Facturacion.csproj.GenerateResource.Cache
+C:\Users\marlon\Desktop\Proyectos\Facturacion\Facturacion\obj\Debug\Facturacion.dll
+C:\Users\marlon\Desktop\Proyectos\Facturacion\Facturacion\obj\Debug\Facturacion.pdb
+C:\Users\Adavi\Desktop\Proyectos\Facturacion\Facturacion\bin\Debug\Facturacion.dll
+C:\Users\Adavi\Desktop\Proyectos\Facturacion\Facturacion\bin\Debug\Facturacion.pdb
+C:\Users\Adavi\Desktop\Proyectos\Facturacion\Facturacion\bin\Debug\Hoteleria.dll
+C:\Users\Adavi\Desktop\Proyectos\Facturacion\Facturacion\bin\Debug\Inventario.dll
+C:\Users\Adavi\Desktop\Proyectos\Facturacion\Facturacion\bin\Debug\Hoteleria.pdb
+C:\Users\Adavi\Desktop\Proyectos\Facturacion\Facturacion\bin\Debug\Inventario.pdb
+C:\Users\Adavi\Desktop\Proyectos\Facturacion\Facturacion\bin\Debug\Navegador.pdb
+C:\Users\Adavi\Desktop\Proyectos\Facturacion\Facturacion\bin\Debug\ODBCconnector.pdb
+C:\Users\Adavi\Desktop\Proyectos\Facturacion\Facturacion\obj\Debug\Facturacion.csprojResolveAssemblyReference.cache
+C:\Users\Adavi\Desktop\Proyectos\Facturacion\Facturacion\obj\Debug\Facturacion.wfEmpresa.resources
+C:\Users\Adavi\Desktop\Proyectos\Facturacion\Facturacion\obj\Debug\Facturacion.wfFactura.resources
+C:\Users\Adavi\Desktop\Proyectos\Facturacion\Facturacion\obj\Debug\Facturacion.wfImpuesto.resources
+C:\Users\Adavi\Desktop\Proyectos\Facturacion\Facturacion\obj\Debug\Facturacion.wfSerie.resources
+C:\Users\Adavi\Desktop\Proyectos\Facturacion\Facturacion\obj\Debug\Facturacion.csproj.GenerateResource.Cache
+C:\Users\Adavi\Desktop\Proyectos\Facturacion\Facturacion\obj\Debug\Facturacion.dll
+C:\Users\Adavi\Desktop\Proyectos\Facturacion\Facturacion\obj\Debug\Facturacion.pdb
+C:\Users\FamGutierrez\Desktop\Proyectos\Facturacion\Facturacion\obj\Debug\Facturacion.csprojResolveAssemblyReference.cache
+C:\Users\FamGutierrez\Desktop\Proyectos\Facturacion\Facturacion\obj\Debug\Facturacion.wfEmpresa.resources
+C:\Users\FamGutierrez\Desktop\Proyectos\Facturacion\Facturacion\obj\Debug\Facturacion.wfFactura.resources
+C:\Users\FamGutierrez\Desktop\Proyectos\Facturacion\Facturacion\obj\Debug\Facturacion.wfImpuesto.resources
+C:\Users\FamGutierrez\Desktop\Proyectos\Facturacion\Facturacion\obj\Debug\Facturacion.wfSerie.resources
+C:\Users\FamGutierrez\Desktop\Proyectos\Facturacion\Facturacion\obj\Debug\Facturacion.csproj.GenerateResource.Cache
+C:\Users\FamGutierrez\Desktop\Proyectos\Facturacion\Facturacion\obj\Debug\Facturacion.dll
+C:\Users\FamGutierrez\Desktop\Proyectos\Facturacion\Facturacion\bin\Debug\Facturacion.dll
+C:\Users\FamGutierrez\Desktop\Proyectos\Facturacion\Facturacion\bin\Debug\Facturacion.pdb
+C:\Users\FamGutierrez\Desktop\Proyectos\Facturacion\Facturacion\bin\Debug\Hoteleria.dll
+C:\Users\FamGutierrez\Desktop\Proyectos\Facturacion\Facturacion\bin\Debug\Inventario.dll
+C:\Users\FamGutierrez\Desktop\Proyectos\Facturacion\Facturacion\bin\Debug\Hoteleria.pdb
+C:\Users\FamGutierrez\Desktop\Proyectos\Facturacion\Facturacion\bin\Debug\Inventario.pdb
+C:\Users\FamGutierrez\Desktop\Proyectos\Facturacion\Facturacion\bin\Debug\Navegador.pdb
+C:\Users\FamGutierrez\Desktop\Proyectos\Facturacion\Facturacion\bin\Debug\ODBCconnector.pdb
+C:\Users\FamGutierrez\Desktop\Proyectos\Facturacion\Facturacion\obj\Debug\Facturacion.pdb
+C:\Users\alumno\Desktop\Proyectos\Facturacion\Facturacion\bin\Debug\Facturacion.dll
+C:\Users\alumno\Desktop\Proyectos\Facturacion\Facturacion\bin\Debug\Facturacion.pdb
+C:\Users\alumno\Desktop\Proyectos\Facturacion\Facturacion\bin\Debug\Hoteleria.dll
+C:\Users\alumno\Desktop\Proyectos\Facturacion\Facturacion\bin\Debug\Inventario.dll
+C:\Users\alumno\Desktop\Proyectos\Facturacion\Facturacion\bin\Debug\Hoteleria.pdb
+C:\Users\alumno\Desktop\Proyectos\Facturacion\Facturacion\bin\Debug\Inventario.pdb
+C:\Users\alumno\Desktop\Proyectos\Facturacion\Facturacion\bin\Debug\Navegador.pdb
+C:\Users\alumno\Desktop\Proyectos\Facturacion\Facturacion\bin\Debug\ODBCconnector.pdb
+C:\Users\alumno\Desktop\Proyectos\Facturacion\Facturacion\obj\Debug\Facturacion.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Proyectos\Facturacion\Facturacion\obj\Debug\Facturacion.wfEmpresa.resources
+C:\Users\alumno\Desktop\Proyectos\Facturacion\Facturacion\obj\Debug\Facturacion.wfFactura.resources
+C:\Users\alumno\Desktop\Proyectos\Facturacion\Facturacion\obj\Debug\Facturacion.wfImpuesto.resources
+C:\Users\alumno\Desktop\Proyectos\Facturacion\Facturacion\obj\Debug\Facturacion.wfSerie.resources
+C:\Users\alumno\Desktop\Proyectos\Facturacion\Facturacion\obj\Debug\Facturacion.csproj.GenerateResource.Cache
+C:\Users\alumno\Desktop\Proyectos\Facturacion\Facturacion\obj\Debug\Facturacion.dll
+C:\Users\alumno\Desktop\Proyectos\Facturacion\Facturacion\obj\Debug\Facturacion.pdb
+C:\Users\DANNY\Desktop\Navegador\Proyectos\Facturacion\Facturacion\bin\Debug\Facturacion.dll
+C:\Users\DANNY\Desktop\Navegador\Proyectos\Facturacion\Facturacion\bin\Debug\Facturacion.pdb
+C:\Users\DANNY\Desktop\Navegador\Proyectos\Facturacion\Facturacion\bin\Debug\Hoteleria.dll
+C:\Users\DANNY\Desktop\Navegador\Proyectos\Facturacion\Facturacion\bin\Debug\Inventario.dll
+C:\Users\DANNY\Desktop\Navegador\Proyectos\Facturacion\Facturacion\bin\Debug\Hoteleria.pdb
+C:\Users\DANNY\Desktop\Navegador\Proyectos\Facturacion\Facturacion\bin\Debug\Inventario.pdb
+C:\Users\DANNY\Desktop\Navegador\Proyectos\Facturacion\Facturacion\bin\Debug\Navegador.pdb
+C:\Users\DANNY\Desktop\Navegador\Proyectos\Facturacion\Facturacion\bin\Debug\ODBCconnector.pdb
+C:\Users\DANNY\Desktop\Navegador\Proyectos\Facturacion\Facturacion\obj\Debug\Facturacion.csprojResolveAssemblyReference.cache
+C:\Users\DANNY\Desktop\Navegador\Proyectos\Facturacion\Facturacion\obj\Debug\Facturacion.wfEmpresa.resources
+C:\Users\DANNY\Desktop\Navegador\Proyectos\Facturacion\Facturacion\obj\Debug\Facturacion.wfFactura.resources
+C:\Users\DANNY\Desktop\Navegador\Proyectos\Facturacion\Facturacion\obj\Debug\Facturacion.wfImpuesto.resources
+C:\Users\DANNY\Desktop\Navegador\Proyectos\Facturacion\Facturacion\obj\Debug\Facturacion.wfSerie.resources
+C:\Users\DANNY\Desktop\Navegador\Proyectos\Facturacion\Facturacion\obj\Debug\Facturacion.csproj.GenerateResource.Cache
+C:\Users\DANNY\Desktop\Navegador\Proyectos\Facturacion\Facturacion\obj\Debug\Facturacion.dll
+C:\Users\DANNY\Desktop\Navegador\Proyectos\Facturacion\Facturacion\obj\Debug\Facturacion.pdb
+C:\Users\Adavi\Desktop\Proyectos\Facturacion\Facturacion\bin\Debug\Reporteador.dll
+C:\Users\Adavi\Desktop\Proyectos\Facturacion\Facturacion\bin\Debug\Reporteador.pdb
+C:\Users\Andrea\Desktop\Proyectos\Facturacion\Facturacion\bin\Debug\Facturacion.dll
+C:\Users\Andrea\Desktop\Proyectos\Facturacion\Facturacion\bin\Debug\Facturacion.pdb
+C:\Users\Andrea\Desktop\Proyectos\Facturacion\Facturacion\bin\Debug\Hoteleria.dll
+C:\Users\Andrea\Desktop\Proyectos\Facturacion\Facturacion\bin\Debug\Inventario.dll
+C:\Users\Andrea\Desktop\Proyectos\Facturacion\Facturacion\bin\Debug\Reporteador.dll
+C:\Users\Andrea\Desktop\Proyectos\Facturacion\Facturacion\bin\Debug\Hoteleria.pdb
+C:\Users\Andrea\Desktop\Proyectos\Facturacion\Facturacion\bin\Debug\Inventario.pdb
+C:\Users\Andrea\Desktop\Proyectos\Facturacion\Facturacion\bin\Debug\Navegador.pdb
+C:\Users\Andrea\Desktop\Proyectos\Facturacion\Facturacion\bin\Debug\ODBCconnector.pdb
+C:\Users\Andrea\Desktop\Proyectos\Facturacion\Facturacion\bin\Debug\Reporteador.pdb
+C:\Users\Andrea\Desktop\Proyectos\Facturacion\Facturacion\obj\Debug\Facturacion.csprojResolveAssemblyReference.cache
+C:\Users\Andrea\Desktop\Proyectos\Facturacion\Facturacion\obj\Debug\Facturacion.wfEmpresa.resources
+C:\Users\Andrea\Desktop\Proyectos\Facturacion\Facturacion\obj\Debug\Facturacion.wfFactura.resources
+C:\Users\Andrea\Desktop\Proyectos\Facturacion\Facturacion\obj\Debug\Facturacion.wfImpuesto.resources
+C:\Users\Andrea\Desktop\Proyectos\Facturacion\Facturacion\obj\Debug\Facturacion.wfSerie.resources
+C:\Users\Andrea\Desktop\Proyectos\Facturacion\Facturacion\obj\Debug\Facturacion.csproj.GenerateResource.Cache
+C:\Users\Andrea\Desktop\Proyectos\Facturacion\Facturacion\obj\Debug\Facturacion.dll
+C:\Users\Andrea\Desktop\Proyectos\Facturacion\Facturacion\obj\Debug\Facturacion.pdb

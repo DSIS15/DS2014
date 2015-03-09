@@ -1,0 +1,59 @@
+C:\Users\Adavi\Documents\Visual Studio 2010\Projects\DLL Football Manager\DLL Football Manager\bin\Debug\DLL Football Manager.dll
+C:\Users\Adavi\Documents\Visual Studio 2010\Projects\DLL Football Manager\DLL Football Manager\bin\Debug\DLL Football Manager.pdb
+C:\Users\Adavi\Documents\Visual Studio 2010\Projects\DLL Football Manager\DLL Football Manager\obj\Debug\DLL Football Manager.dll
+C:\Users\Adavi\Documents\Visual Studio 2010\Projects\DLL Football Manager\DLL Football Manager\obj\Debug\DLL Football Manager.pdb
+C:\Users\Adavi\Desktop\Campeonato\Proyecto\Proyecto Temporal - Copy\DLL Football Manager\DLL Football Manager\bin\Debug\DLL Football Manager.dll
+C:\Users\Adavi\Desktop\Campeonato\Proyecto\Proyecto Temporal - Copy\DLL Football Manager\DLL Football Manager\bin\Debug\DLL Football Manager.pdb
+C:\Users\Adavi\Desktop\Campeonato\Proyecto\Proyecto Temporal - Copy\DLL Football Manager\DLL Football Manager\obj\Debug\DLL Football Manager.dll
+C:\Users\Adavi\Desktop\Campeonato\Proyecto\Proyecto Temporal - Copy\DLL Football Manager\DLL Football Manager\obj\Debug\DLL Football Manager.pdb
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Proyecto\Proyecto Temporal\DLL Football Manager\DLL Football Manager\obj\Debug\DLL Football Manager.csprojResolveAssemblyReference.cache
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Proyecto\Proyecto Temporal\DLL Football Manager\DLL Football Manager\obj\Debug\DLL Football Manager.dll
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Proyecto\Proyecto Temporal\DLL Football Manager\DLL Football Manager\bin\Debug\DLL Football Manager.dll
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Proyecto\Proyecto Temporal\DLL Football Manager\DLL Football Manager\bin\Debug\DLL Football Manager.pdb
+C:\Users\FamGutierrez\Documents\Visual Studio 2010\Projects\Proyecto\Proyecto Temporal\DLL Football Manager\DLL Football Manager\obj\Debug\DLL Football Manager.pdb
+C:\Users\Adavi\Desktop\Proyecto Temporal\DLL Football Manager\DLL Football Manager\bin\Debug\DLL Football Manager.dll
+C:\Users\Adavi\Desktop\Proyecto Temporal\DLL Football Manager\DLL Football Manager\bin\Debug\DLL Football Manager.pdb
+C:\Users\Adavi\Desktop\Proyecto Temporal\DLL Football Manager\DLL Football Manager\obj\Debug\DLL Football Manager.dll
+C:\Users\Adavi\Desktop\Proyecto Temporal\DLL Football Manager\DLL Football Manager\obj\Debug\DLL Football Manager.pdb
+C:\Users\Marlon\Desktop\Proyecto Temporal\DLL Football Manager\DLL Football Manager\bin\Debug\DLL Football Manager.dll
+C:\Users\Marlon\Desktop\Proyecto Temporal\DLL Football Manager\DLL Football Manager\bin\Debug\DLL Football Manager.pdb
+C:\Users\Marlon\Desktop\Proyecto Temporal\DLL Football Manager\DLL Football Manager\obj\Debug\DLL Football Manager.csprojResolveAssemblyReference.cache
+C:\Users\Marlon\Desktop\Proyecto Temporal\DLL Football Manager\DLL Football Manager\obj\Debug\DLL Football Manager.dll
+C:\Users\Marlon\Desktop\Proyecto Temporal\DLL Football Manager\DLL Football Manager\obj\Debug\DLL Football Manager.pdb
+Z:\Desktop\Proyecto Temporal\DLL Football Manager\DLL Football Manager\bin\Debug\DLL Football Manager.dll
+Z:\Desktop\Proyecto Temporal\DLL Football Manager\DLL Football Manager\bin\Debug\DLL Football Manager.pdb
+Z:\Desktop\Proyecto Temporal\DLL Football Manager\DLL Football Manager\obj\Debug\DLL Football Manager.csprojResolveAssemblyReference.cache
+Z:\Desktop\Proyecto Temporal\DLL Football Manager\DLL Football Manager\obj\Debug\DLL Football Manager.dll
+Z:\Desktop\Proyecto Temporal\DLL Football Manager\DLL Football Manager\obj\Debug\DLL Football Manager.pdb
+C:\Users\Danny\Contacts\Desktop\Proyecto\Proyecto Temporal\DLL Football Manager\DLL Football Manager\bin\Debug\DLL Football Manager.dll
+C:\Users\Danny\Contacts\Desktop\Proyecto\Proyecto Temporal\DLL Football Manager\DLL Football Manager\bin\Debug\DLL Football Manager.pdb
+C:\Users\Danny\Contacts\Desktop\Proyecto\Proyecto Temporal\DLL Football Manager\DLL Football Manager\obj\Debug\DLL Football Manager.dll
+C:\Users\Danny\Contacts\Desktop\Proyecto\Proyecto Temporal\DLL Football Manager\DLL Football Manager\obj\Debug\DLL Football Manager.pdb
+C:\Users\Adavi\Downloads\Proyecto Temporal\DLL Football Manager\DLL Football Manager\bin\Debug\DLL Football Manager.dll
+C:\Users\Adavi\Downloads\Proyecto Temporal\DLL Football Manager\DLL Football Manager\bin\Debug\DLL Football Manager.pdb
+C:\Users\Adavi\Downloads\Proyecto Temporal\DLL Football Manager\DLL Football Manager\obj\Debug\DLL Football Manager.csprojResolveAssemblyReference.cache
+C:\Users\Adavi\Downloads\Proyecto Temporal\DLL Football Manager\DLL Football Manager\obj\Debug\DLL Football Manager.dll
+C:\Users\Adavi\Downloads\Proyecto Temporal\DLL Football Manager\DLL Football Manager\obj\Debug\DLL Football Manager.pdb
+C:\Users\FamGutierrez\Desktop\FootballManager\DLL\DLL Football Manager\bin\Debug\DLL Football Manager.dll
+C:\Users\FamGutierrez\Desktop\FootballManager\DLL\DLL Football Manager\bin\Debug\DLL Football Manager.pdb
+C:\Users\FamGutierrez\Desktop\FootballManager\DLL\DLL Football Manager\obj\Debug\DLL Football Manager.dll
+C:\Users\FamGutierrez\Desktop\FootballManager\DLL\DLL Football Manager\obj\Debug\DLL Football Manager.pdb
+C:\Users\Marlon Aldana\Desktop\FootballManager\DLL\DLL Football Manager\bin\Debug\DLL Football Manager.dll
+C:\Users\Marlon Aldana\Desktop\FootballManager\DLL\DLL Football Manager\bin\Debug\DLL Football Manager.pdb
+C:\Users\Marlon Aldana\Desktop\FootballManager\DLL\DLL Football Manager\obj\Debug\DLL Football Manager.csprojResolveAssemblyReference.cache
+C:\Users\Marlon Aldana\Desktop\FootballManager\DLL\DLL Football Manager\obj\Debug\DLL Football Manager.dll
+C:\Users\Marlon Aldana\Desktop\FootballManager\DLL\DLL Football Manager\obj\Debug\DLL Football Manager.pdb
+C:\Users\Adavi\Desktop\FootballManager\DLL\DLL Football Manager\bin\Debug\DLL Football Manager.dll
+C:\Users\Adavi\Desktop\FootballManager\DLL\DLL Football Manager\bin\Debug\DLL Football Manager.pdb
+C:\Users\Adavi\Desktop\FootballManager\DLL\DLL Football Manager\obj\Debug\DLL Football Manager.dll
+C:\Users\Adavi\Desktop\FootballManager\DLL\DLL Football Manager\obj\Debug\DLL Football Manager.pdb
+C:\Users\Jennifer\Documents\GitHub\Campeonato\Proyecto\FootballManager\DLL\DLL Football Manager\bin\Debug\DLL Football Manager.dll
+C:\Users\Jennifer\Documents\GitHub\Campeonato\Proyecto\FootballManager\DLL\DLL Football Manager\bin\Debug\DLL Football Manager.pdb
+C:\Users\Jennifer\Documents\GitHub\Campeonato\Proyecto\FootballManager\DLL\DLL Football Manager\obj\Debug\DLL Football Manager.csprojResolveAssemblyReference.cache
+C:\Users\Jennifer\Documents\GitHub\Campeonato\Proyecto\FootballManager\DLL\DLL Football Manager\obj\Debug\DLL Football Manager.dll
+C:\Users\Jennifer\Documents\GitHub\Campeonato\Proyecto\FootballManager\DLL\DLL Football Manager\obj\Debug\DLL Football Manager.pdb
+C:\Users\Adavi\Desktop\Proyecto\FootballManager\DLL\DLL Football Manager\bin\Debug\DLL Football Manager.dll
+C:\Users\Adavi\Desktop\Proyecto\FootballManager\DLL\DLL Football Manager\bin\Debug\DLL Football Manager.pdb
+C:\Users\Adavi\Desktop\Proyecto\FootballManager\DLL\DLL Football Manager\obj\Debug\DLL Football Manager.csprojResolveAssemblyReference.cache
+C:\Users\Adavi\Desktop\Proyecto\FootballManager\DLL\DLL Football Manager\obj\Debug\DLL Football Manager.dll
+C:\Users\Adavi\Desktop\Proyecto\FootballManager\DLL\DLL Football Manager\obj\Debug\DLL Football Manager.pdb

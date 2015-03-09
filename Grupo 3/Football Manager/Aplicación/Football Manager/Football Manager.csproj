@@ -1,0 +1,304 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{53608D37-09FD-488D-8806-00B0DD62D885}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Football_Manager</RootNamespace>
+    <AssemblyName>Football Manager</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Logo.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DLL Football Manager, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\DLL Football Manager\DLL Football Manager\bin\Debug\DLL Football Manager.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Data, Version=6.8.3.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="dsDatosBD.cs">
+      <DependentUpon>dsDatosBD.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="dsDatosBD.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsDatosBD.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Settings.cs" />
+    <Compile Include="wfCanchas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="wfCanchas.Designer.cs">
+      <DependentUpon>wfCanchas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="wfEmpleados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="wfEmpleados.Designer.cs">
+      <DependentUpon>wfEmpleados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="wfEstadisticas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="wfEstadisticas.Designer.cs">
+      <DependentUpon>wfEstadisticas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="wfEstadoCampeonato.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="wfEstadoCampeonato.Designer.cs">
+      <DependentUpon>wfEstadoCampeonato.cs</DependentUpon>
+    </Compile>
+    <Compile Include="wfIniciarSesion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="wfIniciarSesion.Designer.cs">
+      <DependentUpon>wfIniciarSesion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="wfJugadores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="wfJugadores.Designer.cs">
+      <DependentUpon>wfJugadores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="wfNuevoCampeonato.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="wfNuevoCampeonato.Designer.cs">
+      <DependentUpon>wfNuevoCampeonato.cs</DependentUpon>
+    </Compile>
+    <Compile Include="wfNuevoEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="wfNuevoEmpleado.Designer.cs">
+      <DependentUpon>wfNuevoEmpleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="wfNuevoJugador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="wfNuevoJugador.Designer.cs">
+      <DependentUpon>wfNuevoJugador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="wfTipoEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="wfTipoEmpleado.Designer.cs">
+      <DependentUpon>wfTipoEmpleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="wfAcercaDe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="wfAcercaDe.Designer.cs">
+      <DependentUpon>wfAcercaDe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="wfNuevoEquipo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="wfNuevoEquipo.Designer.cs">
+      <DependentUpon>wfNuevoEquipo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="wfMenuPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="wfMenuPrincipal.Designer.cs">
+      <DependentUpon>wfMenuPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="wfFichaPartido.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="wfFichaPartido.Designer.cs">
+      <DependentUpon>wfFichaPartido.cs</DependentUpon>
+    </Compile>
+    <Compile Include="wfDetalleJugador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="wfDetalleJugador.Designer.cs">
+      <DependentUpon>wfDetalleJugador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="wfUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="wfUsuarios.Designer.cs">
+      <DependentUpon>wfUsuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="wfVisorEventos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="wfVisorEventos.Designer.cs">
+      <DependentUpon>wfVisorEventos.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="rEquipos.rdlc" />
+    <EmbeddedResource Include="rGoleadores.rdlc" />
+    <EmbeddedResource Include="wfCanchas.resx">
+      <DependentUpon>wfCanchas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wfEmpleados.resx">
+      <DependentUpon>wfEmpleados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wfEstadisticas.resx">
+      <DependentUpon>wfEstadisticas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wfEstadoCampeonato.resx">
+      <DependentUpon>wfEstadoCampeonato.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wfIniciarSesion.resx">
+      <DependentUpon>wfIniciarSesion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wfJugadores.resx">
+      <DependentUpon>wfJugadores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wfNuevoCampeonato.resx">
+      <DependentUpon>wfNuevoCampeonato.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wfNuevoEmpleado.resx">
+      <DependentUpon>wfNuevoEmpleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wfNuevoJugador.resx">
+      <DependentUpon>wfNuevoJugador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wfTipoEmpleado.resx">
+      <DependentUpon>wfTipoEmpleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="wfAcercaDe.resx">
+      <DependentUpon>wfAcercaDe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wfNuevoEquipo.resx">
+      <DependentUpon>wfNuevoEquipo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wfMenuPrincipal.resx">
+      <DependentUpon>wfMenuPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wfFichaPartido.resx">
+      <DependentUpon>wfFichaPartido.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wfDetalleJugador.resx">
+      <DependentUpon>wfDetalleJugador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wfUsuarios.resx">
+      <DependentUpon>wfUsuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wfVisorEventos.resx">
+      <DependentUpon>wfVisorEventos.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="dsDatosBD.xsc">
+      <DependentUpon>dsDatosBD.xsd</DependentUpon>
+    </None>
+    <None Include="dsDatosBD.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsDatosBD.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dsDatosBD.xss">
+      <DependentUpon>dsDatosBD.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Logo.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

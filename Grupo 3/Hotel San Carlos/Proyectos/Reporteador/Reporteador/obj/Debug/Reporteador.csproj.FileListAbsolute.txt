@@ -1,0 +1,27 @@
+c:\users\adavi\documents\visual studio 2013\Projects\Reporteador\Reporteador\obj\Debug\Reporteador.csprojResolveAssemblyReference.cache
+c:\users\adavi\documents\visual studio 2013\Projects\Reporteador\Reporteador\obj\Debug\Reporteador.wfReportes.resources
+c:\users\adavi\documents\visual studio 2013\Projects\Reporteador\Reporteador\obj\Debug\Reporteador.csproj.GenerateResource.Cache
+c:\users\adavi\documents\visual studio 2013\Projects\Reporteador\Reporteador\bin\Debug\Reporteador.dll
+c:\users\adavi\documents\visual studio 2013\Projects\Reporteador\Reporteador\bin\Debug\Reporteador.pdb
+c:\users\adavi\documents\visual studio 2013\Projects\Reporteador\Reporteador\obj\Debug\Reporteador.dll
+c:\users\adavi\documents\visual studio 2013\Projects\Reporteador\Reporteador\obj\Debug\Reporteador.pdb
+C:\Users\Adavi\Desktop\Proyectos\Reporteador\Reporteador\obj\Debug\Reporteador.csprojResolveAssemblyReference.cache
+C:\Users\Adavi\Desktop\Proyectos\Reporteador\Reporteador\obj\Debug\Reporteador.wfReportes.resources
+C:\Users\Adavi\Desktop\Proyectos\Reporteador\Reporteador\obj\Debug\Reporteador.csproj.GenerateResource.Cache
+C:\Users\Adavi\Desktop\Proyectos\Reporteador\Reporteador\obj\Debug\Reporteador.dll
+C:\Users\Adavi\Desktop\Proyectos\Reporteador\Reporteador\bin\Debug\Reporteador.dll
+C:\Users\Adavi\Desktop\Proyectos\Reporteador\Reporteador\bin\Debug\Reporteador.pdb
+C:\Users\Adavi\Desktop\Proyectos\Reporteador\Reporteador\obj\Debug\Reporteador.pdb
+C:\Users\Adavi\Desktop\Proyectos\Reporteador\Reporteador\bin\Debug\Reporteador.dll.config
+C:\Users\Adavi\Desktop\Proyectos\Reporteador\Reporteador\obj\Debug\RdlCompile.cache
+C:\Users\Adavi\Desktop\Proyectos\Reporteador\Reporteador\obj\Debug\RdlCompile.compiled
+C:\Users\Andrea\Desktop\Proyectos\Reporteador\Reporteador\bin\Debug\Reporteador.dll.config
+C:\Users\Andrea\Desktop\Proyectos\Reporteador\Reporteador\bin\Debug\Reporteador.dll
+C:\Users\Andrea\Desktop\Proyectos\Reporteador\Reporteador\bin\Debug\Reporteador.pdb
+C:\Users\Andrea\Desktop\Proyectos\Reporteador\Reporteador\obj\Debug\Reporteador.csprojResolveAssemblyReference.cache
+C:\Users\Andrea\Desktop\Proyectos\Reporteador\Reporteador\obj\Debug\Reporteador.wfReportes.resources
+C:\Users\Andrea\Desktop\Proyectos\Reporteador\Reporteador\obj\Debug\Reporteador.csproj.GenerateResource.Cache
+C:\Users\Andrea\Desktop\Proyectos\Reporteador\Reporteador\obj\Debug\RdlCompile.cache
+C:\Users\Andrea\Desktop\Proyectos\Reporteador\Reporteador\obj\Debug\RdlCompile.compiled
+C:\Users\Andrea\Desktop\Proyectos\Reporteador\Reporteador\obj\Debug\Reporteador.dll
+C:\Users\Andrea\Desktop\Proyectos\Reporteador\Reporteador\obj\Debug\Reporteador.pdb

@@ -1,0 +1,851 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsDatosBD" targetNamespace="http://tempuri.org/dsDatosBD.xsd" xmlns:mstns="http://tempuri.org/dsDatosBD.xsd" xmlns="http://tempuri.org/dsDatosBD.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="sConexion" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="sConexion (Settings)" PropertyReference="ApplicationSettings.Football_Manager.Properties.Settings.GlobalReference.Default.sConexion" Provider="System.Data.Odbc" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="dsListadoEventosTA" GeneratorDataComponentClassName="dsListadoEventosTA" Name="dsListadoEventos" UserDataComponentName="dsListadoEventosTA">
+            <MainSource>
+              <DbSource ConnectionRef="sConexion (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>select a.cod_ctrl,b.usuario_usr,a.fechhora_ctrl,a.accion_ctrl,a.ip_ctrl,a.maquina_ctrl from tabm_control a, tabm_usuario b where a.cod_usr=b.cod_usr order by a.fechhora_ctrl desc</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="cod_ctrl" DataSetColumn="cod_ctrl" />
+              <Mapping SourceColumn="usuario_usr" DataSetColumn="usuario_usr" />
+              <Mapping SourceColumn="fechhora_ctrl" DataSetColumn="fechhora_ctrl" />
+              <Mapping SourceColumn="accion_ctrl" DataSetColumn="accion_ctrl" />
+              <Mapping SourceColumn="ip_ctrl" DataSetColumn="ip_ctrl" />
+              <Mapping SourceColumn="maquina_ctrl" DataSetColumn="maquina_ctrl" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="dsPartidoLocalTA" GeneratorDataComponentClassName="dsPartidoLocalTA" Name="dsPartidoLocal" UserDataComponentName="dsPartidoLocalTA">
+            <MainSource>
+              <DbSource ConnectionRef="sConexion (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT        a.cod_jdr, b.cod_djdr, a.nom_jdr, a.apell_jdr
+FROM            tabm_jugador a, tabt_dettjugador b
+WHERE        a.cod_jdr = b.cod_jdr AND (b.cod_camp = 0)</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="nom_jdr" DataSetColumn="nom_jdr" />
+              <Mapping SourceColumn="apell_jdr" DataSetColumn="apell_jdr" />
+              <Mapping SourceColumn="cod_jdr" DataSetColumn="cod_jdr" />
+              <Mapping SourceColumn="cod_djdr" DataSetColumn="cod_djdr" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="dsPartidoVisitanteTA" GeneratorDataComponentClassName="dsPartidoVisitanteTA" Name="dsPartidoVisitante" UserDataComponentName="dsPartidoVisitanteTA">
+            <MainSource>
+              <DbSource ConnectionRef="sConexion (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT        a.cod_jdr, b.cod_djdr, a.nom_jdr, a.apell_jdr
+FROM            tabm_jugador a, tabt_dettjugador b
+WHERE        a.cod_jdr = b.cod_jdr AND (b.cod_camp = 0)</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="nom_jdr" DataSetColumn="nom_jdr" />
+              <Mapping SourceColumn="apell_jdr" DataSetColumn="apell_jdr" />
+              <Mapping SourceColumn="cod_jdr" DataSetColumn="cod_jdr" />
+              <Mapping SourceColumn="cod_djdr" DataSetColumn="cod_djdr" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="dsListadoEmpleadosTA" GeneratorDataComponentClassName="dsListadoEmpleadosTA" Name="dsListadoEmpleados" UserDataComponentName="dsListadoEmpleadosTA">
+            <MainSource>
+              <DbSource ConnectionRef="sConexion (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        a.cod_emp, b.tipo_temp, a.nom_emp, a.apell_emp, a.dire_emp, a.tel_emp, a.salario_emp
+FROM            tabm_empleado a, tabm_tipoemp b
+WHERE        a.cod_temp = b.cod_temp AND (a.activo_emp = 1)</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="cod_emp" DataSetColumn="cod_emp" />
+              <Mapping SourceColumn="tipo_temp" DataSetColumn="tipo_temp" />
+              <Mapping SourceColumn="nom_emp" DataSetColumn="nom_emp" />
+              <Mapping SourceColumn="apell_emp" DataSetColumn="apell_emp" />
+              <Mapping SourceColumn="dire_emp" DataSetColumn="dire_emp" />
+              <Mapping SourceColumn="tel_emp" DataSetColumn="tel_emp" />
+              <Mapping SourceColumn="salario_emp" DataSetColumn="salario_emp" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="dsListadoJugadoresTA" GeneratorDataComponentClassName="dsListadoJugadoresTA" Name="dsListadoJugadores" UserDataComponentName="dsListadoJugadoresTA">
+            <MainSource>
+              <DbSource ConnectionRef="sConexion (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT        cod_jdr, nom_jdr, apell_jdr, dire_jdr, tel_jdr, foto_jdr
+FROM            tabm_jugador
+WHERE        (activo_jdr = 1)</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="foto_jdr" DataSetColumn="foto_jdr" />
+              <Mapping SourceColumn="cod_jdr" DataSetColumn="cod_jdr" />
+              <Mapping SourceColumn="nom_jdr" DataSetColumn="nom_jdr" />
+              <Mapping SourceColumn="apell_jdr" DataSetColumn="apell_jdr" />
+              <Mapping SourceColumn="dire_jdr" DataSetColumn="dire_jdr" />
+              <Mapping SourceColumn="tel_jdr" DataSetColumn="tel_jdr" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="dsListadoTipoEmpleadosTA" GeneratorDataComponentClassName="dsListadoTipoEmpleadosTA" Name="dsListadoTipoEmpleados" UserDataComponentName="dsListadoTipoEmpleadosTA">
+            <MainSource>
+              <DbSource ConnectionRef="sConexion (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT        cod_temp, tipo_temp
+FROM            tabm_tipoemp
+WHERE        (activo_temp = 1) AND (cod_temp &lt;&gt; 1)</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="cod_temp" DataSetColumn="cod_temp" />
+              <Mapping SourceColumn="tipo_temp" DataSetColumn="tipo_temp" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="dsListadoNivelesTA" GeneratorDataComponentClassName="dsListadoNivelesTA" Name="dsListadoNiveles" UserDataComponentName="dsListadoNivelesTA">
+            <MainSource>
+              <DbSource ConnectionRef="sConexion (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT        cod_nvl, nivel_nvl
+FROM            tabm_nivel
+WHERE        (activo_nvl = 1) AND (cod_nvl &lt;&gt; 1)</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="cod_nvl" DataSetColumn="cod_nvl" />
+              <Mapping SourceColumn="nivel_nvl" DataSetColumn="nivel_nvl" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="dsListadoUsuariosTA" GeneratorDataComponentClassName="dsListadoUsuariosTA" Name="dsListadoUsuarios" UserDataComponentName="dsListadoUsuariosTA">
+            <MainSource>
+              <DbSource ConnectionRef="sConexion (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT        cod_usr, cod_nvl, cod_emp, usuario_usr, contrasena_usr
+FROM            tabm_usuario
+WHERE        (activo_usr = 1) AND (cod_nvl &lt;&gt; 1)</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="cod_usr" DataSetColumn="cod_usr" />
+              <Mapping SourceColumn="cod_nvl" DataSetColumn="cod_nvl" />
+              <Mapping SourceColumn="cod_emp" DataSetColumn="cod_emp" />
+              <Mapping SourceColumn="usuario_usr" DataSetColumn="usuario_usr" />
+              <Mapping SourceColumn="contrasena_usr" DataSetColumn="contrasena_usr" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="dsListadoCanchasTA" GeneratorDataComponentClassName="dsListadoCanchasTA" Name="dsListadoCanchas" UserDataComponentName="dsListadoCanchasTA">
+            <MainSource>
+              <DbSource ConnectionRef="sConexion (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        cod_cha, nom_cha
+FROM            tabm_cancha
+WHERE        (activo_cha = 1)</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="cod_cha" DataSetColumn="cod_cha" />
+              <Mapping SourceColumn="nom_cha" DataSetColumn="nom_cha" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="dsListadoEquiposDisponiblesTA" GeneratorDataComponentClassName="dsListadoEquiposDisponiblesTA" Name="dsListadoEquiposDisponibles" UserDataComponentName="dsListadoEquiposDisponiblesTA">
+            <MainSource>
+              <DbSource ConnectionRef="sConexion (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT        cod_eqp, nom_eqp, escudo_eqp
+FROM            tabm_equipo</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="cod_eqp" DataSetColumn="cod_eqp" />
+              <Mapping SourceColumn="nom_eqp" DataSetColumn="nom_eqp" />
+              <Mapping SourceColumn="escudo_eqp" DataSetColumn="escudo_eqp" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="dsListadoJugadoresDisponiblesTA" GeneratorDataComponentClassName="dsListadoJugadoresDisponiblesTA" Name="dsListadoJugadoresDisponibles" UserDataComponentName="dsListadoJugadoresDisponiblesTA">
+            <MainSource>
+              <DbSource ConnectionRef="sConexion (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT        cod_jdr, nom_jdr, apell_jdr, tel_jdr
+FROM            tabm_jugador</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="cod_jdr" DataSetColumn="cod_jdr" />
+              <Mapping SourceColumn="nom_jdr" DataSetColumn="nom_jdr" />
+              <Mapping SourceColumn="apell_jdr" DataSetColumn="apell_jdr" />
+              <Mapping SourceColumn="tel_jdr" DataSetColumn="tel_jdr" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="dsListadoCampeonatosTA" GeneratorDataComponentClassName="dsListadoCampeonatosTA" Name="dsListadoCampeonatos" UserDataComponentName="dsListadoCampeonatosTA">
+            <MainSource>
+              <DbSource ConnectionRef="sConexion (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        cod_camp, nom_camp, fechini_camp, fechfin_camp, estado_camp
+FROM            tabm_campeonato</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="cod_camp" DataSetColumn="cod_camp" />
+              <Mapping SourceColumn="nom_camp" DataSetColumn="nom_camp" />
+              <Mapping SourceColumn="fechini_camp" DataSetColumn="fechini_camp" />
+              <Mapping SourceColumn="fechfin_camp" DataSetColumn="fechfin_camp" />
+              <Mapping SourceColumn="estado_camp" DataSetColumn="estado_camp" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="dsListadoPartidosTA" GeneratorDataComponentClassName="dsListadoPartidosTA" Name="dsListadoPartidos" UserDataComponentName="dsListadoPartidosTA">
+            <MainSource>
+              <DbSource ConnectionRef="sConexion (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT        a.cod_ptd, d.cod_eqp, e.cod_eqp AS Expr2, CONCAT(b.nom_emp, ' ', b.apell_emp) AS Expr3, c.nom_cha, a.jornada_ptd, a.fechhora_ptd, d.nom_eqp, a.mlocal_ptd, a.mvisitante_ptd, e.nom_eqp AS Expr1, 
+                         a.jugado_ptd
+FROM            tabm_partido a, tabm_empleado b, tabm_cancha c, tabm_equipo d, tabm_equipo e
+WHERE        a.cod_emp = b.cod_emp AND a.cod_cha = c.cod_cha AND a.elocal_ptd = d.cod_eqp AND a.evisitante_ptd = e.cod_eqp</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="nom_cha" DataSetColumn="nom_cha" />
+              <Mapping SourceColumn="jornada_ptd" DataSetColumn="jornada_ptd" />
+              <Mapping SourceColumn="fechhora_ptd" DataSetColumn="fechhora_ptd" />
+              <Mapping SourceColumn="nom_eqp" DataSetColumn="nom_eqp" />
+              <Mapping SourceColumn="mlocal_ptd" DataSetColumn="mlocal_ptd" />
+              <Mapping SourceColumn="mvisitante_ptd" DataSetColumn="mvisitante_ptd" />
+              <Mapping SourceColumn="Expr1" DataSetColumn="Expr1" />
+              <Mapping SourceColumn="jugado_ptd" DataSetColumn="jugado_ptd" />
+              <Mapping SourceColumn="cod_ptd" DataSetColumn="cod_ptd" />
+              <Mapping SourceColumn="cod_eqp" DataSetColumn="cod_eqp" />
+              <Mapping SourceColumn="Expr2" DataSetColumn="Expr2" />
+              <Mapping SourceColumn="Expr3" DataSetColumn="Expr3" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="dsListadoJornadasTA" GeneratorDataComponentClassName="dsListadoJornadasTA" Name="dsListadoJornadas" UserDataComponentName="dsListadoJornadasTA">
+            <MainSource>
+              <DbSource ConnectionRef="sConexion (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT DISTINCT jornada_dcamp
+FROM            tabt_dettcamp
+WHERE        (cod_camp = 0)</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="jornada_dcamp" DataSetColumn="jornada_dcamp" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="dsListadoGoleadoresTA" GeneratorDataComponentClassName="dsListadoGoleadoresTA" Name="dsListadoGoleadores" UserDataComponentName="dsListadoGoleadoresTA">
+            <MainSource>
+              <DbSource ConnectionRef="sConexion (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT        e.nom_eqp, c.nom_jdr, c.apell_jdr, a.gl_dptd
+FROM            tabt_dettpartido a, tabm_partido d, tabt_dettjugador b, tabm_jugador c, tabm_equipo e
+WHERE        a.cod_ptd = d.cod_ptd AND a.cod_djdr = b.cod_djdr AND b.cod_jdr = c.cod_jdr AND b.cod_eqp = e.cod_eqp AND (b.cod_camp = 0)</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="nom_eqp" DataSetColumn="nom_eqp" />
+              <Mapping SourceColumn="nom_jdr" DataSetColumn="nom_jdr" />
+              <Mapping SourceColumn="apell_jdr" DataSetColumn="apell_jdr" />
+              <Mapping SourceColumn="gl_dptd" DataSetColumn="gl_dptd" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="dsListadoEmpleados2" GeneratorDataComponentClassName="dsListadoEmpleados2" Name="dsListadoEmpleados2" UserDataComponentName="dsListadoEmpleados2">
+            <MainSource>
+              <DbSource ConnectionRef="sConexion (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        a.cod_emp, b.tipo_temp, CONCAT(a.nom_emp, ' ', a.apell_emp) AS Expr1, a.dire_emp, a.tel_emp, a.salario_emp
+FROM            tabm_empleado a, tabm_tipoemp b
+WHERE        a.cod_temp = b.cod_temp AND (a.activo_emp = 1)</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="cod_emp" DataSetColumn="cod_emp" />
+              <Mapping SourceColumn="tipo_temp" DataSetColumn="tipo_temp" />
+              <Mapping SourceColumn="Expr1" DataSetColumn="Expr1" />
+              <Mapping SourceColumn="dire_emp" DataSetColumn="dire_emp" />
+              <Mapping SourceColumn="tel_emp" DataSetColumn="tel_emp" />
+              <Mapping SourceColumn="salario_emp" DataSetColumn="salario_emp" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="dsEstadisticaEquiposTA" GeneratorDataComponentClassName="dsEstadisticaEquiposTA" Name="dsEstadisticaEquipos" UserDataComponentName="dsEstadisticaEquiposTA">
+            <MainSource>
+              <DbSource ConnectionRef="sConexion (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT        b.nom_eqp, a.pj_dcamp, a.pg_dcamp, a.pe_dcamp, a.pp_dcamp, a.gf_dcamp, a.gc_dcamp, a.gf_dcamp - a.gc_dcamp AS dg
+FROM            tabt_dettcamp a, tabm_equipo b
+WHERE        a.cod_eqp = b.cod_eqp AND (a.cod_camp = 0) AND (a.cod_eqp &lt;&gt; 0)
+ORDER BY dg DESC</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="nom_eqp" DataSetColumn="nom_eqp" />
+              <Mapping SourceColumn="pj_dcamp" DataSetColumn="pj_dcamp" />
+              <Mapping SourceColumn="pg_dcamp" DataSetColumn="pg_dcamp" />
+              <Mapping SourceColumn="pe_dcamp" DataSetColumn="pe_dcamp" />
+              <Mapping SourceColumn="pp_dcamp" DataSetColumn="pp_dcamp" />
+              <Mapping SourceColumn="gf_dcamp" DataSetColumn="gf_dcamp" />
+              <Mapping SourceColumn="gc_dcamp" DataSetColumn="gc_dcamp" />
+              <Mapping SourceColumn="dg" DataSetColumn="dg" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsDatosBD" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="dsDatosBD" msprop:Generator_UserDSName="dsDatosBD">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dsListadoEventos" msprop:Generator_TableClassName="dsListadoEventosDataTable" msprop:Generator_TableVarName="tabledsListadoEventos" msprop:Generator_TablePropName="dsListadoEventos" msprop:Generator_RowDeletingName="dsListadoEventosRowDeleting" msprop:Generator_RowChangingName="dsListadoEventosRowChanging" msprop:Generator_RowEvHandlerName="dsListadoEventosRowChangeEventHandler" msprop:Generator_RowDeletedName="dsListadoEventosRowDeleted" msprop:Generator_UserTableName="dsListadoEventos" msprop:Generator_RowChangedName="dsListadoEventosRowChanged" msprop:Generator_RowEvArgName="dsListadoEventosRowChangeEvent" msprop:Generator_RowClassName="dsListadoEventosRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="cod_ctrl" msprop:Generator_ColumnVarNameInTable="columncod_ctrl" msprop:Generator_ColumnPropNameInRow="cod_ctrl" msprop:Generator_ColumnPropNameInTable="cod_ctrlColumn" msprop:Generator_UserColumnName="cod_ctrl" type="xs:int" />
+              <xs:element name="usuario_usr" msprop:Generator_ColumnVarNameInTable="columnusuario_usr" msprop:Generator_ColumnPropNameInRow="usuario_usr" msprop:Generator_ColumnPropNameInTable="usuario_usrColumn" msprop:Generator_UserColumnName="usuario_usr">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="fechhora_ctrl" msprop:Generator_ColumnVarNameInTable="columnfechhora_ctrl" msprop:Generator_ColumnPropNameInRow="fechhora_ctrl" msprop:Generator_ColumnPropNameInTable="fechhora_ctrlColumn" msprop:Generator_UserColumnName="fechhora_ctrl" type="xs:dateTime" />
+              <xs:element name="accion_ctrl" msprop:Generator_ColumnVarNameInTable="columnaccion_ctrl" msprop:Generator_ColumnPropNameInRow="accion_ctrl" msprop:Generator_ColumnPropNameInTable="accion_ctrlColumn" msprop:Generator_UserColumnName="accion_ctrl">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ip_ctrl" msprop:Generator_ColumnVarNameInTable="columnip_ctrl" msprop:Generator_ColumnPropNameInRow="ip_ctrl" msprop:Generator_ColumnPropNameInTable="ip_ctrlColumn" msprop:Generator_UserColumnName="ip_ctrl">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="25" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="maquina_ctrl" msprop:Generator_ColumnVarNameInTable="columnmaquina_ctrl" msprop:Generator_ColumnPropNameInRow="maquina_ctrl" msprop:Generator_ColumnPropNameInTable="maquina_ctrlColumn" msprop:Generator_UserColumnName="maquina_ctrl">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="dsPartidoLocal" msprop:Generator_TableClassName="dsPartidoLocalDataTable" msprop:Generator_TableVarName="tabledsPartidoLocal" msprop:Generator_RowChangedName="dsPartidoLocalRowChanged" msprop:Generator_TablePropName="dsPartidoLocal" msprop:Generator_RowDeletingName="dsPartidoLocalRowDeleting" msprop:Generator_RowChangingName="dsPartidoLocalRowChanging" msprop:Generator_RowEvHandlerName="dsPartidoLocalRowChangeEventHandler" msprop:Generator_RowDeletedName="dsPartidoLocalRowDeleted" msprop:Generator_RowClassName="dsPartidoLocalRow" msprop:Generator_UserTableName="dsPartidoLocal" msprop:Generator_RowEvArgName="dsPartidoLocalRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="nom_jdr" msprop:Generator_ColumnVarNameInTable="columnnom_jdr" msprop:Generator_ColumnPropNameInRow="nom_jdr" msprop:Generator_ColumnPropNameInTable="nom_jdrColumn" msprop:Generator_UserColumnName="nom_jdr">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="25" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="apell_jdr" msprop:Generator_ColumnVarNameInTable="columnapell_jdr" msprop:Generator_ColumnPropNameInRow="apell_jdr" msprop:Generator_ColumnPropNameInTable="apell_jdrColumn" msprop:Generator_UserColumnName="apell_jdr">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="25" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="cod_jdr" msprop:Generator_ColumnVarNameInTable="columncod_jdr" msprop:Generator_ColumnPropNameInRow="cod_jdr" msprop:Generator_ColumnPropNameInTable="cod_jdrColumn" msprop:Generator_UserColumnName="cod_jdr" type="xs:int" />
+              <xs:element name="cod_djdr" msprop:Generator_ColumnVarNameInTable="columncod_djdr" msprop:Generator_ColumnPropNameInRow="cod_djdr" msprop:Generator_ColumnPropNameInTable="cod_djdrColumn" msprop:Generator_UserColumnName="cod_djdr" type="xs:int" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="dsPartidoVisitante" msprop:Generator_TableClassName="dsPartidoVisitanteDataTable" msprop:Generator_TableVarName="tabledsPartidoVisitante" msprop:Generator_RowChangedName="dsPartidoVisitanteRowChanged" msprop:Generator_TablePropName="dsPartidoVisitante" msprop:Generator_RowDeletingName="dsPartidoVisitanteRowDeleting" msprop:Generator_RowChangingName="dsPartidoVisitanteRowChanging" msprop:Generator_RowEvHandlerName="dsPartidoVisitanteRowChangeEventHandler" msprop:Generator_RowDeletedName="dsPartidoVisitanteRowDeleted" msprop:Generator_RowClassName="dsPartidoVisitanteRow" msprop:Generator_UserTableName="dsPartidoVisitante" msprop:Generator_RowEvArgName="dsPartidoVisitanteRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="nom_jdr" msprop:Generator_ColumnVarNameInTable="columnnom_jdr" msprop:Generator_ColumnPropNameInRow="nom_jdr" msprop:Generator_ColumnPropNameInTable="nom_jdrColumn" msprop:Generator_UserColumnName="nom_jdr">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="25" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="apell_jdr" msprop:Generator_ColumnVarNameInTable="columnapell_jdr" msprop:Generator_ColumnPropNameInRow="apell_jdr" msprop:Generator_ColumnPropNameInTable="apell_jdrColumn" msprop:Generator_UserColumnName="apell_jdr">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="25" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="cod_jdr" msprop:Generator_ColumnVarNameInTable="columncod_jdr" msprop:Generator_ColumnPropNameInRow="cod_jdr" msprop:Generator_ColumnPropNameInTable="cod_jdrColumn" msprop:Generator_UserColumnName="cod_jdr" type="xs:int" />
+              <xs:element name="cod_djdr" msprop:Generator_ColumnVarNameInTable="columncod_djdr" msprop:Generator_ColumnPropNameInRow="cod_djdr" msprop:Generator_ColumnPropNameInTable="cod_djdrColumn" msprop:Generator_UserColumnName="cod_djdr" type="xs:int" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="dsListadoEmpleados" msprop:Generator_TableClassName="dsListadoEmpleadosDataTable" msprop:Generator_TableVarName="tabledsListadoEmpleados" msprop:Generator_TablePropName="dsListadoEmpleados" msprop:Generator_RowDeletingName="dsListadoEmpleadosRowDeleting" msprop:Generator_RowChangingName="dsListadoEmpleadosRowChanging" msprop:Generator_RowEvHandlerName="dsListadoEmpleadosRowChangeEventHandler" msprop:Generator_RowDeletedName="dsListadoEmpleadosRowDeleted" msprop:Generator_UserTableName="dsListadoEmpleados" msprop:Generator_RowChangedName="dsListadoEmpleadosRowChanged" msprop:Generator_RowEvArgName="dsListadoEmpleadosRowChangeEvent" msprop:Generator_RowClassName="dsListadoEmpleadosRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="cod_emp" msprop:Generator_ColumnVarNameInTable="columncod_emp" msprop:Generator_ColumnPropNameInRow="cod_emp" msprop:Generator_ColumnPropNameInTable="cod_empColumn" msprop:Generator_UserColumnName="cod_emp" type="xs:int" />
+              <xs:element name="tipo_temp" msprop:Generator_ColumnVarNameInTable="columntipo_temp" msprop:Generator_ColumnPropNameInRow="tipo_temp" msprop:Generator_ColumnPropNameInTable="tipo_tempColumn" msprop:Generator_UserColumnName="tipo_temp">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="25" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="nom_emp" msprop:Generator_ColumnVarNameInTable="columnnom_emp" msprop:Generator_ColumnPropNameInRow="nom_emp" msprop:Generator_ColumnPropNameInTable="nom_empColumn" msprop:Generator_UserColumnName="nom_emp">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="25" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="apell_emp" msprop:Generator_ColumnVarNameInTable="columnapell_emp" msprop:Generator_ColumnPropNameInRow="apell_emp" msprop:Generator_ColumnPropNameInTable="apell_empColumn" msprop:Generator_UserColumnName="apell_emp">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="25" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="dire_emp" msprop:Generator_ColumnVarNameInTable="columndire_emp" msprop:Generator_ColumnPropNameInRow="dire_emp" msprop:Generator_ColumnPropNameInTable="dire_empColumn" msprop:Generator_UserColumnName="dire_emp">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="tel_emp" msprop:Generator_ColumnVarNameInTable="columntel_emp" msprop:Generator_ColumnPropNameInRow="tel_emp" msprop:Generator_ColumnPropNameInTable="tel_empColumn" msprop:Generator_UserColumnName="tel_emp" type="xs:int" />
+              <xs:element name="salario_emp" msprop:Generator_ColumnVarNameInTable="columnsalario_emp" msprop:Generator_ColumnPropNameInRow="salario_emp" msprop:Generator_ColumnPropNameInTable="salario_empColumn" msprop:Generator_UserColumnName="salario_emp" type="xs:float" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="dsListadoJugadores" msprop:Generator_TableClassName="dsListadoJugadoresDataTable" msprop:Generator_TableVarName="tabledsListadoJugadores" msprop:Generator_TablePropName="dsListadoJugadores" msprop:Generator_RowDeletingName="dsListadoJugadoresRowDeleting" msprop:Generator_RowChangingName="dsListadoJugadoresRowChanging" msprop:Generator_RowEvHandlerName="dsListadoJugadoresRowChangeEventHandler" msprop:Generator_RowDeletedName="dsListadoJugadoresRowDeleted" msprop:Generator_UserTableName="dsListadoJugadores" msprop:Generator_RowChangedName="dsListadoJugadoresRowChanged" msprop:Generator_RowEvArgName="dsListadoJugadoresRowChangeEvent" msprop:Generator_RowClassName="dsListadoJugadoresRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="foto_jdr" msprop:Generator_ColumnVarNameInTable="columnfoto_jdr" msprop:Generator_ColumnPropNameInRow="foto_jdr" msprop:Generator_ColumnPropNameInTable="foto_jdrColumn" msprop:Generator_UserColumnName="foto_jdr">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="cod_jdr" msprop:Generator_ColumnVarNameInTable="columncod_jdr" msprop:Generator_ColumnPropNameInRow="cod_jdr" msprop:Generator_ColumnPropNameInTable="cod_jdrColumn" msprop:Generator_UserColumnName="cod_jdr" type="xs:int" />
+              <xs:element name="nom_jdr" msprop:Generator_ColumnVarNameInTable="columnnom_jdr" msprop:Generator_ColumnPropNameInRow="nom_jdr" msprop:Generator_ColumnPropNameInTable="nom_jdrColumn" msprop:Generator_UserColumnName="nom_jdr">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="25" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="apell_jdr" msprop:Generator_ColumnVarNameInTable="columnapell_jdr" msprop:Generator_ColumnPropNameInRow="apell_jdr" msprop:Generator_ColumnPropNameInTable="apell_jdrColumn" msprop:Generator_UserColumnName="apell_jdr">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="25" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="dire_jdr" msprop:Generator_ColumnVarNameInTable="columndire_jdr" msprop:Generator_ColumnPropNameInRow="dire_jdr" msprop:Generator_ColumnPropNameInTable="dire_jdrColumn" msprop:Generator_UserColumnName="dire_jdr">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="tel_jdr" msprop:Generator_ColumnVarNameInTable="columntel_jdr" msprop:Generator_ColumnPropNameInRow="tel_jdr" msprop:Generator_ColumnPropNameInTable="tel_jdrColumn" msprop:Generator_UserColumnName="tel_jdr" type="xs:int" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="dsListadoTipoEmpleados" msprop:Generator_TableClassName="dsListadoTipoEmpleadosDataTable" msprop:Generator_TableVarName="tabledsListadoTipoEmpleados" msprop:Generator_RowChangedName="dsListadoTipoEmpleadosRowChanged" msprop:Generator_TablePropName="dsListadoTipoEmpleados" msprop:Generator_RowDeletingName="dsListadoTipoEmpleadosRowDeleting" msprop:Generator_RowChangingName="dsListadoTipoEmpleadosRowChanging" msprop:Generator_RowEvHandlerName="dsListadoTipoEmpleadosRowChangeEventHandler" msprop:Generator_RowDeletedName="dsListadoTipoEmpleadosRowDeleted" msprop:Generator_RowClassName="dsListadoTipoEmpleadosRow" msprop:Generator_UserTableName="dsListadoTipoEmpleados" msprop:Generator_RowEvArgName="dsListadoTipoEmpleadosRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="cod_temp" msprop:Generator_ColumnVarNameInTable="columncod_temp" msprop:Generator_ColumnPropNameInRow="cod_temp" msprop:Generator_ColumnPropNameInTable="cod_tempColumn" msprop:Generator_UserColumnName="cod_temp" type="xs:int" />
+              <xs:element name="tipo_temp" msprop:Generator_ColumnVarNameInTable="columntipo_temp" msprop:Generator_ColumnPropNameInRow="tipo_temp" msprop:Generator_ColumnPropNameInTable="tipo_tempColumn" msprop:Generator_UserColumnName="tipo_temp">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="25" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="dsListadoNiveles" msprop:Generator_TableClassName="dsListadoNivelesDataTable" msprop:Generator_TableVarName="tabledsListadoNiveles" msprop:Generator_RowChangedName="dsListadoNivelesRowChanged" msprop:Generator_TablePropName="dsListadoNiveles" msprop:Generator_RowDeletingName="dsListadoNivelesRowDeleting" msprop:Generator_RowChangingName="dsListadoNivelesRowChanging" msprop:Generator_RowEvHandlerName="dsListadoNivelesRowChangeEventHandler" msprop:Generator_RowDeletedName="dsListadoNivelesRowDeleted" msprop:Generator_RowClassName="dsListadoNivelesRow" msprop:Generator_UserTableName="dsListadoNiveles" msprop:Generator_RowEvArgName="dsListadoNivelesRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="cod_nvl" msprop:Generator_ColumnVarNameInTable="columncod_nvl" msprop:Generator_ColumnPropNameInRow="cod_nvl" msprop:Generator_ColumnPropNameInTable="cod_nvlColumn" msprop:Generator_UserColumnName="cod_nvl" type="xs:int" />
+              <xs:element name="nivel_nvl" msprop:Generator_ColumnVarNameInTable="columnnivel_nvl" msprop:Generator_ColumnPropNameInRow="nivel_nvl" msprop:Generator_ColumnPropNameInTable="nivel_nvlColumn" msprop:Generator_UserColumnName="nivel_nvl">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="25" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="dsListadoUsuarios" msprop:Generator_TableClassName="dsListadoUsuariosDataTable" msprop:Generator_TableVarName="tabledsListadoUsuarios" msprop:Generator_TablePropName="dsListadoUsuarios" msprop:Generator_RowDeletingName="dsListadoUsuariosRowDeleting" msprop:Generator_RowChangingName="dsListadoUsuariosRowChanging" msprop:Generator_RowEvHandlerName="dsListadoUsuariosRowChangeEventHandler" msprop:Generator_RowDeletedName="dsListadoUsuariosRowDeleted" msprop:Generator_UserTableName="dsListadoUsuarios" msprop:Generator_RowChangedName="dsListadoUsuariosRowChanged" msprop:Generator_RowEvArgName="dsListadoUsuariosRowChangeEvent" msprop:Generator_RowClassName="dsListadoUsuariosRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="cod_usr" msprop:Generator_ColumnVarNameInTable="columncod_usr" msprop:Generator_ColumnPropNameInRow="cod_usr" msprop:Generator_ColumnPropNameInTable="cod_usrColumn" msprop:Generator_UserColumnName="cod_usr" type="xs:int" />
+              <xs:element name="cod_nvl" msprop:Generator_ColumnVarNameInTable="columncod_nvl" msprop:Generator_ColumnPropNameInRow="cod_nvl" msprop:Generator_ColumnPropNameInTable="cod_nvlColumn" msprop:Generator_UserColumnName="cod_nvl" type="xs:int" />
+              <xs:element name="cod_emp" msprop:Generator_ColumnVarNameInTable="columncod_emp" msprop:Generator_ColumnPropNameInRow="cod_emp" msprop:Generator_ColumnPropNameInTable="cod_empColumn" msprop:Generator_UserColumnName="cod_emp" type="xs:int" />
+              <xs:element name="usuario_usr" msprop:Generator_ColumnVarNameInTable="columnusuario_usr" msprop:Generator_ColumnPropNameInRow="usuario_usr" msprop:Generator_ColumnPropNameInTable="usuario_usrColumn" msprop:Generator_UserColumnName="usuario_usr">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="contrasena_usr" msprop:Generator_ColumnVarNameInTable="columncontrasena_usr" msprop:Generator_ColumnPropNameInRow="contrasena_usr" msprop:Generator_ColumnPropNameInTable="contrasena_usrColumn" msprop:Generator_UserColumnName="contrasena_usr">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="dsListadoCanchas" msprop:Generator_TableClassName="dsListadoCanchasDataTable" msprop:Generator_TableVarName="tabledsListadoCanchas" msprop:Generator_RowChangedName="dsListadoCanchasRowChanged" msprop:Generator_TablePropName="dsListadoCanchas" msprop:Generator_RowDeletingName="dsListadoCanchasRowDeleting" msprop:Generator_RowChangingName="dsListadoCanchasRowChanging" msprop:Generator_RowEvHandlerName="dsListadoCanchasRowChangeEventHandler" msprop:Generator_RowDeletedName="dsListadoCanchasRowDeleted" msprop:Generator_RowClassName="dsListadoCanchasRow" msprop:Generator_UserTableName="dsListadoCanchas" msprop:Generator_RowEvArgName="dsListadoCanchasRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="cod_cha" msprop:Generator_ColumnVarNameInTable="columncod_cha" msprop:Generator_ColumnPropNameInRow="cod_cha" msprop:Generator_ColumnPropNameInTable="cod_chaColumn" msprop:Generator_UserColumnName="cod_cha" type="xs:int" />
+              <xs:element name="nom_cha" msprop:Generator_ColumnVarNameInTable="columnnom_cha" msprop:Generator_ColumnPropNameInRow="nom_cha" msprop:Generator_ColumnPropNameInTable="nom_chaColumn" msprop:Generator_UserColumnName="nom_cha">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="25" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="dsListadoEquiposDisponibles" msprop:Generator_TableClassName="dsListadoEquiposDisponiblesDataTable" msprop:Generator_TableVarName="tabledsListadoEquiposDisponibles" msprop:Generator_RowChangedName="dsListadoEquiposDisponiblesRowChanged" msprop:Generator_TablePropName="dsListadoEquiposDisponibles" msprop:Generator_RowDeletingName="dsListadoEquiposDisponiblesRowDeleting" msprop:Generator_RowChangingName="dsListadoEquiposDisponiblesRowChanging" msprop:Generator_RowEvHandlerName="dsListadoEquiposDisponiblesRowChangeEventHandler" msprop:Generator_RowDeletedName="dsListadoEquiposDisponiblesRowDeleted" msprop:Generator_RowClassName="dsListadoEquiposDisponiblesRow" msprop:Generator_UserTableName="dsListadoEquiposDisponibles" msprop:Generator_RowEvArgName="dsListadoEquiposDisponiblesRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="cod_eqp" msprop:Generator_ColumnVarNameInTable="columncod_eqp" msprop:Generator_ColumnPropNameInRow="cod_eqp" msprop:Generator_ColumnPropNameInTable="cod_eqpColumn" msprop:Generator_UserColumnName="cod_eqp" type="xs:int" />
+              <xs:element name="nom_eqp" msprop:Generator_ColumnVarNameInTable="columnnom_eqp" msprop:Generator_ColumnPropNameInRow="nom_eqp" msprop:Generator_ColumnPropNameInTable="nom_eqpColumn" msprop:Generator_UserColumnName="nom_eqp">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="25" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="escudo_eqp" msprop:Generator_ColumnVarNameInTable="columnescudo_eqp" msprop:Generator_ColumnPropNameInRow="escudo_eqp" msprop:Generator_ColumnPropNameInTable="escudo_eqpColumn" msprop:Generator_UserColumnName="escudo_eqp">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="dsListadoJugadoresDisponibles" msprop:Generator_TableClassName="dsListadoJugadoresDisponiblesDataTable" msprop:Generator_TableVarName="tabledsListadoJugadoresDisponibles" msprop:Generator_RowChangedName="dsListadoJugadoresDisponiblesRowChanged" msprop:Generator_TablePropName="dsListadoJugadoresDisponibles" msprop:Generator_RowDeletingName="dsListadoJugadoresDisponiblesRowDeleting" msprop:Generator_RowChangingName="dsListadoJugadoresDisponiblesRowChanging" msprop:Generator_RowEvHandlerName="dsListadoJugadoresDisponiblesRowChangeEventHandler" msprop:Generator_RowDeletedName="dsListadoJugadoresDisponiblesRowDeleted" msprop:Generator_RowClassName="dsListadoJugadoresDisponiblesRow" msprop:Generator_UserTableName="dsListadoJugadoresDisponibles" msprop:Generator_RowEvArgName="dsListadoJugadoresDisponiblesRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="cod_jdr" msprop:Generator_ColumnVarNameInTable="columncod_jdr" msprop:Generator_ColumnPropNameInRow="cod_jdr" msprop:Generator_ColumnPropNameInTable="cod_jdrColumn" msprop:Generator_UserColumnName="cod_jdr" type="xs:int" />
+              <xs:element name="nom_jdr" msprop:Generator_ColumnVarNameInTable="columnnom_jdr" msprop:Generator_ColumnPropNameInRow="nom_jdr" msprop:Generator_ColumnPropNameInTable="nom_jdrColumn" msprop:Generator_UserColumnName="nom_jdr">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="25" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="apell_jdr" msprop:Generator_ColumnVarNameInTable="columnapell_jdr" msprop:Generator_ColumnPropNameInRow="apell_jdr" msprop:Generator_ColumnPropNameInTable="apell_jdrColumn" msprop:Generator_UserColumnName="apell_jdr">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="25" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="tel_jdr" msprop:Generator_ColumnVarNameInTable="columntel_jdr" msprop:Generator_ColumnPropNameInRow="tel_jdr" msprop:Generator_ColumnPropNameInTable="tel_jdrColumn" msprop:Generator_UserColumnName="tel_jdr" type="xs:int" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="dsListadoCampeonatos" msprop:Generator_TableClassName="dsListadoCampeonatosDataTable" msprop:Generator_TableVarName="tabledsListadoCampeonatos" msprop:Generator_TablePropName="dsListadoCampeonatos" msprop:Generator_RowDeletingName="dsListadoCampeonatosRowDeleting" msprop:Generator_RowChangingName="dsListadoCampeonatosRowChanging" msprop:Generator_RowEvHandlerName="dsListadoCampeonatosRowChangeEventHandler" msprop:Generator_RowDeletedName="dsListadoCampeonatosRowDeleted" msprop:Generator_UserTableName="dsListadoCampeonatos" msprop:Generator_RowChangedName="dsListadoCampeonatosRowChanged" msprop:Generator_RowEvArgName="dsListadoCampeonatosRowChangeEvent" msprop:Generator_RowClassName="dsListadoCampeonatosRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="cod_camp" msprop:Generator_ColumnVarNameInTable="columncod_camp" msprop:Generator_ColumnPropNameInRow="cod_camp" msprop:Generator_ColumnPropNameInTable="cod_campColumn" msprop:Generator_UserColumnName="cod_camp" type="xs:int" />
+              <xs:element name="nom_camp" msprop:Generator_ColumnVarNameInTable="columnnom_camp" msprop:Generator_ColumnPropNameInRow="nom_camp" msprop:Generator_ColumnPropNameInTable="nom_campColumn" msprop:Generator_UserColumnName="nom_camp">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="25" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="fechini_camp" msprop:Generator_ColumnVarNameInTable="columnfechini_camp" msprop:Generator_ColumnPropNameInRow="fechini_camp" msprop:Generator_ColumnPropNameInTable="fechini_campColumn" msprop:Generator_UserColumnName="fechini_camp" type="xs:dateTime" />
+              <xs:element name="fechfin_camp" msprop:Generator_ColumnVarNameInTable="columnfechfin_camp" msprop:Generator_ColumnPropNameInRow="fechfin_camp" msprop:Generator_ColumnPropNameInTable="fechfin_campColumn" msprop:Generator_UserColumnName="fechfin_camp" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="estado_camp" msprop:Generator_ColumnVarNameInTable="columnestado_camp" msprop:Generator_ColumnPropNameInRow="estado_camp" msprop:Generator_ColumnPropNameInTable="estado_campColumn" msprop:Generator_UserColumnName="estado_camp" type="xs:int" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="dsListadoPartidos" msprop:Generator_TableClassName="dsListadoPartidosDataTable" msprop:Generator_TableVarName="tabledsListadoPartidos" msprop:Generator_RowChangedName="dsListadoPartidosRowChanged" msprop:Generator_TablePropName="dsListadoPartidos" msprop:Generator_RowDeletingName="dsListadoPartidosRowDeleting" msprop:Generator_RowChangingName="dsListadoPartidosRowChanging" msprop:Generator_RowEvHandlerName="dsListadoPartidosRowChangeEventHandler" msprop:Generator_RowDeletedName="dsListadoPartidosRowDeleted" msprop:Generator_RowClassName="dsListadoPartidosRow" msprop:Generator_UserTableName="dsListadoPartidos" msprop:Generator_RowEvArgName="dsListadoPartidosRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="nom_cha" msprop:Generator_ColumnVarNameInTable="columnnom_cha" msprop:Generator_ColumnPropNameInRow="nom_cha" msprop:Generator_ColumnPropNameInTable="nom_chaColumn" msprop:Generator_UserColumnName="nom_cha">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="25" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="jornada_ptd" msprop:Generator_ColumnVarNameInTable="columnjornada_ptd" msprop:Generator_ColumnPropNameInRow="jornada_ptd" msprop:Generator_ColumnPropNameInTable="jornada_ptdColumn" msprop:Generator_UserColumnName="jornada_ptd" type="xs:int" />
+              <xs:element name="fechhora_ptd" msprop:Generator_ColumnVarNameInTable="columnfechhora_ptd" msprop:Generator_ColumnPropNameInRow="fechhora_ptd" msprop:Generator_ColumnPropNameInTable="fechhora_ptdColumn" msprop:Generator_UserColumnName="fechhora_ptd" type="xs:dateTime" />
+              <xs:element name="nom_eqp" msprop:Generator_ColumnVarNameInTable="columnnom_eqp" msprop:Generator_ColumnPropNameInRow="nom_eqp" msprop:Generator_ColumnPropNameInTable="nom_eqpColumn" msprop:Generator_UserColumnName="nom_eqp">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="25" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="mlocal_ptd" msprop:Generator_ColumnVarNameInTable="columnmlocal_ptd" msprop:Generator_ColumnPropNameInRow="mlocal_ptd" msprop:Generator_ColumnPropNameInTable="mlocal_ptdColumn" msprop:Generator_UserColumnName="mlocal_ptd" type="xs:int" />
+              <xs:element name="mvisitante_ptd" msprop:Generator_ColumnVarNameInTable="columnmvisitante_ptd" msprop:Generator_ColumnPropNameInRow="mvisitante_ptd" msprop:Generator_ColumnPropNameInTable="mvisitante_ptdColumn" msprop:Generator_UserColumnName="mvisitante_ptd" type="xs:int" />
+              <xs:element name="Expr1" msprop:Generator_ColumnVarNameInTable="columnExpr1" msprop:Generator_ColumnPropNameInRow="Expr1" msprop:Generator_ColumnPropNameInTable="Expr1Column" msprop:Generator_UserColumnName="Expr1">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="25" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="jugado_ptd" msprop:Generator_ColumnVarNameInTable="columnjugado_ptd" msprop:Generator_ColumnPropNameInRow="jugado_ptd" msprop:Generator_ColumnPropNameInTable="jugado_ptdColumn" msprop:Generator_UserColumnName="jugado_ptd" type="xs:int" />
+              <xs:element name="cod_ptd" msprop:Generator_ColumnVarNameInTable="columncod_ptd" msprop:Generator_ColumnPropNameInRow="cod_ptd" msprop:Generator_ColumnPropNameInTable="cod_ptdColumn" msprop:Generator_UserColumnName="cod_ptd" type="xs:int" />
+              <xs:element name="cod_eqp" msprop:Generator_ColumnVarNameInTable="columncod_eqp" msprop:Generator_ColumnPropNameInRow="cod_eqp" msprop:Generator_ColumnPropNameInTable="cod_eqpColumn" msprop:Generator_UserColumnName="cod_eqp" type="xs:int" />
+              <xs:element name="Expr2" msprop:Generator_ColumnVarNameInTable="columnExpr2" msprop:Generator_ColumnPropNameInRow="Expr2" msprop:Generator_ColumnPropNameInTable="Expr2Column" msprop:Generator_UserColumnName="Expr2" type="xs:int" />
+              <xs:element name="Expr3" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnExpr3" msprop:Generator_ColumnPropNameInRow="Expr3" msprop:Generator_ColumnPropNameInTable="Expr3Column" msprop:Generator_UserColumnName="Expr3" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="51" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="dsListadoJornadas" msprop:Generator_TableClassName="dsListadoJornadasDataTable" msprop:Generator_TableVarName="tabledsListadoJornadas" msprop:Generator_RowChangedName="dsListadoJornadasRowChanged" msprop:Generator_TablePropName="dsListadoJornadas" msprop:Generator_RowDeletingName="dsListadoJornadasRowDeleting" msprop:Generator_RowChangingName="dsListadoJornadasRowChanging" msprop:Generator_RowEvHandlerName="dsListadoJornadasRowChangeEventHandler" msprop:Generator_RowDeletedName="dsListadoJornadasRowDeleted" msprop:Generator_RowClassName="dsListadoJornadasRow" msprop:Generator_UserTableName="dsListadoJornadas" msprop:Generator_RowEvArgName="dsListadoJornadasRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="jornada_dcamp" msprop:Generator_ColumnVarNameInTable="columnjornada_dcamp" msprop:Generator_ColumnPropNameInRow="jornada_dcamp" msprop:Generator_ColumnPropNameInTable="jornada_dcampColumn" msprop:Generator_UserColumnName="jornada_dcamp" type="xs:int" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="dsListadoGoleadores" msprop:Generator_TableClassName="dsListadoGoleadoresDataTable" msprop:Generator_TableVarName="tabledsListadoGoleadores" msprop:Generator_RowChangedName="dsListadoGoleadoresRowChanged" msprop:Generator_TablePropName="dsListadoGoleadores" msprop:Generator_RowDeletingName="dsListadoGoleadoresRowDeleting" msprop:Generator_RowChangingName="dsListadoGoleadoresRowChanging" msprop:Generator_RowEvHandlerName="dsListadoGoleadoresRowChangeEventHandler" msprop:Generator_RowDeletedName="dsListadoGoleadoresRowDeleted" msprop:Generator_RowClassName="dsListadoGoleadoresRow" msprop:Generator_UserTableName="dsListadoGoleadores" msprop:Generator_RowEvArgName="dsListadoGoleadoresRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="nom_eqp" msprop:Generator_ColumnVarNameInTable="columnnom_eqp" msprop:Generator_ColumnPropNameInRow="nom_eqp" msprop:Generator_ColumnPropNameInTable="nom_eqpColumn" msprop:Generator_UserColumnName="nom_eqp">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="25" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="nom_jdr" msprop:Generator_ColumnVarNameInTable="columnnom_jdr" msprop:Generator_ColumnPropNameInRow="nom_jdr" msprop:Generator_ColumnPropNameInTable="nom_jdrColumn" msprop:Generator_UserColumnName="nom_jdr">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="25" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="apell_jdr" msprop:Generator_ColumnVarNameInTable="columnapell_jdr" msprop:Generator_ColumnPropNameInRow="apell_jdr" msprop:Generator_ColumnPropNameInTable="apell_jdrColumn" msprop:Generator_UserColumnName="apell_jdr">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="25" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="gl_dptd" msprop:Generator_ColumnVarNameInTable="columngl_dptd" msprop:Generator_ColumnPropNameInRow="gl_dptd" msprop:Generator_ColumnPropNameInTable="gl_dptdColumn" msprop:Generator_UserColumnName="gl_dptd" type="xs:int" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="dsListadoEmpleados2" msprop:Generator_TableClassName="dsListadoEmpleados2DataTable" msprop:Generator_TableVarName="tabledsListadoEmpleados2" msprop:Generator_RowChangedName="dsListadoEmpleados2RowChanged" msprop:Generator_TablePropName="dsListadoEmpleados2" msprop:Generator_RowDeletingName="dsListadoEmpleados2RowDeleting" msprop:Generator_RowChangingName="dsListadoEmpleados2RowChanging" msprop:Generator_RowEvHandlerName="dsListadoEmpleados2RowChangeEventHandler" msprop:Generator_RowDeletedName="dsListadoEmpleados2RowDeleted" msprop:Generator_RowClassName="dsListadoEmpleados2Row" msprop:Generator_UserTableName="dsListadoEmpleados2" msprop:Generator_RowEvArgName="dsListadoEmpleados2RowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="cod_emp" msprop:Generator_ColumnVarNameInTable="columncod_emp" msprop:Generator_ColumnPropNameInRow="cod_emp" msprop:Generator_ColumnPropNameInTable="cod_empColumn" msprop:Generator_UserColumnName="cod_emp" type="xs:int" />
+              <xs:element name="tipo_temp" msprop:Generator_ColumnVarNameInTable="columntipo_temp" msprop:Generator_ColumnPropNameInRow="tipo_temp" msprop:Generator_ColumnPropNameInTable="tipo_tempColumn" msprop:Generator_UserColumnName="tipo_temp">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="25" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Expr1" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnExpr1" msprop:Generator_ColumnPropNameInRow="Expr1" msprop:Generator_ColumnPropNameInTable="Expr1Column" msprop:Generator_UserColumnName="Expr1" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="51" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="dire_emp" msprop:Generator_ColumnVarNameInTable="columndire_emp" msprop:Generator_ColumnPropNameInRow="dire_emp" msprop:Generator_ColumnPropNameInTable="dire_empColumn" msprop:Generator_UserColumnName="dire_emp">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="tel_emp" msprop:Generator_ColumnVarNameInTable="columntel_emp" msprop:Generator_ColumnPropNameInRow="tel_emp" msprop:Generator_ColumnPropNameInTable="tel_empColumn" msprop:Generator_UserColumnName="tel_emp" type="xs:int" />
+              <xs:element name="salario_emp" msprop:Generator_ColumnVarNameInTable="columnsalario_emp" msprop:Generator_ColumnPropNameInRow="salario_emp" msprop:Generator_ColumnPropNameInTable="salario_empColumn" msprop:Generator_UserColumnName="salario_emp" type="xs:float" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="dsEstadisticaEquipos" msprop:Generator_TableClassName="dsEstadisticaEquiposDataTable" msprop:Generator_TableVarName="tabledsEstadisticaEquipos" msprop:Generator_RowChangedName="dsEstadisticaEquiposRowChanged" msprop:Generator_TablePropName="dsEstadisticaEquipos" msprop:Generator_RowDeletingName="dsEstadisticaEquiposRowDeleting" msprop:Generator_RowChangingName="dsEstadisticaEquiposRowChanging" msprop:Generator_RowEvHandlerName="dsEstadisticaEquiposRowChangeEventHandler" msprop:Generator_RowDeletedName="dsEstadisticaEquiposRowDeleted" msprop:Generator_RowClassName="dsEstadisticaEquiposRow" msprop:Generator_UserTableName="dsEstadisticaEquipos" msprop:Generator_RowEvArgName="dsEstadisticaEquiposRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="nom_eqp" msprop:Generator_ColumnVarNameInTable="columnnom_eqp" msprop:Generator_ColumnPropNameInRow="nom_eqp" msprop:Generator_ColumnPropNameInTable="nom_eqpColumn" msprop:Generator_UserColumnName="nom_eqp">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="25" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="pj_dcamp" msprop:Generator_ColumnVarNameInTable="columnpj_dcamp" msprop:Generator_ColumnPropNameInRow="pj_dcamp" msprop:Generator_ColumnPropNameInTable="pj_dcampColumn" msprop:Generator_UserColumnName="pj_dcamp" type="xs:int" />
+              <xs:element name="pg_dcamp" msprop:Generator_ColumnVarNameInTable="columnpg_dcamp" msprop:Generator_ColumnPropNameInRow="pg_dcamp" msprop:Generator_ColumnPropNameInTable="pg_dcampColumn" msprop:Generator_UserColumnName="pg_dcamp" type="xs:int" />
+              <xs:element name="pe_dcamp" msprop:Generator_ColumnVarNameInTable="columnpe_dcamp" msprop:Generator_ColumnPropNameInRow="pe_dcamp" msprop:Generator_ColumnPropNameInTable="pe_dcampColumn" msprop:Generator_UserColumnName="pe_dcamp" type="xs:int" />
+              <xs:element name="pp_dcamp" msprop:Generator_ColumnVarNameInTable="columnpp_dcamp" msprop:Generator_ColumnPropNameInRow="pp_dcamp" msprop:Generator_ColumnPropNameInTable="pp_dcampColumn" msprop:Generator_UserColumnName="pp_dcamp" type="xs:int" />
+              <xs:element name="gf_dcamp" msprop:Generator_ColumnVarNameInTable="columngf_dcamp" msprop:Generator_ColumnPropNameInRow="gf_dcamp" msprop:Generator_ColumnPropNameInTable="gf_dcampColumn" msprop:Generator_UserColumnName="gf_dcamp" type="xs:int" />
+              <xs:element name="gc_dcamp" msprop:Generator_ColumnVarNameInTable="columngc_dcamp" msprop:Generator_ColumnPropNameInRow="gc_dcamp" msprop:Generator_ColumnPropNameInTable="gc_dcampColumn" msprop:Generator_UserColumnName="gc_dcamp" type="xs:int" />
+              <xs:element name="dg" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columndg" msprop:Generator_ColumnPropNameInRow="dg" msprop:Generator_ColumnPropNameInTable="dgColumn" msprop:Generator_UserColumnName="dg" type="xs:long" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1">
+      <xs:selector xpath=".//mstns:dsListadoEventos" />
+      <xs:field xpath="mstns:cod_ctrl" />
+    </xs:unique>
+    <xs:unique name="dsPartidoLocal_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:dsPartidoLocal" />
+      <xs:field xpath="mstns:cod_jdr" />
+    </xs:unique>
+    <xs:unique name="dsPartidoVisitante_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:dsPartidoVisitante" />
+      <xs:field xpath="mstns:cod_jdr" />
+    </xs:unique>
+    <xs:unique name="dsListadoEmpleados_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:dsListadoEmpleados" />
+      <xs:field xpath="mstns:cod_emp" />
+    </xs:unique>
+    <xs:unique name="dsListadoJugadores_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:dsListadoJugadores" />
+      <xs:field xpath="mstns:cod_jdr" />
+    </xs:unique>
+    <xs:unique name="dsListadoTipoEmpleados_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:dsListadoTipoEmpleados" />
+      <xs:field xpath="mstns:cod_temp" />
+    </xs:unique>
+    <xs:unique name="dsListadoNiveles_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:dsListadoNiveles" />
+      <xs:field xpath="mstns:cod_nvl" />
+    </xs:unique>
+    <xs:unique name="dsListadoUsuarios_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:dsListadoUsuarios" />
+      <xs:field xpath="mstns:cod_usr" />
+    </xs:unique>
+    <xs:unique name="dsListadoCanchas_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:dsListadoCanchas" />
+      <xs:field xpath="mstns:cod_cha" />
+    </xs:unique>
+    <xs:unique name="dsListadoEquiposDisponibles_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:dsListadoEquiposDisponibles" />
+      <xs:field xpath="mstns:cod_eqp" />
+    </xs:unique>
+    <xs:unique name="dsListadoJugadoresDisponibles_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:dsListadoJugadoresDisponibles" />
+      <xs:field xpath="mstns:cod_jdr" />
+    </xs:unique>
+    <xs:unique name="dsListadoCampeonatos_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:dsListadoCampeonatos" />
+      <xs:field xpath="mstns:cod_camp" />
+    </xs:unique>
+    <xs:unique name="dsListadoPartidos_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:dsListadoPartidos" />
+      <xs:field xpath="mstns:cod_ptd" />
+      <xs:field xpath="mstns:cod_eqp" />
+      <xs:field xpath="mstns:Expr2" />
+    </xs:unique>
+    <xs:unique name="dsListadoEmpleados2_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:dsListadoEmpleados2" />
+      <xs:field xpath="mstns:cod_emp" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

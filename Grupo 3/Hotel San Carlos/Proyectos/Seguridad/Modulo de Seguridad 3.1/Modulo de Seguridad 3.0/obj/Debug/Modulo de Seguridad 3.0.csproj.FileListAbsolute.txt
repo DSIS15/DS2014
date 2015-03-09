@@ -1,0 +1,42 @@
+C:\Users\miniKiraPortatil\Documents\Visual Studio 2013\Projects\Modulo de Seguridad 3.0\Modulo de Seguridad 3.0\obj\Debug\Modulo_de_Seguridad_3._0.Presentacion.wfCuenta.resources
+C:\Users\miniKiraPortatil\Documents\Visual Studio 2013\Projects\Modulo de Seguridad 3.0\Modulo de Seguridad 3.0\obj\Debug\Modulo_de_Seguridad_3._0.Presentacion.wfInicioSesion.resources
+C:\Users\miniKiraPortatil\Documents\Visual Studio 2013\Projects\Modulo de Seguridad 3.0\Modulo de Seguridad 3.0\obj\Debug\Modulo_de_Seguridad_3._0.Presentacion.wfRecuperarPass.resources
+C:\Users\miniKiraPortatil\Documents\Visual Studio 2013\Projects\Modulo de Seguridad 3.0\Modulo de Seguridad 3.0\obj\Debug\Modulo_de_Seguridad_3._0.Properties.Resources.resources
+C:\Users\miniKiraPortatil\Documents\Visual Studio 2013\Projects\Modulo de Seguridad 3.0\Modulo de Seguridad 3.0\obj\Debug\Modulo de Seguridad 3.0.csproj.GenerateResource.Cache
+C:\Users\miniKiraPortatil\Documents\Visual Studio 2013\Projects\Modulo de Seguridad 3.0\Modulo de Seguridad 3.0\bin\Debug\Modulo de Seguridad 3.0.dll
+C:\Users\miniKiraPortatil\Documents\Visual Studio 2013\Projects\Modulo de Seguridad 3.0\Modulo de Seguridad 3.0\bin\Debug\Modulo de Seguridad 3.0.pdb
+C:\Users\miniKiraPortatil\Documents\Visual Studio 2013\Projects\Modulo de Seguridad 3.0\Modulo de Seguridad 3.0\bin\Debug\ODBCconnector.dll
+C:\Users\miniKiraPortatil\Documents\Visual Studio 2013\Projects\Modulo de Seguridad 3.0\Modulo de Seguridad 3.0\bin\Debug\ODBCconnector.pdb
+C:\Users\miniKiraPortatil\Documents\Visual Studio 2013\Projects\Modulo de Seguridad 3.0\Modulo de Seguridad 3.0\obj\Debug\Modulo de Seguridad 3.0.dll
+C:\Users\miniKiraPortatil\Documents\Visual Studio 2013\Projects\Modulo de Seguridad 3.0\Modulo de Seguridad 3.0\obj\Debug\Modulo de Seguridad 3.0.pdb
+C:\Users\miniKiraPortatil\Documents\Visual Studio 2013\Projects\Modulo de Seguridad 3.0\Modulo de Seguridad 3.0\bin\Debug\EnvioCorreos.dll
+C:\Users\miniKiraPortatil\Documents\Visual Studio 2013\Projects\Modulo de Seguridad 3.0\Modulo de Seguridad 3.0\bin\Debug\EnvioCorreos.pdb
+C:\Users\miniKiraPortatil\Documents\GitHub\Seguridad\Proyectos y Pruebas\Modulo de Seguridad 3.0\Modulo de Seguridad 3.0\Modulo de Seguridad 3.0\bin\Debug\Modulo de Seguridad 3.0.dll
+C:\Users\miniKiraPortatil\Documents\GitHub\Seguridad\Proyectos y Pruebas\Modulo de Seguridad 3.0\Modulo de Seguridad 3.0\Modulo de Seguridad 3.0\bin\Debug\Modulo de Seguridad 3.0.pdb
+C:\Users\miniKiraPortatil\Documents\GitHub\Seguridad\Proyectos y Pruebas\Modulo de Seguridad 3.0\Modulo de Seguridad 3.0\Modulo de Seguridad 3.0\obj\Debug\Modulo_de_Seguridad_3._0.Presentacion.wfCuenta.resources
+C:\Users\miniKiraPortatil\Documents\GitHub\Seguridad\Proyectos y Pruebas\Modulo de Seguridad 3.0\Modulo de Seguridad 3.0\Modulo de Seguridad 3.0\obj\Debug\Modulo_de_Seguridad_3._0.Presentacion.wfInicioSesion.resources
+C:\Users\miniKiraPortatil\Documents\GitHub\Seguridad\Proyectos y Pruebas\Modulo de Seguridad 3.0\Modulo de Seguridad 3.0\Modulo de Seguridad 3.0\obj\Debug\Modulo_de_Seguridad_3._0.Presentacion.wfRecuperarPass.resources
+C:\Users\miniKiraPortatil\Documents\GitHub\Seguridad\Proyectos y Pruebas\Modulo de Seguridad 3.0\Modulo de Seguridad 3.0\Modulo de Seguridad 3.0\obj\Debug\Modulo_de_Seguridad_3._0.Properties.Resources.resources
+C:\Users\miniKiraPortatil\Documents\GitHub\Seguridad\Proyectos y Pruebas\Modulo de Seguridad 3.0\Modulo de Seguridad 3.0\Modulo de Seguridad 3.0\obj\Debug\Modulo de Seguridad 3.0.csproj.GenerateResource.Cache
+C:\Users\miniKiraPortatil\Documents\GitHub\Seguridad\Proyectos y Pruebas\Modulo de Seguridad 3.0\Modulo de Seguridad 3.0\Modulo de Seguridad 3.0\obj\Debug\Modulo de Seguridad 3.0.dll
+C:\Users\miniKiraPortatil\Documents\GitHub\Seguridad\Proyectos y Pruebas\Modulo de Seguridad 3.0\Modulo de Seguridad 3.0\Modulo de Seguridad 3.0\obj\Debug\Modulo de Seguridad 3.0.pdb
+C:\Users\Marlon Aldana\Desktop\Proyectos\Seguridad\Modulo de Seguridad 3.1\Modulo de Seguridad 3.0\bin\Debug\Modulo de Seguridad 3.0.dll
+C:\Users\Marlon Aldana\Desktop\Proyectos\Seguridad\Modulo de Seguridad 3.1\Modulo de Seguridad 3.0\bin\Debug\Modulo de Seguridad 3.0.pdb
+C:\Users\Marlon Aldana\Desktop\Proyectos\Seguridad\Modulo de Seguridad 3.1\Modulo de Seguridad 3.0\obj\Debug\Modulo de Seguridad 3.0.csprojResolveAssemblyReference.cache
+C:\Users\Marlon Aldana\Desktop\Proyectos\Seguridad\Modulo de Seguridad 3.1\Modulo de Seguridad 3.0\obj\Debug\Modulo_de_Seguridad_3._0.Presentacion.wfCuenta.resources
+C:\Users\Marlon Aldana\Desktop\Proyectos\Seguridad\Modulo de Seguridad 3.1\Modulo de Seguridad 3.0\obj\Debug\Modulo_de_Seguridad_3._0.Presentacion.wfInicioSesion.resources
+C:\Users\Marlon Aldana\Desktop\Proyectos\Seguridad\Modulo de Seguridad 3.1\Modulo de Seguridad 3.0\obj\Debug\Modulo_de_Seguridad_3._0.Presentacion.wfRecuperarPass.resources
+C:\Users\Marlon Aldana\Desktop\Proyectos\Seguridad\Modulo de Seguridad 3.1\Modulo de Seguridad 3.0\obj\Debug\Modulo_de_Seguridad_3._0.Properties.Resources.resources
+C:\Users\Marlon Aldana\Desktop\Proyectos\Seguridad\Modulo de Seguridad 3.1\Modulo de Seguridad 3.0\obj\Debug\Modulo de Seguridad 3.0.csproj.GenerateResource.Cache
+C:\Users\Marlon Aldana\Desktop\Proyectos\Seguridad\Modulo de Seguridad 3.1\Modulo de Seguridad 3.0\obj\Debug\Modulo de Seguridad 3.0.dll
+C:\Users\Marlon Aldana\Desktop\Proyectos\Seguridad\Modulo de Seguridad 3.1\Modulo de Seguridad 3.0\obj\Debug\Modulo de Seguridad 3.0.pdb
+C:\Users\Anthony\Documents\UMG\Cycles\8th. Cycle\Diseño de Sistemas\HotelSanCarlos\Proyectos\Seguridad\Modulo de Seguridad 3.1\Modulo de Seguridad 3.0\bin\Debug\Modulo de Seguridad 3.0.dll
+C:\Users\Anthony\Documents\UMG\Cycles\8th. Cycle\Diseño de Sistemas\HotelSanCarlos\Proyectos\Seguridad\Modulo de Seguridad 3.1\Modulo de Seguridad 3.0\bin\Debug\Modulo de Seguridad 3.0.pdb
+C:\Users\Anthony\Documents\UMG\Cycles\8th. Cycle\Diseño de Sistemas\HotelSanCarlos\Proyectos\Seguridad\Modulo de Seguridad 3.1\Modulo de Seguridad 3.0\obj\Debug\Modulo de Seguridad 3.0.csprojResolveAssemblyReference.cache
+C:\Users\Anthony\Documents\UMG\Cycles\8th. Cycle\Diseño de Sistemas\HotelSanCarlos\Proyectos\Seguridad\Modulo de Seguridad 3.1\Modulo de Seguridad 3.0\obj\Debug\Modulo_de_Seguridad_3._0.Presentacion.wfCuenta.resources
+C:\Users\Anthony\Documents\UMG\Cycles\8th. Cycle\Diseño de Sistemas\HotelSanCarlos\Proyectos\Seguridad\Modulo de Seguridad 3.1\Modulo de Seguridad 3.0\obj\Debug\Modulo_de_Seguridad_3._0.Presentacion.wfInicioSesion.resources
+C:\Users\Anthony\Documents\UMG\Cycles\8th. Cycle\Diseño de Sistemas\HotelSanCarlos\Proyectos\Seguridad\Modulo de Seguridad 3.1\Modulo de Seguridad 3.0\obj\Debug\Modulo_de_Seguridad_3._0.Presentacion.wfRecuperarPass.resources
+C:\Users\Anthony\Documents\UMG\Cycles\8th. Cycle\Diseño de Sistemas\HotelSanCarlos\Proyectos\Seguridad\Modulo de Seguridad 3.1\Modulo de Seguridad 3.0\obj\Debug\Modulo_de_Seguridad_3._0.Properties.Resources.resources
+C:\Users\Anthony\Documents\UMG\Cycles\8th. Cycle\Diseño de Sistemas\HotelSanCarlos\Proyectos\Seguridad\Modulo de Seguridad 3.1\Modulo de Seguridad 3.0\obj\Debug\Modulo de Seguridad 3.0.csproj.GenerateResource.Cache
+C:\Users\Anthony\Documents\UMG\Cycles\8th. Cycle\Diseño de Sistemas\HotelSanCarlos\Proyectos\Seguridad\Modulo de Seguridad 3.1\Modulo de Seguridad 3.0\obj\Debug\Modulo de Seguridad 3.0.dll
+C:\Users\Anthony\Documents\UMG\Cycles\8th. Cycle\Diseño de Sistemas\HotelSanCarlos\Proyectos\Seguridad\Modulo de Seguridad 3.1\Modulo de Seguridad 3.0\obj\Debug\Modulo de Seguridad 3.0.pdb

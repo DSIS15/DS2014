@@ -1,0 +1,19 @@
+c:\users\adavi\documents\visual studio 2013\Projects\ODBCconnector\ODBCconnector\obj\Debug\ODBCconnector.csprojResolveAssemblyReference.cache
+c:\users\adavi\documents\visual studio 2013\Projects\ODBCconnector\ODBCconnector\bin\Debug\ODBCconnector.dll
+c:\users\adavi\documents\visual studio 2013\Projects\ODBCconnector\ODBCconnector\bin\Debug\ODBCconnector.pdb
+c:\users\adavi\documents\visual studio 2013\Projects\ODBCconnector\ODBCconnector\obj\Debug\ODBCconnector.dll
+c:\users\adavi\documents\visual studio 2013\Projects\ODBCconnector\ODBCconnector\obj\Debug\ODBCconnector.pdb
+C:\Users\Adavi\Desktop\Proyectos\ODBCconnector\ODBCconnector\bin\Debug\ODBCconnector.dll
+C:\Users\Adavi\Desktop\Proyectos\ODBCconnector\ODBCconnector\bin\Debug\ODBCconnector.pdb
+C:\Users\Adavi\Desktop\Proyectos\ODBCconnector\ODBCconnector\obj\Debug\ODBCconnector.csprojResolveAssemblyReference.cache
+C:\Users\Adavi\Desktop\Proyectos\ODBCconnector\ODBCconnector\obj\Debug\ODBCconnector.dll
+C:\Users\Adavi\Desktop\Proyectos\ODBCconnector\ODBCconnector\obj\Debug\ODBCconnector.pdb
+C:\Users\miniKiraPortatil\Desktop\ODBCconnector v2.0\ODBCconnector\obj\Debug\ODBCconnector.dll
+C:\Users\miniKiraPortatil\Desktop\ODBCconnector v2.0\ODBCconnector\obj\Debug\ODBCconnector.pdb
+C:\Users\miniKiraPortatil\Desktop\ODBCconnector v2.0\ODBCconnector\bin\Debug\ODBCconnector.dll
+C:\Users\miniKiraPortatil\Desktop\ODBCconnector v2.0\ODBCconnector\bin\Debug\ODBCconnector.pdb
+C:\Users\miniKiraPortatil\Desktop\ODBCconnector\ODBCconnector\bin\Debug\ODBCconnector.dll
+C:\Users\miniKiraPortatil\Desktop\ODBCconnector\ODBCconnector\bin\Debug\ODBCconnector.pdb
+C:\Users\miniKiraPortatil\Desktop\ODBCconnector\ODBCconnector\obj\Debug\ODBCconnector.csprojResolveAssemblyReference.cache
+C:\Users\miniKiraPortatil\Desktop\ODBCconnector\ODBCconnector\obj\Debug\ODBCconnector.dll
+C:\Users\miniKiraPortatil\Desktop\ODBCconnector\ODBCconnector\obj\Debug\ODBCconnector.pdb

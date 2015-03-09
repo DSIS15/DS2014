@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{66DE3973-9586-498A-A3EF-E2817471831B}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Inventario</RootNamespace>
+    <AssemblyName>Inventario</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Facturacion">
+      <HintPath>..\..\Facturacion\Facturacion\bin\Debug\Facturacion.dll</HintPath>
+    </Reference>
+    <Reference Include="Navegador, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Navegador.dll</HintPath>
+    </Reference>
+    <Reference Include="ODBCconnector, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\ODBCconnector.dll</HintPath>
+    </Reference>
+    <Reference Include="Reporteador">
+      <HintPath>..\..\Reporteador\Reporteador\bin\Debug\Reporteador.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="csDatos.cs" />
+    <Compile Include="csEntidades.cs" />
+    <Compile Include="csNegocio.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="wfBodega.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="wfBodega.Designer.cs">
+      <DependentUpon>wfBodega.cs</DependentUpon>
+    </Compile>
+    <Compile Include="wfCatalogoProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="wfCatalogoProducto.Designer.cs">
+      <DependentUpon>wfCatalogoProducto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="wfDocumentos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="wfDocumentos.Designer.cs">
+      <DependentUpon>wfDocumentos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="wfSucursal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="wfSucursal.Designer.cs">
+      <DependentUpon>wfSucursal.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="wfBodega.resx">
+      <DependentUpon>wfBodega.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wfCatalogoProducto.resx">
+      <DependentUpon>wfCatalogoProducto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wfDocumentos.resx">
+      <DependentUpon>wfDocumentos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wfSucursal.resx">
+      <DependentUpon>wfSucursal.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

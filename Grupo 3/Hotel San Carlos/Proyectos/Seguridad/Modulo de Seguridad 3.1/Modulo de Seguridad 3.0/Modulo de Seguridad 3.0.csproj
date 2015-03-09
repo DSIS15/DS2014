@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DA4ECDFF-96F3-4FEE-AE3E-2D88AC1C634D}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Modulo_de_Seguridad_3._0</RootNamespace>
+    <AssemblyName>Modulo de Seguridad 3.0</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EnvioCorreos">
+      <HintPath>..\..\..\..\..\Desktop\EnvioCorreos\EnvioCorreos\bin\Debug\EnvioCorreos.dll</HintPath>
+    </Reference>
+    <Reference Include="ODBCconnector, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\GitHub\HotelSanCarlos\Proyectos\Objetos Comunes\ODBCconnector\ODBCconnector\bin\Debug\ODBCconnector.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Drawing.Design" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Datos\D_Conexion.cs" />
+    <Compile Include="Datos\D_ControlUsuario.cs" />
+    <Compile Include="Datos\D_InicioSesion.cs" />
+    <Compile Include="Entidades\E_Aplicaciones.cs" />
+    <Compile Include="Negocio\N_ControlesUsuario.cs" />
+    <Compile Include="Negocio\N_EnviarRecuperarPass.cs" />
+    <Compile Include="Negocio\N_InicioSesion.cs" />
+    <Compile Include="Entidades\E_DatosPublicos.cs" />
+    <Compile Include="Entidades\E_Perfil.cs" />
+    <Compile Include="Entidades\E_Usuario.cs" />
+    <Compile Include="Presentacion\wfCuenta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\wfCuenta.Designer.cs">
+      <DependentUpon>wfCuenta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\wfInicioSesion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\wfInicioSesion.Designer.cs">
+      <DependentUpon>wfInicioSesion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\wfRecuperarPass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\wfRecuperarPass.Designer.cs">
+      <DependentUpon>wfRecuperarPass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Presentacion\wfCuenta.resx">
+      <DependentUpon>wfCuenta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\wfInicioSesion.resx">
+      <DependentUpon>wfInicioSesion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\wfRecuperarPass.resx">
+      <DependentUpon>wfRecuperarPass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logosancarlos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Engranaje.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GreenPoint.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GuardarSalir.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RedPoint.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UserDefault.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

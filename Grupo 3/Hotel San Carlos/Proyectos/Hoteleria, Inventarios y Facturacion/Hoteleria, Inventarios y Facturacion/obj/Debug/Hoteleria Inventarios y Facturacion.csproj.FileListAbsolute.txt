@@ -1,0 +1,189 @@
+c:\users\adavi\documents\visual studio 2013\Projects\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Hoteleria Inventarios y Facturacion.exe.config
+c:\users\adavi\documents\visual studio 2013\Projects\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Hoteleria Inventarios y Facturacion.exe
+c:\users\adavi\documents\visual studio 2013\Projects\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Hoteleria Inventarios y Facturacion.pdb
+c:\users\adavi\documents\visual studio 2013\Projects\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\obj\Debug\Hoteleria__Inventarios_y_Facturacion.Form1.resources
+c:\users\adavi\documents\visual studio 2013\Projects\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\obj\Debug\Hoteleria_Inventarios_y_Facturacion.Properties.Resources.resources
+c:\users\adavi\documents\visual studio 2013\Projects\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\obj\Debug\Hoteleria__Inventarios_y_Facturacion.wfAcercaDe.resources
+c:\users\adavi\documents\visual studio 2013\Projects\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\obj\Debug\Hoteleria Inventarios y Facturacion.csproj.GenerateResource.Cache
+c:\users\adavi\documents\visual studio 2013\Projects\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\obj\Debug\Hoteleria Inventarios y Facturacion.exe
+c:\users\adavi\documents\visual studio 2013\Projects\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\obj\Debug\Hoteleria Inventarios y Facturacion.pdb
+C:\Users\Adavi\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Hoteleria Inventarios y Facturacion.exe.config
+C:\Users\Adavi\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\obj\Debug\Hoteleria Inventarios y Facturacion.exe
+C:\Users\Adavi\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\obj\Debug\Hoteleria Inventarios y Facturacion.pdb
+C:\Users\Adavi\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Hoteleria Inventarios y Facturacion.exe
+C:\Users\Adavi\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Hoteleria Inventarios y Facturacion.pdb
+C:\Users\Adavi\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Facturacion.dll
+C:\Users\Adavi\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Hoteleria.dll
+C:\Users\Adavi\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Navegador.dll
+C:\Users\Adavi\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\ODBCconnector.dll
+C:\Users\Adavi\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Facturacion.pdb
+C:\Users\Adavi\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Hoteleria.pdb
+C:\Users\Adavi\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Navegador.pdb
+C:\Users\Adavi\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\ODBCconnector.pdb
+C:\Users\Adavi\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\obj\Debug\Hoteleria Inventarios y Facturacion.csprojResolveAssemblyReference.cache
+C:\Users\Adavi\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\obj\Debug\Hoteleria_Inventarios_y_Facturacion.Properties.Resources.resources
+C:\Users\Adavi\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\obj\Debug\Hoteleria Inventarios y Facturacion.csproj.GenerateResource.Cache
+C:\Users\Adavi\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\obj\Debug\Hoteleria_Inventarios_y_Facturacion.wfAcercaDe.resources
+C:\Users\Adavi\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\obj\Debug\Hoteleria_Inventarios_y_Facturacion.HoteleriaInventariosFacturacion.resources
+C:\Users\Adavi\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Inventario.dll
+C:\Users\Adavi\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Inventario.pdb
+C:\Users\marlon\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Hoteleria Inventarios y Facturacion.exe.config
+C:\Users\marlon\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\obj\Debug\Hoteleria Inventarios y Facturacion.exe
+C:\Users\marlon\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\obj\Debug\Hoteleria Inventarios y Facturacion.pdb
+C:\Users\marlon\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Hoteleria Inventarios y Facturacion.exe
+C:\Users\marlon\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Hoteleria Inventarios y Facturacion.pdb
+C:\Users\marlon\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Facturacion.dll
+C:\Users\marlon\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Hoteleria.dll
+C:\Users\marlon\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Inventario.dll
+C:\Users\marlon\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Navegador.dll
+C:\Users\marlon\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\ODBCconnector.dll
+C:\Users\marlon\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Facturacion.pdb
+C:\Users\marlon\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Hoteleria.pdb
+C:\Users\marlon\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Inventario.pdb
+C:\Users\marlon\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Navegador.pdb
+C:\Users\marlon\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\ODBCconnector.pdb
+C:\Users\marlon\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\obj\Debug\Hoteleria Inventarios y Facturacion.csprojResolveAssemblyReference.cache
+C:\Users\marlon\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\obj\Debug\Hoteleria_Inventarios_y_Facturacion.HoteleriaInventariosFacturacion.resources
+C:\Users\marlon\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\obj\Debug\Hoteleria_Inventarios_y_Facturacion.Properties.Resources.resources
+C:\Users\marlon\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\obj\Debug\Hoteleria_Inventarios_y_Facturacion.wfAcercaDe.resources
+C:\Users\marlon\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\obj\Debug\Hoteleria Inventarios y Facturacion.csproj.GenerateResource.Cache
+C:\Users\Andrea\Documents\U\8ciclo\DiseñoDeSistemas\HotelSanCarlos\Proyectos\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Hoteleria Inventarios y Facturacion.exe.config
+C:\Users\Andrea\Documents\U\8ciclo\DiseñoDeSistemas\HotelSanCarlos\Proyectos\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\obj\Debug\Hoteleria Inventarios y Facturacion.exe
+C:\Users\Andrea\Documents\U\8ciclo\DiseñoDeSistemas\HotelSanCarlos\Proyectos\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\obj\Debug\Hoteleria Inventarios y Facturacion.pdb
+C:\Users\Andrea\Documents\U\8ciclo\DiseñoDeSistemas\HotelSanCarlos\Proyectos\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Hoteleria Inventarios y Facturacion.exe
+C:\Users\Andrea\Documents\U\8ciclo\DiseñoDeSistemas\HotelSanCarlos\Proyectos\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Hoteleria Inventarios y Facturacion.pdb
+C:\Users\Andrea\Documents\U\8ciclo\DiseñoDeSistemas\HotelSanCarlos\Proyectos\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Facturacion.dll
+C:\Users\Andrea\Documents\U\8ciclo\DiseñoDeSistemas\HotelSanCarlos\Proyectos\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Hoteleria.dll
+C:\Users\Andrea\Documents\U\8ciclo\DiseñoDeSistemas\HotelSanCarlos\Proyectos\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Inventario.dll
+C:\Users\Andrea\Documents\U\8ciclo\DiseñoDeSistemas\HotelSanCarlos\Proyectos\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Navegador.dll
+C:\Users\Andrea\Documents\U\8ciclo\DiseñoDeSistemas\HotelSanCarlos\Proyectos\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\ODBCconnector.dll
+C:\Users\Andrea\Documents\U\8ciclo\DiseñoDeSistemas\HotelSanCarlos\Proyectos\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Facturacion.pdb
+C:\Users\Andrea\Documents\U\8ciclo\DiseñoDeSistemas\HotelSanCarlos\Proyectos\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Hoteleria.pdb
+C:\Users\Andrea\Documents\U\8ciclo\DiseñoDeSistemas\HotelSanCarlos\Proyectos\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Inventario.pdb
+C:\Users\Andrea\Documents\U\8ciclo\DiseñoDeSistemas\HotelSanCarlos\Proyectos\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Navegador.pdb
+C:\Users\Andrea\Documents\U\8ciclo\DiseñoDeSistemas\HotelSanCarlos\Proyectos\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\ODBCconnector.pdb
+C:\Users\Andrea\Documents\U\8ciclo\DiseñoDeSistemas\HotelSanCarlos\Proyectos\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\obj\Debug\Hoteleria Inventarios y Facturacion.csprojResolveAssemblyReference.cache
+C:\Users\Andrea\Documents\U\8ciclo\DiseñoDeSistemas\HotelSanCarlos\Proyectos\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\obj\Debug\Hoteleria_Inventarios_y_Facturacion.HoteleriaInventariosFacturacion.resources
+C:\Users\Andrea\Documents\U\8ciclo\DiseñoDeSistemas\HotelSanCarlos\Proyectos\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\obj\Debug\Hoteleria_Inventarios_y_Facturacion.Properties.Resources.resources
+C:\Users\Andrea\Documents\U\8ciclo\DiseñoDeSistemas\HotelSanCarlos\Proyectos\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\obj\Debug\Hoteleria_Inventarios_y_Facturacion.wfAcercaDe.resources
+C:\Users\Andrea\Documents\U\8ciclo\DiseñoDeSistemas\HotelSanCarlos\Proyectos\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\obj\Debug\Hoteleria Inventarios y Facturacion.csproj.GenerateResource.Cache
+C:\Users\Adavi\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\obj\Debug\Hoteleria_Inventarios_y_Facturacion.wfLogoHSC.resources
+C:\Users\Jennifer\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Hoteleria Inventarios y Facturacion.exe.config
+C:\Users\Jennifer\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\obj\Debug\Hoteleria Inventarios y Facturacion.exe
+C:\Users\Jennifer\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\obj\Debug\Hoteleria Inventarios y Facturacion.pdb
+C:\Users\Jennifer\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Hoteleria Inventarios y Facturacion.exe
+C:\Users\Jennifer\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Hoteleria Inventarios y Facturacion.pdb
+C:\Users\Jennifer\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Facturacion.dll
+C:\Users\Jennifer\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Hoteleria.dll
+C:\Users\Jennifer\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Inventario.dll
+C:\Users\Jennifer\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Navegador.dll
+C:\Users\Jennifer\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\ODBCconnector.dll
+C:\Users\Jennifer\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Facturacion.pdb
+C:\Users\Jennifer\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Hoteleria.pdb
+C:\Users\Jennifer\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Inventario.pdb
+C:\Users\Jennifer\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Navegador.pdb
+C:\Users\Jennifer\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\ODBCconnector.pdb
+C:\Users\Jennifer\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\obj\Debug\Hoteleria Inventarios y Facturacion.csprojResolveAssemblyReference.cache
+C:\Users\Jennifer\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\obj\Debug\Hoteleria_Inventarios_y_Facturacion.HoteleriaInventariosFacturacion.resources
+C:\Users\Jennifer\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\obj\Debug\Hoteleria_Inventarios_y_Facturacion.Properties.Resources.resources
+C:\Users\Jennifer\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\obj\Debug\Hoteleria_Inventarios_y_Facturacion.wfAcercaDe.resources
+C:\Users\Jennifer\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\obj\Debug\Hoteleria_Inventarios_y_Facturacion.wfLogoHSC.resources
+C:\Users\Jennifer\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\obj\Debug\Hoteleria Inventarios y Facturacion.csproj.GenerateResource.Cache
+C:\Users\Adavi\Desktop\Proyectos (Hoteleria)\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Hoteleria Inventarios y Facturacion.exe.config
+C:\Users\Adavi\Desktop\Proyectos (Hoteleria)\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\obj\Debug\Hoteleria Inventarios y Facturacion.exe
+C:\Users\Adavi\Desktop\Proyectos (Hoteleria)\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\obj\Debug\Hoteleria Inventarios y Facturacion.pdb
+C:\Users\Adavi\Desktop\Proyectos (Hoteleria)\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Hoteleria Inventarios y Facturacion.exe
+C:\Users\Adavi\Desktop\Proyectos (Hoteleria)\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Hoteleria Inventarios y Facturacion.pdb
+C:\Users\Adavi\Desktop\Proyectos (Hoteleria)\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Facturacion.dll
+C:\Users\Adavi\Desktop\Proyectos (Hoteleria)\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Hoteleria.dll
+C:\Users\Adavi\Desktop\Proyectos (Hoteleria)\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Inventario.dll
+C:\Users\Adavi\Desktop\Proyectos (Hoteleria)\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Navegador.dll
+C:\Users\Adavi\Desktop\Proyectos (Hoteleria)\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\ODBCconnector.dll
+C:\Users\Adavi\Desktop\Proyectos (Hoteleria)\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Facturacion.pdb
+C:\Users\Adavi\Desktop\Proyectos (Hoteleria)\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Hoteleria.pdb
+C:\Users\Adavi\Desktop\Proyectos (Hoteleria)\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Inventario.pdb
+C:\Users\Adavi\Desktop\Proyectos (Hoteleria)\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Navegador.pdb
+C:\Users\Adavi\Desktop\Proyectos (Hoteleria)\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\ODBCconnector.pdb
+C:\Users\Adavi\Desktop\Proyectos (Hoteleria)\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\obj\Debug\Hoteleria Inventarios y Facturacion.csprojResolveAssemblyReference.cache
+C:\Users\Adavi\Desktop\Proyectos (Hoteleria)\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\obj\Debug\Hoteleria_Inventarios_y_Facturacion.HoteleriaInventariosFacturacion.resources
+C:\Users\Adavi\Desktop\Proyectos (Hoteleria)\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\obj\Debug\Hoteleria_Inventarios_y_Facturacion.Properties.Resources.resources
+C:\Users\Adavi\Desktop\Proyectos (Hoteleria)\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\obj\Debug\Hoteleria_Inventarios_y_Facturacion.wfAcercaDe.resources
+C:\Users\Adavi\Desktop\Proyectos (Hoteleria)\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\obj\Debug\Hoteleria_Inventarios_y_Facturacion.wfLogoHSC.resources
+C:\Users\Adavi\Desktop\Proyectos (Hoteleria)\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\obj\Debug\Hoteleria Inventarios y Facturacion.csproj.GenerateResource.Cache
+C:\Users\marlon\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\obj\Debug\Hoteleria_Inventarios_y_Facturacion.wfLogoHSC.resources
+C:\Users\alumno\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Hoteleria Inventarios y Facturacion.exe.config
+C:\Users\alumno\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\obj\Debug\Hoteleria Inventarios y Facturacion.exe
+C:\Users\alumno\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\obj\Debug\Hoteleria Inventarios y Facturacion.pdb
+C:\Users\alumno\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Hoteleria Inventarios y Facturacion.exe
+C:\Users\alumno\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Hoteleria Inventarios y Facturacion.pdb
+C:\Users\alumno\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Facturacion.dll
+C:\Users\alumno\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Hoteleria.dll
+C:\Users\alumno\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Inventario.dll
+C:\Users\alumno\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Navegador.dll
+C:\Users\alumno\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\ODBCconnector.dll
+C:\Users\alumno\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Facturacion.pdb
+C:\Users\alumno\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Hoteleria.pdb
+C:\Users\alumno\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Inventario.pdb
+C:\Users\alumno\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Navegador.pdb
+C:\Users\alumno\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\ODBCconnector.pdb
+C:\Users\alumno\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\obj\Debug\Hoteleria Inventarios y Facturacion.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\obj\Debug\Hoteleria_Inventarios_y_Facturacion.HoteleriaInventariosFacturacion.resources
+C:\Users\alumno\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\obj\Debug\Hoteleria_Inventarios_y_Facturacion.Properties.Resources.resources
+C:\Users\alumno\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\obj\Debug\Hoteleria_Inventarios_y_Facturacion.wfAcercaDe.resources
+C:\Users\alumno\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\obj\Debug\Hoteleria_Inventarios_y_Facturacion.wfLogoHSC.resources
+C:\Users\alumno\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\obj\Debug\Hoteleria Inventarios y Facturacion.csproj.GenerateResource.Cache
+C:\Users\Andrea\Documents\U\8ciclo\DiseñoDeSistemas\HotelSanCarlos\Proyectos\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\obj\Debug\Hoteleria_Inventarios_y_Facturacion.wfLogoHSC.resources
+C:\Users\Adavi\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Reporteador.dll
+C:\Users\Adavi\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Reporteador.pdb
+C:\Users\Andrea\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Hoteleria Inventarios y Facturacion.exe.config
+C:\Users\Andrea\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\obj\Debug\Hoteleria Inventarios y Facturacion.exe
+C:\Users\Andrea\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\obj\Debug\Hoteleria Inventarios y Facturacion.pdb
+C:\Users\Andrea\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Hoteleria Inventarios y Facturacion.exe
+C:\Users\Andrea\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Hoteleria Inventarios y Facturacion.pdb
+C:\Users\Andrea\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Facturacion.dll
+C:\Users\Andrea\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Hoteleria.dll
+C:\Users\Andrea\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Inventario.dll
+C:\Users\Andrea\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Navegador.dll
+C:\Users\Andrea\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\ODBCconnector.dll
+C:\Users\Andrea\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Reporteador.dll
+C:\Users\Andrea\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Facturacion.pdb
+C:\Users\Andrea\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Hoteleria.pdb
+C:\Users\Andrea\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Inventario.pdb
+C:\Users\Andrea\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Navegador.pdb
+C:\Users\Andrea\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\ODBCconnector.pdb
+C:\Users\Andrea\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Reporteador.pdb
+C:\Users\Andrea\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\obj\Debug\Hoteleria Inventarios y Facturacion.csprojResolveAssemblyReference.cache
+C:\Users\Andrea\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\obj\Debug\Hoteleria_Inventarios_y_Facturacion.HoteleriaInventariosFacturacion.resources
+C:\Users\Andrea\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\obj\Debug\Hoteleria_Inventarios_y_Facturacion.Properties.Resources.resources
+C:\Users\Andrea\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\obj\Debug\Hoteleria_Inventarios_y_Facturacion.wfAcercaDe.resources
+C:\Users\Andrea\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\obj\Debug\Hoteleria_Inventarios_y_Facturacion.wfLogoHSC.resources
+C:\Users\Andrea\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\obj\Debug\Hoteleria Inventarios y Facturacion.csproj.GenerateResource.Cache
+C:\Users\Marlon Aldana\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Hoteleria Inventarios y Facturacion.exe.config
+C:\Users\Marlon Aldana\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Hoteleria Inventarios y Facturacion.exe
+C:\Users\Marlon Aldana\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Hoteleria Inventarios y Facturacion.pdb
+C:\Users\Marlon Aldana\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Facturacion.dll
+C:\Users\Marlon Aldana\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Hoteleria.dll
+C:\Users\Marlon Aldana\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Inventario.dll
+C:\Users\Marlon Aldana\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Modulo de Seguridad 3.0.dll
+C:\Users\Marlon Aldana\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Navegador.dll
+C:\Users\Marlon Aldana\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\ODBCconnector.dll
+C:\Users\Marlon Aldana\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Reporteador.dll
+C:\Users\Marlon Aldana\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\EnvioCorreos.dll
+C:\Users\Marlon Aldana\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Facturacion.pdb
+C:\Users\Marlon Aldana\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Hoteleria.pdb
+C:\Users\Marlon Aldana\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Inventario.pdb
+C:\Users\Marlon Aldana\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Modulo de Seguridad 3.0.pdb
+C:\Users\Marlon Aldana\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Navegador.pdb
+C:\Users\Marlon Aldana\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\ODBCconnector.pdb
+C:\Users\Marlon Aldana\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Reporteador.pdb
+C:\Users\Marlon Aldana\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\obj\Debug\Hoteleria_Inventarios_y_Facturacion.HoteleriaInventariosFacturacion.resources
+C:\Users\Marlon Aldana\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\obj\Debug\Hoteleria_Inventarios_y_Facturacion.Properties.Resources.resources
+C:\Users\Marlon Aldana\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\obj\Debug\Hoteleria_Inventarios_y_Facturacion.wfAcercaDe.resources
+C:\Users\Marlon Aldana\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\obj\Debug\Hoteleria_Inventarios_y_Facturacion.wfLogoHSC.resources
+C:\Users\Marlon Aldana\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\obj\Debug\Hoteleria Inventarios y Facturacion.csproj.GenerateResource.Cache
+C:\Users\Marlon Aldana\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\obj\Debug\Hoteleria Inventarios y Facturacion.exe
+C:\Users\Marlon Aldana\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\obj\Debug\Hoteleria Inventarios y Facturacion.pdb
+C:\Users\Marlon Aldana\Desktop\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\obj\Debug\Hoteleria Inventarios y Facturacion.csprojResolveAssemblyReference.cache
+C:\Users\Anthony\Documents\UMG\Cycles\8th. Cycle\Diseño de Sistemas\HotelSanCarlos\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\bin\Debug\Hoteleria Inventarios y Facturacion.exe.config
+C:\Users\Anthony\Documents\UMG\Cycles\8th. Cycle\Diseño de Sistemas\HotelSanCarlos\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\obj\Debug\Hoteleria Inventarios y Facturacion.exe
+C:\Users\Anthony\Documents\UMG\Cycles\8th. Cycle\Diseño de Sistemas\HotelSanCarlos\Proyectos\Hoteleria, Inventarios y Facturacion\Hoteleria, Inventarios y Facturacion\obj\Debug\Hoteleria Inventarios y Facturacion.pdb
