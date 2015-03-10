@@ -1,0 +1,21 @@
+c:\users\minikiraportatil\documents\visual studio 2013\Projects\PruebaSeguridad3\PruebaSeguridad3\bin\Debug\PruebaSeguridad3.exe.config
+C:\Users\miniKiraPortatil\Documents\Visual Studio 2013\Projects\PruebaSeguridad3\PruebaSeguridad3\bin\Debug\PruebaSeguridad3.exe
+C:\Users\miniKiraPortatil\Documents\Visual Studio 2013\Projects\PruebaSeguridad3\PruebaSeguridad3\bin\Debug\PruebaSeguridad3.pdb
+C:\Users\miniKiraPortatil\Documents\Visual Studio 2013\Projects\PruebaSeguridad3\PruebaSeguridad3\bin\Debug\Administrador.dll
+C:\Users\miniKiraPortatil\Documents\Visual Studio 2013\Projects\PruebaSeguridad3\PruebaSeguridad3\bin\Debug\Control de Usuario.dll
+C:\Users\miniKiraPortatil\Documents\Visual Studio 2013\Projects\PruebaSeguridad3\PruebaSeguridad3\bin\Debug\Modulo de Seguridad 3.0.dll
+C:\Users\miniKiraPortatil\Documents\Visual Studio 2013\Projects\PruebaSeguridad3\PruebaSeguridad3\bin\Debug\Navegador.dll
+C:\Users\miniKiraPortatil\Documents\Visual Studio 2013\Projects\PruebaSeguridad3\PruebaSeguridad3\bin\Debug\ODBCconnector.dll
+C:\Users\miniKiraPortatil\Documents\Visual Studio 2013\Projects\PruebaSeguridad3\PruebaSeguridad3\bin\Debug\Administrador.pdb
+C:\Users\miniKiraPortatil\Documents\Visual Studio 2013\Projects\PruebaSeguridad3\PruebaSeguridad3\bin\Debug\Control de Usuario.pdb
+C:\Users\miniKiraPortatil\Documents\Visual Studio 2013\Projects\PruebaSeguridad3\PruebaSeguridad3\bin\Debug\Modulo de Seguridad 3.0.pdb
+C:\Users\miniKiraPortatil\Documents\Visual Studio 2013\Projects\PruebaSeguridad3\PruebaSeguridad3\bin\Debug\Navegador.pdb
+C:\Users\miniKiraPortatil\Documents\Visual Studio 2013\Projects\PruebaSeguridad3\PruebaSeguridad3\bin\Debug\ODBCconnector.pdb
+C:\Users\miniKiraPortatil\Documents\Visual Studio 2013\Projects\PruebaSeguridad3\PruebaSeguridad3\obj\Debug\PruebaSeguridad3.csprojResolveAssemblyReference.cache
+C:\Users\miniKiraPortatil\Documents\Visual Studio 2013\Projects\PruebaSeguridad3\PruebaSeguridad3\obj\Debug\PruebaSeguridad3.wfMenuPrincipal.resources
+C:\Users\miniKiraPortatil\Documents\Visual Studio 2013\Projects\PruebaSeguridad3\PruebaSeguridad3\obj\Debug\PruebaSeguridad3.Properties.Resources.resources
+C:\Users\miniKiraPortatil\Documents\Visual Studio 2013\Projects\PruebaSeguridad3\PruebaSeguridad3\obj\Debug\PruebaSeguridad3.csproj.GenerateResource.Cache
+C:\Users\miniKiraPortatil\Documents\Visual Studio 2013\Projects\PruebaSeguridad3\PruebaSeguridad3\obj\Debug\PruebaSeguridad3.exe
+C:\Users\miniKiraPortatil\Documents\Visual Studio 2013\Projects\PruebaSeguridad3\PruebaSeguridad3\obj\Debug\PruebaSeguridad3.pdb
+C:\Users\miniKiraPortatil\Documents\Visual Studio 2013\Projects\PruebaSeguridad3\PruebaSeguridad3\bin\Debug\EnvioCorreos.dll
+C:\Users\miniKiraPortatil\Documents\Visual Studio 2013\Projects\PruebaSeguridad3\PruebaSeguridad3\bin\Debug\EnvioCorreos.pdb

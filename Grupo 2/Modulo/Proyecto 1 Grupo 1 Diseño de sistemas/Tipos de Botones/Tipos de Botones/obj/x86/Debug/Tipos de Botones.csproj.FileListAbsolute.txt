@@ -1,0 +1,9 @@
+C:\Users\Cesar Flores\Documents\Visual Studio 2010\Projects\Tipos de Botones\Tipos de Botones\bin\Debug\Tipos de Botones.exe
+C:\Users\Cesar Flores\Documents\Visual Studio 2010\Projects\Tipos de Botones\Tipos de Botones\bin\Debug\Tipos de Botones.pdb
+C:\Users\Cesar Flores\Documents\Visual Studio 2010\Projects\Tipos de Botones\Tipos de Botones\obj\x86\Debug\Tipos_de_Botones.Iconos.resources
+C:\Users\Cesar Flores\Documents\Visual Studio 2010\Projects\Tipos de Botones\Tipos de Botones\obj\x86\Debug\Tipos_de_Botones.Properties.Resources.resources
+C:\Users\Cesar Flores\Documents\Visual Studio 2010\Projects\Tipos de Botones\Tipos de Botones\obj\x86\Debug\Tipos de Botones.csproj.GenerateResource.Cache
+C:\Users\Cesar Flores\Documents\Visual Studio 2010\Projects\Tipos de Botones\Tipos de Botones\obj\x86\Debug\Tipos de Botones.exe
+C:\Users\Cesar Flores\Documents\Visual Studio 2010\Projects\Tipos de Botones\Tipos de Botones\obj\x86\Debug\Tipos de Botones.pdb
+C:\Users\OWNER\Documents\Visual Studio 2010\Projects\proyecto1grupo1\Tipos de Botones\Tipos de Botones\obj\x86\Debug\Tipos de Botones.exe
+C:\Users\OWNER\Documents\Visual Studio 2010\Projects\proyecto1grupo1\Tipos de Botones\Tipos de Botones\obj\x86\Debug\Tipos de Botones.pdb
